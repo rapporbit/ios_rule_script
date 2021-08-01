@@ -1,13 +1,13 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-07-27 02:06:41
+# UPDATED: 2021-08-02 02:06:38
 # DOMAIN: 46
-# DOMAIN-SUFFIX: 33460
+# DOMAIN-SUFFIX: 33464
 # DOMAIN-KEYWORD: 29
 # IP-CIDR: 88
 # IP-CIDR6: 3
-# TOTAL: 33626
+# TOTAL: 33630
 payload:
   - 'amp.akamaized.net'
   - 'apple.com.akadns.net'
@@ -10902,6 +10902,7 @@ payload:
   - '.ff766.net'
   - '.ffacebook.com'
   - '.fff36.net'
+  - '.fffdm.com'
   - '.fffff.at'
   - '.fflick.com'
   - '.fflnk.net'
@@ -11824,6 +11825,7 @@ payload:
   - '.fyt96.com'
   - '.fyxm.net'
   - '.fyy3368.com'
+  - '.fzdm.com'
   - '.fzh999.com'
   - '.fzh999.net'
   - '.fzlm.com'
@@ -27390,6 +27392,7 @@ payload:
   - '.wf.smathis.com'
   - '.wf22.ga'
   - '.wfc01.com'
+  - '.wfm.com'
   - '.wforum.com'
   - '.wfrick.net'
   - '.wfwp.org'
@@ -27437,6 +27440,7 @@ payload:
   - '.whoer.net'
   - '.whogovernstw.org'
   - '.wholecitiesfoundation.org'
+  - '.wholefoods.com'
   - '.wholefoodsmarket.com'
   - '.wholekidsfoundation.org'
   - '.wholeplanetfoundation.org'

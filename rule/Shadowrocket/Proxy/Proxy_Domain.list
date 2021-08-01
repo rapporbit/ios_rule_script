@@ -1,13 +1,13 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-07-27 02:06:42
+# UPDATED: 2021-08-02 02:06:38
 # DOMAIN: 46
-# DOMAIN-SUFFIX: 33460
+# DOMAIN-SUFFIX: 33464
 # USER-AGENT: 11
 # DOMAIN-KEYWORD: 29
 # IP-CIDR: 3
-# TOTAL: 33549
+# TOTAL: 33553
 amp.akamaized.net
 apple.com.akadns.net
 assets-priconne-redive-us.akamaized.net
@@ -10901,6 +10901,7 @@ www-cdn.icloud.com.akadns.net
 .ff766.net
 .ffacebook.com
 .fff36.net
+.fffdm.com
 .fffff.at
 .fflick.com
 .fflnk.net
@@ -11823,6 +11824,7 @@ www-cdn.icloud.com.akadns.net
 .fyt96.com
 .fyxm.net
 .fyy3368.com
+.fzdm.com
 .fzh999.com
 .fzh999.net
 .fzlm.com
@@ -27389,6 +27391,7 @@ www-cdn.icloud.com.akadns.net
 .wf.smathis.com
 .wf22.ga
 .wfc01.com
+.wfm.com
 .wforum.com
 .wfrick.net
 .wfwp.org
@@ -27436,6 +27439,7 @@ www-cdn.icloud.com.akadns.net
 .whoer.net
 .whogovernstw.org
 .wholecitiesfoundation.org
+.wholefoods.com
 .wholefoodsmarket.com
 .wholekidsfoundation.org
 .wholeplanetfoundation.org

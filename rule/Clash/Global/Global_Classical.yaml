@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-07-27 02:06:41
+# UPDATED: 2021-08-02 02:06:38
 # DOMAIN: 50
-# DOMAIN-SUFFIX: 33445
+# DOMAIN-SUFFIX: 33449
 # DOMAIN-KEYWORD: 41
 # IP-CIDR: 128
 # IP-CIDR6: 3
 # PROCESS-NAME: 1
-# TOTAL: 33668
+# TOTAL: 33672
 payload:
   - DOMAIN,amp.akamaized.net
   - DOMAIN,apple.com.akadns.net
@@ -10903,6 +10903,7 @@ payload:
   - DOMAIN-SUFFIX,ff766.net
   - DOMAIN-SUFFIX,ffacebook.com
   - DOMAIN-SUFFIX,fff36.net
+  - DOMAIN-SUFFIX,fffdm.com
   - DOMAIN-SUFFIX,fffff.at
   - DOMAIN-SUFFIX,fflick.com
   - DOMAIN-SUFFIX,fflnk.net
@@ -11827,6 +11828,7 @@ payload:
   - DOMAIN-SUFFIX,fyt96.com
   - DOMAIN-SUFFIX,fyxm.net
   - DOMAIN-SUFFIX,fyy3368.com
+  - DOMAIN-SUFFIX,fzdm.com
   - DOMAIN-SUFFIX,fzh999.com
   - DOMAIN-SUFFIX,fzh999.net
   - DOMAIN-SUFFIX,fzlm.com
@@ -27389,6 +27391,7 @@ payload:
   - DOMAIN-SUFFIX,wf.smathis.com
   - DOMAIN-SUFFIX,wf22.ga
   - DOMAIN-SUFFIX,wfc01.com
+  - DOMAIN-SUFFIX,wfm.com
   - DOMAIN-SUFFIX,wforum.com
   - DOMAIN-SUFFIX,wfrick.net
   - DOMAIN-SUFFIX,wfwp.org
@@ -27436,6 +27439,7 @@ payload:
   - DOMAIN-SUFFIX,whoer.net
   - DOMAIN-SUFFIX,whogovernstw.org
   - DOMAIN-SUFFIX,wholecitiesfoundation.org
+  - DOMAIN-SUFFIX,wholefoods.com
   - DOMAIN-SUFFIX,wholefoodsmarket.com
   - DOMAIN-SUFFIX,wholekidsfoundation.org
   - DOMAIN-SUFFIX,wholeplanetfoundation.org
