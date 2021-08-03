@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-08-03 02:07:04
-# DOMAIN: 20912
+# UPDATED: 2021-08-04 02:08:03
+# DOMAIN: 20924
 # DOMAIN-KEYWORD: 88
 # DOMAIN-SUFFIX: 49846
 # IP-CIDR: 241
 # IP-CIDR6: 1
-# TOTAL: 71088
+# TOTAL: 71100
 payload:
   - '0.nextyourcontent.com'
   - '0.up.qingdaonews.com'
@@ -818,6 +818,7 @@ payload:
   - 'aa-isp.actonsoftware.com'
   - 'aa.ayasafe.com'
   - 'aa.hxyzw.com'
+  - 'aaa520.izlinix.com'
   - 'aaafinancebd.com'
   - 'aaannuairex.com'
   - 'aaaurgentcare.net'
@@ -6230,6 +6231,7 @@ payload:
   - 'crownmehair.com'
   - 'crsafrica.com'
   - 'crt.comodoca.com'
+  - 'crunchmutt.com'
   - 'crush5media.com'
   - 'crushthecandy.com'
   - 'crux.songline.com'
@@ -8760,6 +8762,7 @@ payload:
   - 'games-hacks.com'
   - 'games-paradise.com'
   - 'games-solution.com'
+  - 'games-trick.com'
   - 'games-unlocked.com'
   - 'games.cityads.com'
   - 'games.movies-mania.com'
@@ -8780,6 +8783,7 @@ payload:
   - 'gameshackstools.com'
   - 'gameshacktool.com'
   - 'gameshackz.com'
+  - 'gamesharck.com'
   - 'gameshaxtools.com'
   - 'gamesisle.net'
   - 'gamesiteads.com'
@@ -11274,6 +11278,7 @@ payload:
   - 'kr.news-subscribe.com'
   - 'krakragames.com'
   - 'kraonkelaere.com'
+  - 'kreaffiliation.com'
   - 'krisbel.com'
   - 'krishanibd.com'
   - 'kromtech.net'
@@ -11346,6 +11351,7 @@ payload:
   - 'landing.meendo.com'
   - 'landingpage.novaonx.com'
   - 'landingpages.sunnytoolz.com'
+  - 'landisbaptist.com'
   - 'landoftracking.com'
   - 'landongs.posdone.com'
   - 'landrine.com'
@@ -11922,6 +11928,7 @@ payload:
   - 'lzrikate.com'
   - 'm-vali.cp31.ott.cibntv.net'
   - 'm.1234567.com.cn'
+  - 'm.78o5a.cn'
   - 'm.88viet.com'
   - 'm.8live.com'
   - 'm.amtmobi.com'
@@ -13332,6 +13339,7 @@ payload:
   - 'news-speaker.com'
   - 'news-whistleout.s3.amazonaws.com'
   - 'news.blis.com'
+  - 'news.nero-emea.com'
   - 'news.sla.org'
   - 'news.smi2.net'
   - 'news.vuukle.com'
@@ -18342,6 +18350,7 @@ payload:
   - 'towersbuild.sa.com'
   - 'townhall.weekendinc.com'
   - 'townofpetersburg.org'
+  - 'tp.domyjourney.cn'
   - 'tp.luolaibin.cn'
   - 'tpads.ovguide.com'
   - 'tpads.sv.publicus.com'
@@ -19490,6 +19499,7 @@ payload:
   - 'vmtvoting.com'
   - 'vn.alexajstrack.com'
   - 'vn.grab-credit4u.com'
+  - 'vnnimg.clsj365.com'
   - 'vns01444.com'
   - 'vns10555.com'
   - 'vns4390.com'
@@ -19507,6 +19517,7 @@ payload:
   - 'vnsrkhd.com'
   - 'vntanktransport.com'
   - 'vnu.eu-adcenter.net'
+  - 'vod.dgcaili.com'
   - 'vod.pk1173.com'
   - 'vodafone-de-care.inq.com'
   - 'vodafone.inq.com'
@@ -20726,6 +20737,7 @@ payload:
   - 'yxhd.hori-gz.com'
   - 'yxshengda.com'
   - 'yyjgift.com'
+  - 'yylimg.clsj365.com'
   - 'yyoutube.com'
   - 'yyy.pp1500.com'
   - 'z-na.amazon-adsystems.com'

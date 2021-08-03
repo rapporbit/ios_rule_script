@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-08-02 02:06:37
+# UPDATED: 2021-08-04 02:08:03
 # HOST: 50
-# HOST-SUFFIX: 33449
+# HOST-SUFFIX: 33451
 # USER-AGENT: 48
 # HOST-KEYWORD: 41
 # IP-CIDR: 128
 # IP6-CIDR: 3
-# TOTAL: 33719
+# TOTAL: 33721
 HOST,amp.akamaized.net,Global
 HOST,apple.com.akadns.net,Global
 HOST,assets-priconne-redive-us.akamaized.net,Global
@@ -4366,6 +4366,7 @@ HOST-SUFFIX,azerimix.com,Global
 HOST-SUFFIX,azirevpn.com,Global
 HOST-SUFFIX,azirevpn.net,Global
 HOST-SUFFIX,aznmovies.com,Global
+HOST-SUFFIX,aznude.com,Global
 HOST-SUFFIX,azproxies.com,Global
 HOST-SUFFIX,azubu.tv,Global
 HOST-SUFFIX,azure,Global
@@ -12791,6 +12792,7 @@ HOST-SUFFIX,googlelabs.com,Global
 HOST-SUFFIX,googlemail.com,Global
 HOST-SUFFIX,googlemaps.com,Global
 HOST-SUFFIX,googlemashups.com,Global
+HOST-SUFFIX,googleoptimize.com,Global
 HOST-SUFFIX,googlepagecreator.com,Global
 HOST-SUFFIX,googlephotos.com,Global
 HOST-SUFFIX,googleplay.com,Global
@@ -18807,6 +18809,7 @@ HOST-SUFFIX,naluone-av.com,Global
 HOST-SUFFIX,name.com,Global
 HOST-SUFFIX,namemybeats.com,Global
 HOST-SUFFIX,namepros.com,Global
+HOST-SUFFIX,namethatporn.com,Global
 HOST-SUFFIX,namethatpornstar.com,Global
 HOST-SUFFIX,namgyal.org,Global
 HOST-SUFFIX,namgyalmonastery.org,Global
@@ -28621,7 +28624,6 @@ HOST-SUFFIX,www.aykow.com,Global
 HOST-SUFFIX,www.ayx121.com,Global
 HOST-SUFFIX,www.azattyk.org,Global
 HOST-SUFFIX,www.azattyq.org,Global
-HOST-SUFFIX,www.aznude.com,Global
 HOST-SUFFIX,www.b1000.com,Global
 HOST-SUFFIX,www.b13.cc,Global
 HOST-SUFFIX,www.b16.bet,Global

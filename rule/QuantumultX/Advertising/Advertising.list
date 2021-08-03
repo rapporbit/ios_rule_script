@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-08-03 02:07:04
-# HOST: 20912
+# UPDATED: 2021-08-04 02:08:02
+# HOST: 20924
 # HOST-KEYWORD: 88
 # HOST-SUFFIX: 49846
 # IP-CIDR: 241
 # IP6-CIDR: 1
-# TOTAL: 71088
+# TOTAL: 71100
 HOST,0.nextyourcontent.com,Advertising
 HOST,0.up.qingdaonews.com,Advertising
 HOST,0001.2waky.com,Advertising
@@ -817,6 +817,7 @@ HOST,a9.news-subscribe.com,Advertising
 HOST,aa-isp.actonsoftware.com,Advertising
 HOST,aa.ayasafe.com,Advertising
 HOST,aa.hxyzw.com,Advertising
+HOST,aaa520.izlinix.com,Advertising
 HOST,aaafinancebd.com,Advertising
 HOST,aaannuairex.com,Advertising
 HOST,aaaurgentcare.net,Advertising
@@ -6229,6 +6230,7 @@ HOST,crowleyinstitute.com,Advertising
 HOST,crownmehair.com,Advertising
 HOST,crsafrica.com,Advertising
 HOST,crt.comodoca.com,Advertising
+HOST,crunchmutt.com,Advertising
 HOST,crush5media.com,Advertising
 HOST,crushthecandy.com,Advertising
 HOST,crux.songline.com,Advertising
@@ -8759,6 +8761,7 @@ HOST,games-hacked.com,Advertising
 HOST,games-hacks.com,Advertising
 HOST,games-paradise.com,Advertising
 HOST,games-solution.com,Advertising
+HOST,games-trick.com,Advertising
 HOST,games-unlocked.com,Advertising
 HOST,games.cityads.com,Advertising
 HOST,games.movies-mania.com,Advertising
@@ -8779,6 +8782,7 @@ HOST,gameshacksandcheats.com,Advertising
 HOST,gameshackstools.com,Advertising
 HOST,gameshacktool.com,Advertising
 HOST,gameshackz.com,Advertising
+HOST,gamesharck.com,Advertising
 HOST,gameshaxtools.com,Advertising
 HOST,gamesisle.net,Advertising
 HOST,gamesiteads.com,Advertising
@@ -11273,6 +11277,7 @@ HOST,kqyemarketplace.com,Advertising
 HOST,kr.news-subscribe.com,Advertising
 HOST,krakragames.com,Advertising
 HOST,kraonkelaere.com,Advertising
+HOST,kreaffiliation.com,Advertising
 HOST,krisbel.com,Advertising
 HOST,krishanibd.com,Advertising
 HOST,kromtech.net,Advertising
@@ -11345,6 +11350,7 @@ HOST,landground.com,Advertising
 HOST,landing.meendo.com,Advertising
 HOST,landingpage.novaonx.com,Advertising
 HOST,landingpages.sunnytoolz.com,Advertising
+HOST,landisbaptist.com,Advertising
 HOST,landoftracking.com,Advertising
 HOST,landongs.posdone.com,Advertising
 HOST,landrine.com,Advertising
@@ -11921,6 +11927,7 @@ HOST,lzpv4rsmat.com,Advertising
 HOST,lzrikate.com,Advertising
 HOST,m-vali.cp31.ott.cibntv.net,Advertising
 HOST,m.1234567.com.cn,Advertising
+HOST,m.78o5a.cn,Advertising
 HOST,m.88viet.com,Advertising
 HOST,m.8live.com,Advertising
 HOST,m.amtmobi.com,Advertising
@@ -13331,6 +13338,7 @@ HOST,news-report24.com,Advertising
 HOST,news-speaker.com,Advertising
 HOST,news-whistleout.s3.amazonaws.com,Advertising
 HOST,news.blis.com,Advertising
+HOST,news.nero-emea.com,Advertising
 HOST,news.sla.org,Advertising
 HOST,news.smi2.net,Advertising
 HOST,news.vuukle.com,Advertising
@@ -18341,6 +18349,7 @@ HOST,towerecords.com,Advertising
 HOST,towersbuild.sa.com,Advertising
 HOST,townhall.weekendinc.com,Advertising
 HOST,townofpetersburg.org,Advertising
+HOST,tp.domyjourney.cn,Advertising
 HOST,tp.luolaibin.cn,Advertising
 HOST,tpads.ovguide.com,Advertising
 HOST,tpads.sv.publicus.com,Advertising
@@ -19489,6 +19498,7 @@ HOST,vmrinternational.com,Advertising
 HOST,vmtvoting.com,Advertising
 HOST,vn.alexajstrack.com,Advertising
 HOST,vn.grab-credit4u.com,Advertising
+HOST,vnnimg.clsj365.com,Advertising
 HOST,vns01444.com,Advertising
 HOST,vns10555.com,Advertising
 HOST,vns4390.com,Advertising
@@ -19506,6 +19516,7 @@ HOST,vns8yhn.com,Advertising
 HOST,vnsrkhd.com,Advertising
 HOST,vntanktransport.com,Advertising
 HOST,vnu.eu-adcenter.net,Advertising
+HOST,vod.dgcaili.com,Advertising
 HOST,vod.pk1173.com,Advertising
 HOST,vodafone-de-care.inq.com,Advertising
 HOST,vodafone.inq.com,Advertising
@@ -20725,6 +20736,7 @@ HOST,yx.news-subscribe.com,Advertising
 HOST,yxhd.hori-gz.com,Advertising
 HOST,yxshengda.com,Advertising
 HOST,yyjgift.com,Advertising
+HOST,yylimg.clsj365.com,Advertising
 HOST,yyoutube.com,Advertising
 HOST,yyy.pp1500.com,Advertising
 HOST,z-na.amazon-adsystems.com,Advertising

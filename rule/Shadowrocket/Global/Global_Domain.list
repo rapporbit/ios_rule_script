@@ -1,15 +1,15 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-08-02 02:06:38
+# UPDATED: 2021-08-04 02:08:05
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN: 50
-# DOMAIN-SUFFIX: 33449
+# DOMAIN-SUFFIX: 33451
 # USER-AGENT: 48
 # DOMAIN-KEYWORD: 41
 # IP-CIDR: 3
 # URL-REGEX: 1
-# TOTAL: 33592
+# TOTAL: 33594
 amp.akamaized.net
 apple.com.akadns.net
 assets-priconne-redive-us.akamaized.net
@@ -4367,6 +4367,7 @@ www.icloud.com
 .azirevpn.com
 .azirevpn.net
 .aznmovies.com
+.aznude.com
 .azproxies.com
 .azubu.tv
 .azure
@@ -12792,6 +12793,7 @@ www.icloud.com
 .googlemail.com
 .googlemaps.com
 .googlemashups.com
+.googleoptimize.com
 .googlepagecreator.com
 .googlephotos.com
 .googleplay.com
@@ -18808,6 +18810,7 @@ www.icloud.com
 .name.com
 .namemybeats.com
 .namepros.com
+.namethatporn.com
 .namethatpornstar.com
 .namgyal.org
 .namgyalmonastery.org
@@ -28622,7 +28625,6 @@ www.icloud.com
 .www.ayx121.com
 .www.azattyk.org
 .www.azattyq.org
-.www.aznude.com
 .www.b1000.com
 .www.b13.cc
 .www.b16.bet
