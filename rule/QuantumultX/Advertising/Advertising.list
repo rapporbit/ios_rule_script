@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-08-04 02:08:02
-# HOST: 20924
+# UPDATED: 2021-08-05 02:07:17
+# HOST: 20927
 # HOST-KEYWORD: 88
-# HOST-SUFFIX: 49846
+# HOST-SUFFIX: 49844
 # IP-CIDR: 241
 # IP6-CIDR: 1
-# TOTAL: 71100
+# TOTAL: 71101
 HOST,0.nextyourcontent.com,Advertising
 HOST,0.up.qingdaonews.com,Advertising
 HOST,0001.2waky.com,Advertising
@@ -206,6 +206,7 @@ HOST,24x7.soliday.org,Advertising
 HOST,24x7mediaworks.com,Advertising
 HOST,25.news-subscribe.com,Advertising
 HOST,274a717d311ac90f.com,Advertising
+HOST,2778255fe56.com,Advertising
 HOST,27simn888.com,Advertising
 HOST,28.securefinds2.com,Advertising
 HOST,290684.en.world-stone.com,Advertising
@@ -272,6 +273,7 @@ HOST,39dvd-999.com,Advertising
 HOST,3amcouk.skimlinks.com,Advertising
 HOST,3angelsvideo.com,Advertising
 HOST,3animalsex.com,Advertising
+HOST,3b0b68c876376f7311.com,Advertising
 HOST,3ba87e4828c5a95.com,Advertising
 HOST,3d.news-subscribe.com,Advertising
 HOST,3d55eccf56053ff2e8.com,Advertising
@@ -3355,7 +3357,6 @@ HOST,artebinaria.com,Advertising
 HOST,artemisaffiliates.com,Advertising
 HOST,arthritis.atspace.com,Advertising
 HOST,articlecrux.com,Advertising
-HOST,articulty.com,Advertising
 HOST,artoflivingfaridabad.org,Advertising
 HOST,artpress.top,Advertising
 HOST,artsconsortium.org,Advertising
@@ -6914,6 +6915,7 @@ HOST,dns.jd.com,Advertising
 HOST,dns.novaonx.com,Advertising
 HOST,dntrax.com,Advertising
 HOST,dnwswurowz.byinter.net,Advertising
+HOST,do.time786.com,Advertising
 HOST,do67etikr7pwz.cloudfront.net,Advertising
 HOST,doathair.com,Advertising
 HOST,dobbenetes.com,Advertising
@@ -8083,6 +8085,7 @@ HOST,fileoasis.net,Advertising
 HOST,filepaid.com,Advertising
 HOST,fileprograms.com,Advertising
 HOST,fileprotector.org,Advertising
+HOST,filequality.com,Advertising
 HOST,filerack.net,Advertising
 HOST,files.bannersnack.com,Advertising
 HOST,files.brothersoft.com,Advertising
@@ -10501,6 +10504,7 @@ HOST,insightthk.com,Advertising
 HOST,inspectletws.herokuapp.com,Advertising
 HOST,inspectorclick.com,Advertising
 HOST,inspiretodance.com,Advertising
+HOST,insta-hack.com,Advertising
 HOST,instagam.org,Advertising
 HOST,instagfollows.com,Advertising
 HOST,instagramhack.com,Advertising
@@ -11832,6 +11836,7 @@ HOST,losmercantes.com,Advertising
 HOST,losnahuales.com,Advertising
 HOST,lostartofbeingadame.com,Advertising
 HOST,lostmovie.net,Advertising
+HOST,lotbetworld.cn,Advertising
 HOST,lotexauto.com,Advertising
 HOST,lotto109.com,Advertising
 HOST,lottomeca.com,Advertising
@@ -11847,7 +11852,6 @@ HOST,lovefacebook.comli.com,Advertising
 HOST,lowercasenyc.com,Advertising
 HOST,lowes-pianos-and-organs.com,Advertising
 HOST,lowgraveleron.com,Advertising
-HOST,lowpricesiterx.com,Advertising
 HOST,lp.actionx.com,Advertising
 HOST,lp.blpmovies.com,Advertising
 HOST,lp.easyziptab.com,Advertising
@@ -12644,7 +12648,6 @@ HOST,mkukigems.com,Advertising
 HOST,ml-company.com,Advertising
 HOST,mlb.cdn.auditude.com,Advertising
 HOST,mlb.cdns.auditude.com,Advertising
-HOST,mldy.rsgbt.cn,Advertising
 HOST,mlkqusrmsfib.com,Advertising
 HOST,mlntracker.com,Advertising
 HOST,mlstoxplovkj.com,Advertising
@@ -13668,7 +13671,6 @@ HOST,offers.nordvpn.com,Advertising
 HOST,offers.royalvegascasino.com,Advertising
 HOST,offess.actonsoftware.com,Advertising
 HOST,office.magnetic.com,Advertising
-HOST,office.ratiss.org,Advertising
 HOST,office2web.com,Advertising
 HOST,office365.planetfur.net,Advertising
 HOST,officedocuments.net,Advertising
@@ -14008,6 +14010,7 @@ HOST,pa.tns-ua.com,Advertising
 HOST,pablo.unbounce.com,Advertising
 HOST,pacaio.match.qq.com,Advertising
 HOST,pace2life.org,Advertising
+HOST,pacific-yield.com,Advertising
 HOST,pacificatlanticrealty.com,Advertising
 HOST,pacificbands.org,Advertising
 HOST,pacificcannabusiness.com,Advertising
@@ -14023,6 +14026,7 @@ HOST,paelladanielcaldeira.com,Advertising
 HOST,page-2018.000webhostapp.com,Advertising
 HOST,pagead.topobiavi.com,Advertising
 HOST,pager.site50.net,Advertising
+HOST,pagerank-ranking.com,Advertising
 HOST,pagerank.jklir.net,Advertising
 HOST,pagerank4you.com,Advertising
 HOST,pageranktop.com,Advertising
@@ -18134,7 +18138,6 @@ HOST,ticker.conduit.com,Advertising
 HOST,tickers.playtech.com,Advertising
 HOST,ticket20.tripod.com,Advertising
 HOST,ticketdoctor.net,Advertising
-HOST,tickettocruise.com,Advertising
 HOST,ticklemyivories.com,Advertising
 HOST,tickr.quintype.com,Advertising
 HOST,tidbitscom.skimlinks.com,Advertising
@@ -53822,7 +53825,6 @@ HOST-SUFFIX,plausible.zorin.com,Advertising
 HOST-SUFFIX,plausiblebyeshear.com,Advertising
 HOST-SUFFIX,plavxml.com,Advertising
 HOST-SUFFIX,plaxo.com,Advertising
-HOST-SUFFIX,play-asia.com,Advertising
 HOST-SUFFIX,play.es,Advertising
 HOST-SUFFIX,play4k.co,Advertising
 HOST-SUFFIX,playad.xjmg.com,Advertising
@@ -69290,7 +69292,6 @@ HOST-SUFFIX,yami8alea.com,Advertising
 HOST-SUFFIX,yamspunkdew.com,Advertising
 HOST-SUFFIX,yan07.xyz,Advertising
 HOST-SUFFIX,yanbenji.cn,Advertising
-HOST-SUFFIX,yandex.ru,Advertising
 HOST-SUFFIX,yandexadexchange.net,Advertising
 HOST-SUFFIX,yandui.com,Advertising
 HOST-SUFFIX,yangdasen.cn,Advertising

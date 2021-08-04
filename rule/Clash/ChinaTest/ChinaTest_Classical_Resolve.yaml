@@ -1,13 +1,13 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-08-04 02:08:04
-# DOMAIN-SUFFIX: 69050
+# UPDATED: 2021-08-05 02:07:19
+# DOMAIN-SUFFIX: 69052
 # DOMAIN: 83
 # IP-CIDR: 5
 # DOMAIN-KEYWORD: 10
 # IP-CIDR6: 4
-# TOTAL: 69152
+# TOTAL: 69154
 payload:
   - DOMAIN,265.com
   - DOMAIN,2mdn.net
@@ -2094,7 +2094,6 @@ payload:
   - DOMAIN-SUFFIX,1b23.com
   - DOMAIN-SUFFIX,1biaozhun.com
   - DOMAIN-SUFFIX,1biqu.com
-  - DOMAIN-SUFFIX,1biquge.com
   - DOMAIN-SUFFIX,1bus.net
   - DOMAIN-SUFFIX,1cae.com
   - DOMAIN-SUFFIX,1caifu.com
@@ -3292,6 +3291,7 @@ payload:
   - DOMAIN-SUFFIX,360zhijia.com
   - DOMAIN-SUFFIX,360zhuizhu.com
   - DOMAIN-SUFFIX,360zhyx.com
+  - DOMAIN-SUFFIX,360zimeiti.com
   - DOMAIN-SUFFIX,361.cm
   - DOMAIN-SUFFIX,361757.com
   - DOMAIN-SUFFIX,3618med.com
@@ -15618,7 +15618,6 @@ payload:
   - DOMAIN-SUFFIX,chinaren.com
   - DOMAIN-SUFFIX,chinareports.org
   - DOMAIN-SUFFIX,chinarootdesign.com
-  - DOMAIN-SUFFIX,chinarta.com
   - DOMAIN-SUFFIX,chinartlaw.com
   - DOMAIN-SUFFIX,chinarun.com
   - DOMAIN-SUFFIX,chinarzfh.com
@@ -23204,7 +23203,6 @@ payload:
   - DOMAIN-SUFFIX,fapiao365.com
   - DOMAIN-SUFFIX,fapiaobang.com
   - DOMAIN-SUFFIX,faqrobot.org
-  - DOMAIN-SUFFIX,faqwork.com
   - DOMAIN-SUFFIX,far123.com
   - DOMAIN-SUFFIX,far2000.com
   - DOMAIN-SUFFIX,faradayfuturecn.com
@@ -23269,6 +23267,7 @@ payload:
   - DOMAIN-SUFFIX,fawuzaixian.com
   - DOMAIN-SUFFIX,fax52.com
   - DOMAIN-SUFFIX,faxdns.com
+  - DOMAIN-SUFFIX,faxdns.net
   - DOMAIN-SUFFIX,faxeye.com
   - DOMAIN-SUFFIX,faxingchina.com
   - DOMAIN-SUFFIX,faxingcn.com
@@ -31884,7 +31883,6 @@ payload:
   - DOMAIN-SUFFIX,inbeijing.org
   - DOMAIN-SUFFIX,inbilin.com
   - DOMAIN-SUFFIX,inbooker.com
-  - DOMAIN-SUFFIX,inboxarchiver.com
   - DOMAIN-SUFFIX,inc365.com
   - DOMAIN-SUFFIX,incake.net
   - DOMAIN-SUFFIX,incensechina.com
@@ -35486,6 +35484,7 @@ payload:
   - DOMAIN-SUFFIX,ka5188.com
   - DOMAIN-SUFFIX,kaadas.com
   - DOMAIN-SUFFIX,kaayou.com
+  - DOMAIN-SUFFIX,kaayun.com
   - DOMAIN-SUFFIX,kaba365.com
   - DOMAIN-SUFFIX,kabasiji.com
   - DOMAIN-SUFFIX,kabitu.com
@@ -48372,6 +48371,7 @@ payload:
   - DOMAIN-SUFFIX,rijiwang.com
   - DOMAIN-SUFFIX,riju.tv
   - DOMAIN-SUFFIX,rijutv.com
+  - DOMAIN-SUFFIX,rikka.app
   - DOMAIN-SUFFIX,rilvtong.com
   - DOMAIN-SUFFIX,rilzob.com
   - DOMAIN-SUFFIX,rimiedu.com
@@ -51436,6 +51436,7 @@ payload:
   - DOMAIN-SUFFIX,sketchupbar.com
   - DOMAIN-SUFFIX,sketchupbbs.com
   - DOMAIN-SUFFIX,skg.com
+  - DOMAIN-SUFFIX,skhao.net
   - DOMAIN-SUFFIX,skieer.com
   - DOMAIN-SUFFIX,skight.com
   - DOMAIN-SUFFIX,skinme.cc
@@ -51837,6 +51838,7 @@ payload:
   - DOMAIN-SUFFIX,sogou.com
   - DOMAIN-SUFFIX,sogou2.com
   - DOMAIN-SUFFIX,sogoucdn.com
+  - DOMAIN-SUFFIX,sogouimecdn.com
   - DOMAIN-SUFFIX,sogouw.com
   - DOMAIN-SUFFIX,sogouwenwen.com
   - DOMAIN-SUFFIX,soharp.com
@@ -62461,6 +62463,7 @@ payload:
   - DOMAIN-SUFFIX,xn--nyqx2gbsm8u0b.com
   - DOMAIN-SUFFIX,xn--nyw032beqlm2f.com
   - DOMAIN-SUFFIX,xn--nyw032beqlm2f.net
+  - DOMAIN-SUFFIX,xn--rhq0kz4zzjc7w9a66k.com
   - DOMAIN-SUFFIX,xn--rss99n.com
   - DOMAIN-SUFFIX,xn--s4t325g.com
   - DOMAIN-SUFFIX,xn--vuq861b
@@ -65253,7 +65256,6 @@ payload:
   - DOMAIN-SUFFIX,yqphh.com
   - DOMAIN-SUFFIX,yqptzx.com
   - DOMAIN-SUFFIX,yqqlm.vip
-  - DOMAIN-SUFFIX,yqqzx.com
   - DOMAIN-SUFFIX,yqsbz.com
   - DOMAIN-SUFFIX,yqscpt.com
   - DOMAIN-SUFFIX,yqsns.com

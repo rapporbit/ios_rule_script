@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-08-04 02:08:03
+# UPDATED: 2021-08-05 02:07:17
 # HOST: 50
-# HOST-SUFFIX: 33451
+# HOST-SUFFIX: 33453
 # USER-AGENT: 48
 # HOST-KEYWORD: 41
 # IP-CIDR: 128
 # IP6-CIDR: 3
-# TOTAL: 33721
+# TOTAL: 33723
 HOST,amp.akamaized.net,Global
 HOST,apple.com.akadns.net,Global
 HOST,assets-priconne-redive-us.akamaized.net,Global
@@ -10872,6 +10872,7 @@ HOST-SUFFIX,feikebt.com,Global
 HOST-SUFFIX,feikebt.pw,Global
 HOST-SUFFIX,feitian-california.org,Global
 HOST-SUFFIX,feitianacademy.org,Global
+HOST-SUFFIX,feixiaohao.com,Global
 HOST-SUFFIX,felixcat.net,Global
 HOST-SUFFIX,femalefounderscomp.com,Global
 HOST-SUFFIX,fembed.com,Global
@@ -19166,6 +19167,7 @@ HOST-SUFFIX,ngensis.com,Global
 HOST-SUFFIX,ngeo.com,Global
 HOST-SUFFIX,nginx.com,Global
 HOST-SUFFIX,nginx.org,Global
+HOST-SUFFIX,ngodupdongchung.com,Global
 HOST-SUFFIX,nguyentandung.org,Global
 HOST-SUFFIX,nhance.com,Global
 HOST-SUFFIX,nhentai.com,Global

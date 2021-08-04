@@ -1,14 +1,14 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-08-04 02:08:03
-# HOST-SUFFIX: 69050
+# UPDATED: 2021-08-05 02:07:17
+# HOST-SUFFIX: 69052
 # USER-AGENT: 32
 # HOST: 83
 # IP-CIDR: 5
 # HOST-KEYWORD: 10
 # IP6-CIDR: 4
-# TOTAL: 69184
+# TOTAL: 69186
 HOST,265.com,ChinaTest
 HOST,2mdn.net,ChinaTest
 HOST,adservice.google.com,ChinaTest
@@ -2094,7 +2094,6 @@ HOST-SUFFIX,1aq.com,ChinaTest
 HOST-SUFFIX,1b23.com,ChinaTest
 HOST-SUFFIX,1biaozhun.com,ChinaTest
 HOST-SUFFIX,1biqu.com,ChinaTest
-HOST-SUFFIX,1biquge.com,ChinaTest
 HOST-SUFFIX,1bus.net,ChinaTest
 HOST-SUFFIX,1cae.com,ChinaTest
 HOST-SUFFIX,1caifu.com,ChinaTest
@@ -3292,6 +3291,7 @@ HOST-SUFFIX,360zhaoa.com,ChinaTest
 HOST-SUFFIX,360zhijia.com,ChinaTest
 HOST-SUFFIX,360zhuizhu.com,ChinaTest
 HOST-SUFFIX,360zhyx.com,ChinaTest
+HOST-SUFFIX,360zimeiti.com,ChinaTest
 HOST-SUFFIX,361.cm,ChinaTest
 HOST-SUFFIX,361757.com,ChinaTest
 HOST-SUFFIX,3618med.com,ChinaTest
@@ -15618,7 +15618,6 @@ HOST-SUFFIX,chinaredstar.com,ChinaTest
 HOST-SUFFIX,chinaren.com,ChinaTest
 HOST-SUFFIX,chinareports.org,ChinaTest
 HOST-SUFFIX,chinarootdesign.com,ChinaTest
-HOST-SUFFIX,chinarta.com,ChinaTest
 HOST-SUFFIX,chinartlaw.com,ChinaTest
 HOST-SUFFIX,chinarun.com,ChinaTest
 HOST-SUFFIX,chinarzfh.com,ChinaTest
@@ -23204,7 +23203,6 @@ HOST-SUFFIX,fapiao.com,ChinaTest
 HOST-SUFFIX,fapiao365.com,ChinaTest
 HOST-SUFFIX,fapiaobang.com,ChinaTest
 HOST-SUFFIX,faqrobot.org,ChinaTest
-HOST-SUFFIX,faqwork.com,ChinaTest
 HOST-SUFFIX,far123.com,ChinaTest
 HOST-SUFFIX,far2000.com,ChinaTest
 HOST-SUFFIX,faradayfuturecn.com,ChinaTest
@@ -23269,6 +23267,7 @@ HOST-SUFFIX,fawulu.com,ChinaTest
 HOST-SUFFIX,fawuzaixian.com,ChinaTest
 HOST-SUFFIX,fax52.com,ChinaTest
 HOST-SUFFIX,faxdns.com,ChinaTest
+HOST-SUFFIX,faxdns.net,ChinaTest
 HOST-SUFFIX,faxeye.com,ChinaTest
 HOST-SUFFIX,faxingchina.com,ChinaTest
 HOST-SUFFIX,faxingcn.com,ChinaTest
@@ -31884,7 +31883,6 @@ HOST-SUFFIX,inass.org,ChinaTest
 HOST-SUFFIX,inbeijing.org,ChinaTest
 HOST-SUFFIX,inbilin.com,ChinaTest
 HOST-SUFFIX,inbooker.com,ChinaTest
-HOST-SUFFIX,inboxarchiver.com,ChinaTest
 HOST-SUFFIX,inc365.com,ChinaTest
 HOST-SUFFIX,incake.net,ChinaTest
 HOST-SUFFIX,incensechina.com,ChinaTest
@@ -35486,6 +35484,7 @@ HOST-SUFFIX,ka20.com,ChinaTest
 HOST-SUFFIX,ka5188.com,ChinaTest
 HOST-SUFFIX,kaadas.com,ChinaTest
 HOST-SUFFIX,kaayou.com,ChinaTest
+HOST-SUFFIX,kaayun.com,ChinaTest
 HOST-SUFFIX,kaba365.com,ChinaTest
 HOST-SUFFIX,kabasiji.com,ChinaTest
 HOST-SUFFIX,kabitu.com,ChinaTest
@@ -48372,6 +48371,7 @@ HOST-SUFFIX,rijigu.com,ChinaTest
 HOST-SUFFIX,rijiwang.com,ChinaTest
 HOST-SUFFIX,riju.tv,ChinaTest
 HOST-SUFFIX,rijutv.com,ChinaTest
+HOST-SUFFIX,rikka.app,ChinaTest
 HOST-SUFFIX,rilvtong.com,ChinaTest
 HOST-SUFFIX,rilzob.com,ChinaTest
 HOST-SUFFIX,rimiedu.com,ChinaTest
@@ -51436,6 +51436,7 @@ HOST-SUFFIX,sketchui.net,ChinaTest
 HOST-SUFFIX,sketchupbar.com,ChinaTest
 HOST-SUFFIX,sketchupbbs.com,ChinaTest
 HOST-SUFFIX,skg.com,ChinaTest
+HOST-SUFFIX,skhao.net,ChinaTest
 HOST-SUFFIX,skieer.com,ChinaTest
 HOST-SUFFIX,skight.com,ChinaTest
 HOST-SUFFIX,skinme.cc,ChinaTest
@@ -51837,6 +51838,7 @@ HOST-SUFFIX,sogou-op.org,ChinaTest
 HOST-SUFFIX,sogou.com,ChinaTest
 HOST-SUFFIX,sogou2.com,ChinaTest
 HOST-SUFFIX,sogoucdn.com,ChinaTest
+HOST-SUFFIX,sogouimecdn.com,ChinaTest
 HOST-SUFFIX,sogouw.com,ChinaTest
 HOST-SUFFIX,sogouwenwen.com,ChinaTest
 HOST-SUFFIX,soharp.com,ChinaTest
@@ -62461,6 +62463,7 @@ HOST-SUFFIX,xn--ntsp37j.net,ChinaTest
 HOST-SUFFIX,xn--nyqx2gbsm8u0b.com,ChinaTest
 HOST-SUFFIX,xn--nyw032beqlm2f.com,ChinaTest
 HOST-SUFFIX,xn--nyw032beqlm2f.net,ChinaTest
+HOST-SUFFIX,xn--rhq0kz4zzjc7w9a66k.com,ChinaTest
 HOST-SUFFIX,xn--rss99n.com,ChinaTest
 HOST-SUFFIX,xn--s4t325g.com,ChinaTest
 HOST-SUFFIX,xn--vuq861b,ChinaTest
@@ -65253,7 +65256,6 @@ HOST-SUFFIX,yqmh.com,ChinaTest
 HOST-SUFFIX,yqphh.com,ChinaTest
 HOST-SUFFIX,yqptzx.com,ChinaTest
 HOST-SUFFIX,yqqlm.vip,ChinaTest
-HOST-SUFFIX,yqqzx.com,ChinaTest
 HOST-SUFFIX,yqsbz.com,ChinaTest
 HOST-SUFFIX,yqscpt.com,ChinaTest
 HOST-SUFFIX,yqsns.com,ChinaTest

@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-08-04 02:08:03
-# DOMAIN: 20924
+# UPDATED: 2021-08-05 02:07:18
+# DOMAIN: 20927
 # DOMAIN-KEYWORD: 88
-# DOMAIN-SUFFIX: 49846
+# DOMAIN-SUFFIX: 49844
 # IP-CIDR: 241
 # IP-CIDR6: 1
-# TOTAL: 71100
+# TOTAL: 71101
 payload:
   - '0.nextyourcontent.com'
   - '0.up.qingdaonews.com'
@@ -207,6 +207,7 @@ payload:
   - '24x7mediaworks.com'
   - '25.news-subscribe.com'
   - '274a717d311ac90f.com'
+  - '2778255fe56.com'
   - '27simn888.com'
   - '28.securefinds2.com'
   - '290684.en.world-stone.com'
@@ -273,6 +274,7 @@ payload:
   - '3amcouk.skimlinks.com'
   - '3angelsvideo.com'
   - '3animalsex.com'
+  - '3b0b68c876376f7311.com'
   - '3ba87e4828c5a95.com'
   - '3d.news-subscribe.com'
   - '3d55eccf56053ff2e8.com'
@@ -3356,7 +3358,6 @@ payload:
   - 'artemisaffiliates.com'
   - 'arthritis.atspace.com'
   - 'articlecrux.com'
-  - 'articulty.com'
   - 'artoflivingfaridabad.org'
   - 'artpress.top'
   - 'artsconsortium.org'
@@ -6915,6 +6916,7 @@ payload:
   - 'dns.novaonx.com'
   - 'dntrax.com'
   - 'dnwswurowz.byinter.net'
+  - 'do.time786.com'
   - 'do67etikr7pwz.cloudfront.net'
   - 'doathair.com'
   - 'dobbenetes.com'
@@ -8084,6 +8086,7 @@ payload:
   - 'filepaid.com'
   - 'fileprograms.com'
   - 'fileprotector.org'
+  - 'filequality.com'
   - 'filerack.net'
   - 'files.bannersnack.com'
   - 'files.brothersoft.com'
@@ -10502,6 +10505,7 @@ payload:
   - 'inspectletws.herokuapp.com'
   - 'inspectorclick.com'
   - 'inspiretodance.com'
+  - 'insta-hack.com'
   - 'instagam.org'
   - 'instagfollows.com'
   - 'instagramhack.com'
@@ -11833,6 +11837,7 @@ payload:
   - 'losnahuales.com'
   - 'lostartofbeingadame.com'
   - 'lostmovie.net'
+  - 'lotbetworld.cn'
   - 'lotexauto.com'
   - 'lotto109.com'
   - 'lottomeca.com'
@@ -11848,7 +11853,6 @@ payload:
   - 'lowercasenyc.com'
   - 'lowes-pianos-and-organs.com'
   - 'lowgraveleron.com'
-  - 'lowpricesiterx.com'
   - 'lp.actionx.com'
   - 'lp.blpmovies.com'
   - 'lp.easyziptab.com'
@@ -12645,7 +12649,6 @@ payload:
   - 'ml-company.com'
   - 'mlb.cdn.auditude.com'
   - 'mlb.cdns.auditude.com'
-  - 'mldy.rsgbt.cn'
   - 'mlkqusrmsfib.com'
   - 'mlntracker.com'
   - 'mlstoxplovkj.com'
@@ -13669,7 +13672,6 @@ payload:
   - 'offers.royalvegascasino.com'
   - 'offess.actonsoftware.com'
   - 'office.magnetic.com'
-  - 'office.ratiss.org'
   - 'office2web.com'
   - 'office365.planetfur.net'
   - 'officedocuments.net'
@@ -14009,6 +14011,7 @@ payload:
   - 'pablo.unbounce.com'
   - 'pacaio.match.qq.com'
   - 'pace2life.org'
+  - 'pacific-yield.com'
   - 'pacificatlanticrealty.com'
   - 'pacificbands.org'
   - 'pacificcannabusiness.com'
@@ -14024,6 +14027,7 @@ payload:
   - 'page-2018.000webhostapp.com'
   - 'pagead.topobiavi.com'
   - 'pager.site50.net'
+  - 'pagerank-ranking.com'
   - 'pagerank.jklir.net'
   - 'pagerank4you.com'
   - 'pageranktop.com'
@@ -18135,7 +18139,6 @@ payload:
   - 'tickers.playtech.com'
   - 'ticket20.tripod.com'
   - 'ticketdoctor.net'
-  - 'tickettocruise.com'
   - 'ticklemyivories.com'
   - 'tickr.quintype.com'
   - 'tidbitscom.skimlinks.com'
@@ -53823,7 +53826,6 @@ payload:
   - '.plausiblebyeshear.com'
   - '.plavxml.com'
   - '.plaxo.com'
-  - '.play-asia.com'
   - '.play.es'
   - '.play4k.co'
   - '.playad.xjmg.com'
@@ -69291,7 +69293,6 @@ payload:
   - '.yamspunkdew.com'
   - '.yan07.xyz'
   - '.yanbenji.cn'
-  - '.yandex.ru'
   - '.yandexadexchange.net'
   - '.yandui.com'
   - '.yangdasen.cn'

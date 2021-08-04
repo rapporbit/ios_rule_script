@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-08-04 02:08:04
+# UPDATED: 2021-08-05 02:07:19
 # DOMAIN: 50
-# DOMAIN-SUFFIX: 33451
+# DOMAIN-SUFFIX: 33453
 # DOMAIN-KEYWORD: 41
 # IP-CIDR: 128
 # IP-CIDR6: 3
 # PROCESS-NAME: 1
-# TOTAL: 33674
+# TOTAL: 33676
 payload:
   - 'amp.akamaized.net'
   - 'apple.com.akadns.net'
@@ -10873,6 +10873,7 @@ payload:
   - '.feikebt.pw'
   - '.feitian-california.org'
   - '.feitianacademy.org'
+  - '.feixiaohao.com'
   - '.felixcat.net'
   - '.femalefounderscomp.com'
   - '.fembed.com'
@@ -19167,6 +19168,7 @@ payload:
   - '.ngeo.com'
   - '.nginx.com'
   - '.nginx.org'
+  - '.ngodupdongchung.com'
   - '.nguyentandung.org'
   - '.nhance.com'
   - '.nhentai.com'

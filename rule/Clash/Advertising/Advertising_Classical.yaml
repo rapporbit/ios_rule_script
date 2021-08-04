@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-08-04 02:08:03
-# DOMAIN: 20924
+# UPDATED: 2021-08-05 02:07:18
+# DOMAIN: 20927
 # DOMAIN-KEYWORD: 88
-# DOMAIN-SUFFIX: 49846
+# DOMAIN-SUFFIX: 49844
 # IP-CIDR: 241
 # IP-CIDR6: 1
-# TOTAL: 71100
+# TOTAL: 71101
 payload:
   - DOMAIN,0.nextyourcontent.com
   - DOMAIN,0.up.qingdaonews.com
@@ -207,6 +207,7 @@ payload:
   - DOMAIN,24x7mediaworks.com
   - DOMAIN,25.news-subscribe.com
   - DOMAIN,274a717d311ac90f.com
+  - DOMAIN,2778255fe56.com
   - DOMAIN,27simn888.com
   - DOMAIN,28.securefinds2.com
   - DOMAIN,290684.en.world-stone.com
@@ -273,6 +274,7 @@ payload:
   - DOMAIN,3amcouk.skimlinks.com
   - DOMAIN,3angelsvideo.com
   - DOMAIN,3animalsex.com
+  - DOMAIN,3b0b68c876376f7311.com
   - DOMAIN,3ba87e4828c5a95.com
   - DOMAIN,3d.news-subscribe.com
   - DOMAIN,3d55eccf56053ff2e8.com
@@ -3356,7 +3358,6 @@ payload:
   - DOMAIN,artemisaffiliates.com
   - DOMAIN,arthritis.atspace.com
   - DOMAIN,articlecrux.com
-  - DOMAIN,articulty.com
   - DOMAIN,artoflivingfaridabad.org
   - DOMAIN,artpress.top
   - DOMAIN,artsconsortium.org
@@ -6915,6 +6916,7 @@ payload:
   - DOMAIN,dns.novaonx.com
   - DOMAIN,dntrax.com
   - DOMAIN,dnwswurowz.byinter.net
+  - DOMAIN,do.time786.com
   - DOMAIN,do67etikr7pwz.cloudfront.net
   - DOMAIN,doathair.com
   - DOMAIN,dobbenetes.com
@@ -8084,6 +8086,7 @@ payload:
   - DOMAIN,filepaid.com
   - DOMAIN,fileprograms.com
   - DOMAIN,fileprotector.org
+  - DOMAIN,filequality.com
   - DOMAIN,filerack.net
   - DOMAIN,files.bannersnack.com
   - DOMAIN,files.brothersoft.com
@@ -10502,6 +10505,7 @@ payload:
   - DOMAIN,inspectletws.herokuapp.com
   - DOMAIN,inspectorclick.com
   - DOMAIN,inspiretodance.com
+  - DOMAIN,insta-hack.com
   - DOMAIN,instagam.org
   - DOMAIN,instagfollows.com
   - DOMAIN,instagramhack.com
@@ -11833,6 +11837,7 @@ payload:
   - DOMAIN,losnahuales.com
   - DOMAIN,lostartofbeingadame.com
   - DOMAIN,lostmovie.net
+  - DOMAIN,lotbetworld.cn
   - DOMAIN,lotexauto.com
   - DOMAIN,lotto109.com
   - DOMAIN,lottomeca.com
@@ -11848,7 +11853,6 @@ payload:
   - DOMAIN,lowercasenyc.com
   - DOMAIN,lowes-pianos-and-organs.com
   - DOMAIN,lowgraveleron.com
-  - DOMAIN,lowpricesiterx.com
   - DOMAIN,lp.actionx.com
   - DOMAIN,lp.blpmovies.com
   - DOMAIN,lp.easyziptab.com
@@ -12645,7 +12649,6 @@ payload:
   - DOMAIN,ml-company.com
   - DOMAIN,mlb.cdn.auditude.com
   - DOMAIN,mlb.cdns.auditude.com
-  - DOMAIN,mldy.rsgbt.cn
   - DOMAIN,mlkqusrmsfib.com
   - DOMAIN,mlntracker.com
   - DOMAIN,mlstoxplovkj.com
@@ -13669,7 +13672,6 @@ payload:
   - DOMAIN,offers.royalvegascasino.com
   - DOMAIN,offess.actonsoftware.com
   - DOMAIN,office.magnetic.com
-  - DOMAIN,office.ratiss.org
   - DOMAIN,office2web.com
   - DOMAIN,office365.planetfur.net
   - DOMAIN,officedocuments.net
@@ -14009,6 +14011,7 @@ payload:
   - DOMAIN,pablo.unbounce.com
   - DOMAIN,pacaio.match.qq.com
   - DOMAIN,pace2life.org
+  - DOMAIN,pacific-yield.com
   - DOMAIN,pacificatlanticrealty.com
   - DOMAIN,pacificbands.org
   - DOMAIN,pacificcannabusiness.com
@@ -14024,6 +14027,7 @@ payload:
   - DOMAIN,page-2018.000webhostapp.com
   - DOMAIN,pagead.topobiavi.com
   - DOMAIN,pager.site50.net
+  - DOMAIN,pagerank-ranking.com
   - DOMAIN,pagerank.jklir.net
   - DOMAIN,pagerank4you.com
   - DOMAIN,pageranktop.com
@@ -18135,7 +18139,6 @@ payload:
   - DOMAIN,tickers.playtech.com
   - DOMAIN,ticket20.tripod.com
   - DOMAIN,ticketdoctor.net
-  - DOMAIN,tickettocruise.com
   - DOMAIN,ticklemyivories.com
   - DOMAIN,tickr.quintype.com
   - DOMAIN,tidbitscom.skimlinks.com
@@ -53823,7 +53826,6 @@ payload:
   - DOMAIN-SUFFIX,plausiblebyeshear.com
   - DOMAIN-SUFFIX,plavxml.com
   - DOMAIN-SUFFIX,plaxo.com
-  - DOMAIN-SUFFIX,play-asia.com
   - DOMAIN-SUFFIX,play.es
   - DOMAIN-SUFFIX,play4k.co
   - DOMAIN-SUFFIX,playad.xjmg.com
@@ -69291,7 +69293,6 @@ payload:
   - DOMAIN-SUFFIX,yamspunkdew.com
   - DOMAIN-SUFFIX,yan07.xyz
   - DOMAIN-SUFFIX,yanbenji.cn
-  - DOMAIN-SUFFIX,yandex.ru
   - DOMAIN-SUFFIX,yandexadexchange.net
   - DOMAIN-SUFFIX,yandui.com
   - DOMAIN-SUFFIX,yangdasen.cn

@@ -13,15 +13,15 @@
 
 ## 规则统计
 
-总计规则：27605 条。
+总计规则：27696 条。
 
 各类型规则统计：
 
 | 类型 | 数量(条) |
 | ---- | ---- |
-| DOMAIN | 14521 |
+| DOMAIN | 14614 |
 | DOMAIN-KEYWORD | 28 |
-| DOMAIN-SUFFIX | 12897 |
+| DOMAIN-SUFFIX | 12895 |
 | IP-CIDR | 158 |
 | IP-CIDR6 | 1 |
 ## 配置说明
@@ -56,6 +56,12 @@ AdvertisingLite_Classical.yaml 请使用 behavior: "classical"。
 AdvertisingLite_Domain.yaml 请使用 behavior: "domain"。
 
 AdvertisingLite_Classical.yaml 可以单独使用，其他规则必须同时使用。
+
+文件名带Resolve，指对于IP-CIDR、IP-CIDR6的规则，不增加no-resolve，其余与上述相同。
+
+#### 最简单的用法
+
+使用 AdvertisingLite_Classical.yaml。
 
 ## 子规则/排除规则
 

@@ -1,13 +1,13 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-08-04 02:08:04
+# UPDATED: 2021-08-05 02:07:19
 # DOMAIN: 46
-# DOMAIN-SUFFIX: 33466
+# DOMAIN-SUFFIX: 33467
 # DOMAIN-KEYWORD: 29
 # IP-CIDR: 88
 # IP-CIDR6: 3
-# TOTAL: 33632
+# TOTAL: 33633
 payload:
   - DOMAIN,amp.akamaized.net
   - DOMAIN,apple.com.akadns.net
@@ -2561,6 +2561,7 @@ payload:
   - DOMAIN-SUFFIX,9bas1.com
   - DOMAIN-SUFFIX,9bis.com
   - DOMAIN-SUFFIX,9bis.net
+  - DOMAIN-SUFFIX,9cache.com
   - DOMAIN-SUFFIX,9cash.net
   - DOMAIN-SUFFIX,9cdn.net
   - DOMAIN-SUFFIX,9ff450a4-6dc6-4b0c-9e7a-87c74a5b5e70.realclearprivacy.biz
@@ -10872,6 +10873,7 @@ payload:
   - DOMAIN-SUFFIX,feikebt.pw
   - DOMAIN-SUFFIX,feitian-california.org
   - DOMAIN-SUFFIX,feitianacademy.org
+  - DOMAIN-SUFFIX,feixiaohao.com
   - DOMAIN-SUFFIX,felixcat.net
   - DOMAIN-SUFFIX,femalefounderscomp.com
   - DOMAIN-SUFFIX,fembed.com
@@ -14531,7 +14533,6 @@ payload:
   - DOMAIN-SUFFIX,imdj.imdj3001pankou.com
   - DOMAIN-SUFFIX,imes-yabotiyu.tianjiugong.com
   - DOMAIN-SUFFIX,imessage.tv
-  - DOMAIN-SUFFIX,img-9gag-fun.9cache.com
   - DOMAIN-SUFFIX,img.ahri-plus.com
   - DOMAIN-SUFFIX,img.bipics.net
   - DOMAIN-SUFFIX,img.ly
@@ -18010,7 +18011,6 @@ payload:
   - DOMAIN-SUFFIX,mirrorsedge.net
   - DOMAIN-SUFFIX,mirrorsedge2.com
   - DOMAIN-SUFFIX,mirrorsedge2d.com
-  - DOMAIN-SUFFIX,miscmedia-9gag-fun.9cache.com
   - DOMAIN-SUFFIX,miss-no1.com
   - DOMAIN-SUFFIX,miss148.com
   - DOMAIN-SUFFIX,missrissa.net
@@ -19165,6 +19165,7 @@ payload:
   - DOMAIN-SUFFIX,ngeo.com
   - DOMAIN-SUFFIX,nginx.com
   - DOMAIN-SUFFIX,nginx.org
+  - DOMAIN-SUFFIX,ngodupdongchung.com
   - DOMAIN-SUFFIX,nguyentandung.org
   - DOMAIN-SUFFIX,nhance.com
   - DOMAIN-SUFFIX,nhentai.com

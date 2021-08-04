@@ -1,15 +1,15 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-08-04 02:08:02
+# UPDATED: 2021-08-05 02:07:17
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
-# DOMAIN: 20924
+# DOMAIN: 20927
 # DOMAIN-KEYWORD: 88
-# DOMAIN-SUFFIX: 49846
+# DOMAIN-SUFFIX: 49844
 # IP-CIDR: 241
 # IP-CIDR6: 1
 # URL-REGEX: 301
-# TOTAL: 71401
+# TOTAL: 71402
 0.nextyourcontent.com
 0.up.qingdaonews.com
 0001.2waky.com
@@ -208,6 +208,7 @@
 24x7mediaworks.com
 25.news-subscribe.com
 274a717d311ac90f.com
+2778255fe56.com
 27simn888.com
 28.securefinds2.com
 290684.en.world-stone.com
@@ -274,6 +275,7 @@
 3amcouk.skimlinks.com
 3angelsvideo.com
 3animalsex.com
+3b0b68c876376f7311.com
 3ba87e4828c5a95.com
 3d.news-subscribe.com
 3d55eccf56053ff2e8.com
@@ -3357,7 +3359,6 @@ artebinaria.com
 artemisaffiliates.com
 arthritis.atspace.com
 articlecrux.com
-articulty.com
 artoflivingfaridabad.org
 artpress.top
 artsconsortium.org
@@ -6916,6 +6917,7 @@ dns.jd.com
 dns.novaonx.com
 dntrax.com
 dnwswurowz.byinter.net
+do.time786.com
 do67etikr7pwz.cloudfront.net
 doathair.com
 dobbenetes.com
@@ -8085,6 +8087,7 @@ fileoasis.net
 filepaid.com
 fileprograms.com
 fileprotector.org
+filequality.com
 filerack.net
 files.bannersnack.com
 files.brothersoft.com
@@ -10503,6 +10506,7 @@ insightthk.com
 inspectletws.herokuapp.com
 inspectorclick.com
 inspiretodance.com
+insta-hack.com
 instagam.org
 instagfollows.com
 instagramhack.com
@@ -11834,6 +11838,7 @@ losmercantes.com
 losnahuales.com
 lostartofbeingadame.com
 lostmovie.net
+lotbetworld.cn
 lotexauto.com
 lotto109.com
 lottomeca.com
@@ -11849,7 +11854,6 @@ lovefacebook.comli.com
 lowercasenyc.com
 lowes-pianos-and-organs.com
 lowgraveleron.com
-lowpricesiterx.com
 lp.actionx.com
 lp.blpmovies.com
 lp.easyziptab.com
@@ -12646,7 +12650,6 @@ mkukigems.com
 ml-company.com
 mlb.cdn.auditude.com
 mlb.cdns.auditude.com
-mldy.rsgbt.cn
 mlkqusrmsfib.com
 mlntracker.com
 mlstoxplovkj.com
@@ -13670,7 +13673,6 @@ offers.nordvpn.com
 offers.royalvegascasino.com
 offess.actonsoftware.com
 office.magnetic.com
-office.ratiss.org
 office2web.com
 office365.planetfur.net
 officedocuments.net
@@ -14010,6 +14012,7 @@ pa.tns-ua.com
 pablo.unbounce.com
 pacaio.match.qq.com
 pace2life.org
+pacific-yield.com
 pacificatlanticrealty.com
 pacificbands.org
 pacificcannabusiness.com
@@ -14025,6 +14028,7 @@ paelladanielcaldeira.com
 page-2018.000webhostapp.com
 pagead.topobiavi.com
 pager.site50.net
+pagerank-ranking.com
 pagerank.jklir.net
 pagerank4you.com
 pageranktop.com
@@ -18136,7 +18140,6 @@ ticker.conduit.com
 tickers.playtech.com
 ticket20.tripod.com
 ticketdoctor.net
-tickettocruise.com
 ticklemyivories.com
 tickr.quintype.com
 tidbitscom.skimlinks.com
@@ -53824,7 +53827,6 @@ zzz.clickbank.net
 .plausiblebyeshear.com
 .plavxml.com
 .plaxo.com
-.play-asia.com
 .play.es
 .play4k.co
 .playad.xjmg.com
@@ -69292,7 +69294,6 @@ zzz.clickbank.net
 .yamspunkdew.com
 .yan07.xyz
 .yanbenji.cn
-.yandex.ru
 .yandexadexchange.net
 .yandui.com
 .yangdasen.cn

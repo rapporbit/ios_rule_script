@@ -1,14 +1,14 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-08-04 02:08:03
+# UPDATED: 2021-08-05 02:07:17
 # HOST: 46
-# HOST-SUFFIX: 33466
+# HOST-SUFFIX: 33467
 # USER-AGENT: 11
 # HOST-KEYWORD: 29
 # IP-CIDR: 88
 # IP6-CIDR: 3
-# TOTAL: 33643
+# TOTAL: 33644
 HOST,amp.akamaized.net,Proxy
 HOST,apple.com.akadns.net,Proxy
 HOST,assets-priconne-redive-us.akamaized.net,Proxy
@@ -2561,6 +2561,7 @@ HOST-SUFFIX,9bam1.com,Proxy
 HOST-SUFFIX,9bas1.com,Proxy
 HOST-SUFFIX,9bis.com,Proxy
 HOST-SUFFIX,9bis.net,Proxy
+HOST-SUFFIX,9cache.com,Proxy
 HOST-SUFFIX,9cash.net,Proxy
 HOST-SUFFIX,9cdn.net,Proxy
 HOST-SUFFIX,9ff450a4-6dc6-4b0c-9e7a-87c74a5b5e70.realclearprivacy.biz,Proxy
@@ -10872,6 +10873,7 @@ HOST-SUFFIX,feikebt.com,Proxy
 HOST-SUFFIX,feikebt.pw,Proxy
 HOST-SUFFIX,feitian-california.org,Proxy
 HOST-SUFFIX,feitianacademy.org,Proxy
+HOST-SUFFIX,feixiaohao.com,Proxy
 HOST-SUFFIX,felixcat.net,Proxy
 HOST-SUFFIX,femalefounderscomp.com,Proxy
 HOST-SUFFIX,fembed.com,Proxy
@@ -14531,7 +14533,6 @@ HOST-SUFFIX,imdb.com,Proxy
 HOST-SUFFIX,imdj.imdj3001pankou.com,Proxy
 HOST-SUFFIX,imes-yabotiyu.tianjiugong.com,Proxy
 HOST-SUFFIX,imessage.tv,Proxy
-HOST-SUFFIX,img-9gag-fun.9cache.com,Proxy
 HOST-SUFFIX,img.ahri-plus.com,Proxy
 HOST-SUFFIX,img.bipics.net,Proxy
 HOST-SUFFIX,img.ly,Proxy
@@ -18010,7 +18011,6 @@ HOST-SUFFIX,mirrorsedge.com,Proxy
 HOST-SUFFIX,mirrorsedge.net,Proxy
 HOST-SUFFIX,mirrorsedge2.com,Proxy
 HOST-SUFFIX,mirrorsedge2d.com,Proxy
-HOST-SUFFIX,miscmedia-9gag-fun.9cache.com,Proxy
 HOST-SUFFIX,miss-no1.com,Proxy
 HOST-SUFFIX,miss148.com,Proxy
 HOST-SUFFIX,missrissa.net,Proxy
@@ -19165,6 +19165,7 @@ HOST-SUFFIX,ngensis.com,Proxy
 HOST-SUFFIX,ngeo.com,Proxy
 HOST-SUFFIX,nginx.com,Proxy
 HOST-SUFFIX,nginx.org,Proxy
+HOST-SUFFIX,ngodupdongchung.com,Proxy
 HOST-SUFFIX,nguyentandung.org,Proxy
 HOST-SUFFIX,nhance.com,Proxy
 HOST-SUFFIX,nhentai.com,Proxy
