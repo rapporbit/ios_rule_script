@@ -1,13 +1,13 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-08-05 02:07:18
-# DOMAIN: 14614
+# UPDATED: 2021-08-05 03:51:04
+# DOMAIN: 14628
 # DOMAIN-KEYWORD: 28
 # DOMAIN-SUFFIX: 12895
 # IP-CIDR: 158
 # IP-CIDR6: 1
-# TOTAL: 27696
+# TOTAL: 27710
 payload:
   - '0.up.qingdaonews.com'
   - '00-gov.cn'
@@ -513,6 +513,7 @@ payload:
   - '7lstw4cd.top'
   - '7mnpeh.com1.z0.glb.clouddn.com'
   - '7o2o.com'
+  - '7pud.com'
   - '7search.com'
   - '7ssw.cn'
   - '7wtic7ru.com'
@@ -641,6 +642,7 @@ payload:
   - 'a.update.51edm.net'
   - 'a.ut8d8.com'
   - 'a.vserv.mobi'
+  - 'a.xmdly.com'
   - 'a.yiyuancq.com'
   - 'a013.com'
   - 'a0675c1160de6c6.com'
@@ -4317,6 +4319,7 @@ payload:
   - 'daima.jiazhao.com'
   - 'daiporno.com'
   - 'dal9hkyfi0m0n.cloudfront.net'
+  - 'dallavel.com'
   - 'dam.zhqryw.cn'
   - 'damdoor.com'
   - 'dana123.com'
@@ -4860,6 +4863,7 @@ payload:
   - 'dynamicserving.com'
   - 'dynamicyield.com'
   - 'dynamitedata.com'
+  - 'dynatracesaas.com'
   - 'dynpaa.com'
   - 'dynsrv.wps.cn'
   - 'dynsrvtyu.com'
@@ -6249,6 +6253,7 @@ payload:
   - 'hccwwz.cn'
   - 'hcg82f2b.com'
   - 'hcwdcintgl.com'
+  - 'hd.hupu.com'
   - 'hd149026b.com'
   - 'hdat.xyz'
   - 'hdbaichuan.cn'
@@ -7432,6 +7437,7 @@ payload:
   - 'ladbrokesaffiliates.com.au'
   - 'ladnova.info'
   - 'ladsimz.com'
+  - 'ladsinfo.com'
   - 'ladskis.com'
   - 'ladskiz.com'
   - 'ladsoks.com'
@@ -8091,6 +8097,7 @@ payload:
   - 'mb4a.com'
   - 'mb57.com'
   - 'mbctxigml.com'
+  - 'mbid.io'
   - 'mbotvisit.com'
   - 'mbsivmsbuteaz.com'
   - 'mbsy.co'
@@ -8972,6 +8979,7 @@ payload:
   - 'nsstatic.com'
   - 'nsstatic.net'
   - 'nstracking.com'
+  - 'nsvfl7p9.com'
   - 'nszmz.com'
   - 'nt-associates.com'
   - 'ntent.com'
@@ -9869,6 +9877,7 @@ payload:
   - 'pr-linktausch.de'
   - 'pr-sunshine.de'
   - 'pr0gram.org'
+  - 'practively.com'
   - 'pradakomechanicals.com'
   - 'prchecker.info'
   - 'prebid.org'
@@ -10349,6 +10358,7 @@ payload:
   - 'qumagee.com'
   - 'quotidiennokoue.com'
   - 'qutyan8848.com'
+  - 'qw.baidu.com'
   - 'qwe.jzpxyd.com'
   - 'qwerfdx.com'
   - 'qwertize.com'
@@ -11790,6 +11800,7 @@ payload:
   - 'spuobvix.com'
   - 'spuriousbase.com'
   - 'spurioussteam.com'
+  - 'spycounter.net'
   - 'spylog.com'
   - 'spylog.ru'
   - 'spyoff.com'
@@ -13827,6 +13838,7 @@ payload:
   - 'wmedia-track.uc.cn'
   - 'wmflabs.org'
   - 'wmmediacorp.com'
+  - 'wmrmb.cn'
   - 'wmserver.net'
   - 'wnp.com'
   - 'woafujoa.com'
@@ -14043,6 +14055,7 @@ payload:
   - 'www.oiluk.net'
   - 'www.ostsee-schnack.de'
   - 'www.outlinearray.com'
+  - 'www.owueis.com'
   - 'www.panazan.ro'
   - 'www.perupuntocom.com'
   - 'www.petpleasers.ca'
@@ -14069,6 +14082,7 @@ payload:
   - 'www.sankyo.gr.jp'
   - 'www.sanseracingteam.com'
   - 'www.sbo.it'
+  - 'www.scanmyphones.com'
   - 'www.scantanzania.com'
   - 'www.seal-technicsag.ch'
   - 'www.secondome.com'

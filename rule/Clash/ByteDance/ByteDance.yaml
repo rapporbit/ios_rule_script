@@ -1,7 +1,7 @@
 # NAME: ByteDance
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-07-23 09:41:13
+# UPDATED: 2021-08-05 08:51:05
 # DOMAIN-SUFFIX: 248
 # IP-CIDR: 1
 # TOTAL: 249
@@ -254,4 +254,4 @@ payload:
   - DOMAIN-SUFFIX,zjcdn.com
   - DOMAIN-SUFFIX,zjgslb.com
   - DOMAIN-SUFFIX,zjurl.cn
-  - IP-CIDR,114.246.10.65/32
+  - IP-CIDR,114.246.10.65/32,no-resolve
