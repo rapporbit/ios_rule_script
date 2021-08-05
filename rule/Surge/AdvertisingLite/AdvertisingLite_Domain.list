@@ -1,15 +1,15 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-08-05 02:07:16
+# UPDATED: 2021-08-06 02:07:10
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
-# DOMAIN: 14614
+# DOMAIN: 14608
 # DOMAIN-KEYWORD: 28
 # DOMAIN-SUFFIX: 12895
 # IP-CIDR: 158
 # IP-CIDR6: 1
 # URL-REGEX: 295
-# TOTAL: 27991
+# TOTAL: 27985
 0.up.qingdaonews.com
 00-gov.cn
 0024aadd.com
@@ -318,6 +318,7 @@
 42eed1a0d9c129.com
 43137c93a82b0e81da.com
 43d6f284d10bfbbb3.com
+43plc.com
 44-trk-srv.com
 442d9f2ac50ca502.com
 45f2373b26b8e2.com
@@ -5706,7 +5707,6 @@ fueldeck.com
 fuelx.com
 fugetech.com
 fugger.ipage.com
-fuk.xckxjtbg.com
 fun-hits.com
 funchill.com
 fungus.online
@@ -6434,7 +6434,6 @@ hostingcloud.racing
 hostingcloud.science
 hostip.info
 hot-3d-girls.com
-hot-count.com
 hot-hits.us
 hot.browser.intl.miui.com
 hotchatdate.com
@@ -6442,6 +6441,7 @@ hotchatdirect.com
 hotcounter.de
 hotdogsandads.com
 hotelscombined.com.au
+hotfacesitting.com
 hotgvibe.com
 hothta.com
 hotjar.com
@@ -7207,7 +7207,6 @@ juiceadv.net
 juicycash.net
 juicypussyclips.com
 jumboaffiliates.com
-jump.mycctvmedia.com
 jumplead.com
 jumplead.io
 jumptap.com
@@ -7510,7 +7509,6 @@ leadsmonitor.io
 leadsrx.com
 leadvision.dotmailer.co.uk
 leaplunchroom.com
-leaptrade.com
 leastersmiled.pro
 leche69.com
 ledhenone.com
@@ -8584,6 +8582,7 @@ mxsuikhqaggf.com
 mxtads.com
 my-material.zone1.meitudata.com
 my-ranking.de
+my-stats.info
 my.leadpages.net
 myadcash.com
 myadultimpressions.com
@@ -8594,7 +8593,6 @@ mybestdc.com
 mybitsearch.com
 mybloglog.com
 mycasinoaccounts.com
-mycctvmedia.com
 mycdn.co
 mycdn2.co
 myclickbankads.com
@@ -8940,6 +8938,7 @@ nouseeth.com
 novadune.com
 novarevenue.com
 novelty.media
+november-lax.com
 noveslovo.com
 novostisporta.info
 nowina.info
@@ -9672,6 +9671,7 @@ platform.iteratehq.com
 platform.linkedin.com
 platform.loyaltylion.com
 platform.tumblr.com
+platformpanda.com
 plaxo.com
 play.estream.to
 play.estream.xyz
@@ -12513,7 +12513,6 @@ todayapp.tv
 todayjiaxiang.cn
 togenron.com
 togroltu.net
-tok-dan-host.com
 tokenads.com
 tollfreeforwarding.com
 tomalinoalambres.com.ar
@@ -12593,7 +12592,6 @@ totaladperformance.com
 totallifeguru.com
 totdorancaltert.club
 totemcash.com
-totifiquo.com
 touchclarity.com
 touchrom.com
 touchxd.com
@@ -13182,7 +13180,6 @@ usercentrics.eu
 usercycle.com
 userdatatrust.com
 userdive.com
-userdmp.com
 userlook.com
 userneeds.dk
 userreplay.net
@@ -13877,7 +13874,6 @@ wqlkp.com
 wqzyt.net
 wrapper.ign.com
 wrapper.lemde.fr
-wrierville.com
 writingassociates.com
 wroclawski.com.pl
 ws.browsermine.com
@@ -14179,7 +14175,6 @@ xdtraffic.com
 xdwan.com
 xel-xel-fie.com
 xelllwrite.com
-xenfrastucter.com
 xev2o.com
 xfast.host
 xfileload.com
@@ -14503,7 +14498,6 @@ zel-zel-fie.com
 zelllwrite.com
 zelrasty.net
 zengenti.com
-zenhppyad.com
 zenkreka.com
 zenoviaexchange.com
 zenoviagroup.com
