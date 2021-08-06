@@ -1,13 +1,13 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-08-06 02:07:11
-# HOST: 14608
+# UPDATED: 2021-08-07 02:06:57
+# HOST: 14605
 # HOST-KEYWORD: 28
 # HOST-SUFFIX: 12895
 # IP-CIDR: 158
 # IP6-CIDR: 1
-# TOTAL: 27690
+# TOTAL: 27687
 HOST,0.up.qingdaonews.com,AdvertisingLite
 HOST,00-gov.cn,AdvertisingLite
 HOST,0024aadd.com,AdvertisingLite
@@ -974,7 +974,6 @@ HOST,aden.baidu.com,AdvertisingLite
 HOST,adenc.co.kr,AdvertisingLite
 HOST,adengage.com,AdvertisingLite
 HOST,adentifi.com,AdvertisingLite
-HOST,adeq.hiidc.com.cn,AdvertisingLite
 HOST,adespresso.com,AdvertisingLite
 HOST,adexc.net,AdvertisingLite
 HOST,adexchange.io,AdvertisingLite
@@ -1874,6 +1873,7 @@ HOST,allmygoodlife.com,AdvertisingLite
 HOST,allmygreatestlife.com,AdvertisingLite
 HOST,allmyverygreatlife.com,AdvertisingLite
 HOST,allo-media.net,AdvertisingLite
+HOST,allosponsor.com,AdvertisingLite
 HOST,allowmailbox.com,AdvertisingLite
 HOST,alloydigital.com,AdvertisingLite
 HOST,allpass.salemwebnetwork.com,AdvertisingLite
@@ -4563,6 +4563,7 @@ HOST,dimarsbg.com,AdvertisingLite
 HOST,dimenal.com.br,AdvertisingLite
 HOST,dimestore.com,AdvertisingLite
 HOST,dimml.io,AdvertisingLite
+HOST,dimsnetwork.com,AdvertisingLite
 HOST,dinclinx.com,AdvertisingLite
 HOST,dinuojixie.com.cn,AdvertisingLite
 HOST,diplomahawaii.com,AdvertisingLite
@@ -5863,7 +5864,6 @@ HOST,getalinkandshare.com,AdvertisingLite
 HOST,getambassador.com,AdvertisingLite
 HOST,getback.ch,AdvertisingLite
 HOST,getblueshift.com,AdvertisingLite
-HOST,getbonusnow3.com,AdvertisingLite
 HOST,getclicky.com,AdvertisingLite
 HOST,getcontent.net,AdvertisingLite
 HOST,getconversion.net,AdvertisingLite
@@ -6223,7 +6223,6 @@ HOST,haprjb.com,AdvertisingLite
 HOST,haptontnerota.info,AdvertisingLite
 HOST,harrenmedianetwork.com,AdvertisingLite
 HOST,harshwhispers.com,AdvertisingLite
-HOST,harsonsy.com,AdvertisingLite
 HOST,harthatforsin.pro,AdvertisingLite
 HOST,hash-hash-tag.com,AdvertisingLite
 HOST,hashcoin.co,AdvertisingLite
@@ -6775,7 +6774,6 @@ HOST,indianweeklynews.com,AdvertisingLite
 HOST,indicia.com,AdvertisingLite
 HOST,indieclick.com,AdvertisingLite
 HOST,individuad.net,AdvertisingLite
-HOST,indlzxgptf.com,AdvertisingLite
 HOST,indofad.com,AdvertisingLite
 HOST,industrybrains.com,AdvertisingLite
 HOST,ineedhits.com,AdvertisingLite
@@ -6903,7 +6901,6 @@ HOST,intervigil.com,AdvertisingLite
 HOST,interworksmedia.co.kr,AdvertisingLite
 HOST,intextad.net,AdvertisingLite
 HOST,intextdirect.com,AdvertisingLite
-HOST,intextscript.com,AdvertisingLite
 HOST,intextual.net,AdvertisingLite
 HOST,intgr.net,AdvertisingLite
 HOST,intimlife.net,AdvertisingLite
@@ -7612,6 +7609,7 @@ HOST,linksynergy.com,AdvertisingLite
 HOST,linkvans.com,AdvertisingLite
 HOST,linkwash.de,AdvertisingLite
 HOST,linkwelove.com,AdvertisingLite
+HOST,linkwelove.it,AdvertisingLite
 HOST,linkwi.se,AdvertisingLite
 HOST,linkwithin.com,AdvertisingLite
 HOST,linkworth.com,AdvertisingLite
@@ -7866,7 +7864,6 @@ HOST,m.1s8pj.cn,AdvertisingLite
 HOST,m.20mao.com,AdvertisingLite
 HOST,m.2l06k.cn,AdvertisingLite
 HOST,m.408uo.cn,AdvertisingLite
-HOST,m.5vst8h.cn,AdvertisingLite
 HOST,m.69o1c.cn,AdvertisingLite
 HOST,m.78o5a.cn,AdvertisingLite
 HOST,m.89kvh.cn,AdvertisingLite
@@ -8374,6 +8371,7 @@ HOST,mo.oneshouyou.cn,AdvertisingLite
 HOST,mo.qitouch.cn,AdvertisingLite
 HOST,mo.rltk.com.cn,AdvertisingLite
 HOST,mo.zdceaa.cn,AdvertisingLite
+HOST,mo8mwxi1.com,AdvertisingLite
 HOST,moafoche.com,AdvertisingLite
 HOST,mob26.jnjszl.com,AdvertisingLite
 HOST,mobalives.com,AdvertisingLite
@@ -8953,7 +8951,6 @@ HOST,nr7.us,AdvertisingLite
 HOST,nrelate.com,AdvertisingLite
 HOST,nrich.ai,AdvertisingLite
 HOST,nrnma.com,AdvertisingLite
-HOST,nrrxxpvgtf.com,AdvertisingLite
 HOST,nryceuula.com,AdvertisingLite
 HOST,ns.jasnk.com,AdvertisingLite
 HOST,ns1p.net,AdvertisingLite
@@ -9926,7 +9923,6 @@ HOST,pro-pro-go.com,AdvertisingLite
 HOST,pro.baidu.com,AdvertisingLite
 HOST,pro6e.com,AdvertisingLite
 HOST,proadscdn.com,AdvertisingLite
-HOST,probannerswap.com,AdvertisingLite
 HOST,probtn.com,AdvertisingLite
 HOST,proclivitysystems.com,AdvertisingLite
 HOST,prod.untd.com,AdvertisingLite
@@ -14518,6 +14514,7 @@ HOST,zgsysz.com,AdvertisingLite
 HOST,zgzxs.weathercn.com,AdvertisingLite
 HOST,zhandi.cc,AdvertisingLite
 HOST,zhangxinzhixun.com,AdvertisingLite
+HOST,zhangyunxiawinner.top,AdvertisingLite
 HOST,zhannei-dm.csdn.net,AdvertisingLite
 HOST,zhantai.com,AdvertisingLite
 HOST,zhgg.dre8.com,AdvertisingLite

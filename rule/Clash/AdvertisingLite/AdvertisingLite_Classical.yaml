@@ -1,13 +1,13 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-08-06 02:07:11
-# DOMAIN: 14608
+# UPDATED: 2021-08-07 02:06:58
+# DOMAIN: 14605
 # DOMAIN-KEYWORD: 28
 # DOMAIN-SUFFIX: 12895
 # IP-CIDR: 158
 # IP-CIDR6: 1
-# TOTAL: 27690
+# TOTAL: 27687
 payload:
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,00-gov.cn
@@ -975,7 +975,6 @@ payload:
   - DOMAIN,adenc.co.kr
   - DOMAIN,adengage.com
   - DOMAIN,adentifi.com
-  - DOMAIN,adeq.hiidc.com.cn
   - DOMAIN,adespresso.com
   - DOMAIN,adexc.net
   - DOMAIN,adexchange.io
@@ -1875,6 +1874,7 @@ payload:
   - DOMAIN,allmygreatestlife.com
   - DOMAIN,allmyverygreatlife.com
   - DOMAIN,allo-media.net
+  - DOMAIN,allosponsor.com
   - DOMAIN,allowmailbox.com
   - DOMAIN,alloydigital.com
   - DOMAIN,allpass.salemwebnetwork.com
@@ -4564,6 +4564,7 @@ payload:
   - DOMAIN,dimenal.com.br
   - DOMAIN,dimestore.com
   - DOMAIN,dimml.io
+  - DOMAIN,dimsnetwork.com
   - DOMAIN,dinclinx.com
   - DOMAIN,dinuojixie.com.cn
   - DOMAIN,diplomahawaii.com
@@ -5864,7 +5865,6 @@ payload:
   - DOMAIN,getambassador.com
   - DOMAIN,getback.ch
   - DOMAIN,getblueshift.com
-  - DOMAIN,getbonusnow3.com
   - DOMAIN,getclicky.com
   - DOMAIN,getcontent.net
   - DOMAIN,getconversion.net
@@ -6224,7 +6224,6 @@ payload:
   - DOMAIN,haptontnerota.info
   - DOMAIN,harrenmedianetwork.com
   - DOMAIN,harshwhispers.com
-  - DOMAIN,harsonsy.com
   - DOMAIN,harthatforsin.pro
   - DOMAIN,hash-hash-tag.com
   - DOMAIN,hashcoin.co
@@ -6776,7 +6775,6 @@ payload:
   - DOMAIN,indicia.com
   - DOMAIN,indieclick.com
   - DOMAIN,individuad.net
-  - DOMAIN,indlzxgptf.com
   - DOMAIN,indofad.com
   - DOMAIN,industrybrains.com
   - DOMAIN,ineedhits.com
@@ -6904,7 +6902,6 @@ payload:
   - DOMAIN,interworksmedia.co.kr
   - DOMAIN,intextad.net
   - DOMAIN,intextdirect.com
-  - DOMAIN,intextscript.com
   - DOMAIN,intextual.net
   - DOMAIN,intgr.net
   - DOMAIN,intimlife.net
@@ -7613,6 +7610,7 @@ payload:
   - DOMAIN,linkvans.com
   - DOMAIN,linkwash.de
   - DOMAIN,linkwelove.com
+  - DOMAIN,linkwelove.it
   - DOMAIN,linkwi.se
   - DOMAIN,linkwithin.com
   - DOMAIN,linkworth.com
@@ -7867,7 +7865,6 @@ payload:
   - DOMAIN,m.20mao.com
   - DOMAIN,m.2l06k.cn
   - DOMAIN,m.408uo.cn
-  - DOMAIN,m.5vst8h.cn
   - DOMAIN,m.69o1c.cn
   - DOMAIN,m.78o5a.cn
   - DOMAIN,m.89kvh.cn
@@ -8375,6 +8372,7 @@ payload:
   - DOMAIN,mo.qitouch.cn
   - DOMAIN,mo.rltk.com.cn
   - DOMAIN,mo.zdceaa.cn
+  - DOMAIN,mo8mwxi1.com
   - DOMAIN,moafoche.com
   - DOMAIN,mob26.jnjszl.com
   - DOMAIN,mobalives.com
@@ -8954,7 +8952,6 @@ payload:
   - DOMAIN,nrelate.com
   - DOMAIN,nrich.ai
   - DOMAIN,nrnma.com
-  - DOMAIN,nrrxxpvgtf.com
   - DOMAIN,nryceuula.com
   - DOMAIN,ns.jasnk.com
   - DOMAIN,ns1p.net
@@ -9927,7 +9924,6 @@ payload:
   - DOMAIN,pro.baidu.com
   - DOMAIN,pro6e.com
   - DOMAIN,proadscdn.com
-  - DOMAIN,probannerswap.com
   - DOMAIN,probtn.com
   - DOMAIN,proclivitysystems.com
   - DOMAIN,prod.untd.com
@@ -14519,6 +14515,7 @@ payload:
   - DOMAIN,zgzxs.weathercn.com
   - DOMAIN,zhandi.cc
   - DOMAIN,zhangxinzhixun.com
+  - DOMAIN,zhangyunxiawinner.top
   - DOMAIN,zhannei-dm.csdn.net
   - DOMAIN,zhantai.com
   - DOMAIN,zhgg.dre8.com

@@ -1,13 +1,13 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-08-06 02:07:11
-# DOMAIN: 14608
+# UPDATED: 2021-08-07 02:06:58
+# DOMAIN: 14605
 # DOMAIN-KEYWORD: 28
 # DOMAIN-SUFFIX: 12895
 # IP-CIDR: 158
 # IP-CIDR6: 1
-# TOTAL: 27690
+# TOTAL: 27687
 payload:
   - '0.up.qingdaonews.com'
   - '00-gov.cn'
@@ -975,7 +975,6 @@ payload:
   - 'adenc.co.kr'
   - 'adengage.com'
   - 'adentifi.com'
-  - 'adeq.hiidc.com.cn'
   - 'adespresso.com'
   - 'adexc.net'
   - 'adexchange.io'
@@ -1875,6 +1874,7 @@ payload:
   - 'allmygreatestlife.com'
   - 'allmyverygreatlife.com'
   - 'allo-media.net'
+  - 'allosponsor.com'
   - 'allowmailbox.com'
   - 'alloydigital.com'
   - 'allpass.salemwebnetwork.com'
@@ -4564,6 +4564,7 @@ payload:
   - 'dimenal.com.br'
   - 'dimestore.com'
   - 'dimml.io'
+  - 'dimsnetwork.com'
   - 'dinclinx.com'
   - 'dinuojixie.com.cn'
   - 'diplomahawaii.com'
@@ -5864,7 +5865,6 @@ payload:
   - 'getambassador.com'
   - 'getback.ch'
   - 'getblueshift.com'
-  - 'getbonusnow3.com'
   - 'getclicky.com'
   - 'getcontent.net'
   - 'getconversion.net'
@@ -6224,7 +6224,6 @@ payload:
   - 'haptontnerota.info'
   - 'harrenmedianetwork.com'
   - 'harshwhispers.com'
-  - 'harsonsy.com'
   - 'harthatforsin.pro'
   - 'hash-hash-tag.com'
   - 'hashcoin.co'
@@ -6776,7 +6775,6 @@ payload:
   - 'indicia.com'
   - 'indieclick.com'
   - 'individuad.net'
-  - 'indlzxgptf.com'
   - 'indofad.com'
   - 'industrybrains.com'
   - 'ineedhits.com'
@@ -6904,7 +6902,6 @@ payload:
   - 'interworksmedia.co.kr'
   - 'intextad.net'
   - 'intextdirect.com'
-  - 'intextscript.com'
   - 'intextual.net'
   - 'intgr.net'
   - 'intimlife.net'
@@ -7613,6 +7610,7 @@ payload:
   - 'linkvans.com'
   - 'linkwash.de'
   - 'linkwelove.com'
+  - 'linkwelove.it'
   - 'linkwi.se'
   - 'linkwithin.com'
   - 'linkworth.com'
@@ -7867,7 +7865,6 @@ payload:
   - 'm.20mao.com'
   - 'm.2l06k.cn'
   - 'm.408uo.cn'
-  - 'm.5vst8h.cn'
   - 'm.69o1c.cn'
   - 'm.78o5a.cn'
   - 'm.89kvh.cn'
@@ -8375,6 +8372,7 @@ payload:
   - 'mo.qitouch.cn'
   - 'mo.rltk.com.cn'
   - 'mo.zdceaa.cn'
+  - 'mo8mwxi1.com'
   - 'moafoche.com'
   - 'mob26.jnjszl.com'
   - 'mobalives.com'
@@ -8954,7 +8952,6 @@ payload:
   - 'nrelate.com'
   - 'nrich.ai'
   - 'nrnma.com'
-  - 'nrrxxpvgtf.com'
   - 'nryceuula.com'
   - 'ns.jasnk.com'
   - 'ns1p.net'
@@ -9927,7 +9924,6 @@ payload:
   - 'pro.baidu.com'
   - 'pro6e.com'
   - 'proadscdn.com'
-  - 'probannerswap.com'
   - 'probtn.com'
   - 'proclivitysystems.com'
   - 'prod.untd.com'
@@ -14519,6 +14515,7 @@ payload:
   - 'zgzxs.weathercn.com'
   - 'zhandi.cc'
   - 'zhangxinzhixun.com'
+  - 'zhangyunxiawinner.top'
   - 'zhannei-dm.csdn.net'
   - 'zhantai.com'
   - 'zhgg.dre8.com'
