@@ -1,13 +1,13 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-08-07 02:06:58
-# DOMAIN: 14605
+# UPDATED: 2021-08-08 02:07:00
+# DOMAIN: 14589
 # DOMAIN-KEYWORD: 28
 # DOMAIN-SUFFIX: 12895
 # IP-CIDR: 158
 # IP-CIDR6: 1
-# TOTAL: 27687
+# TOTAL: 27671
 payload:
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,00-gov.cn
@@ -28,7 +28,6 @@ payload:
   - DOMAIN,0591101.com
   - DOMAIN,059e025e7484.com
   - DOMAIN,05ee3a24ed11df058c8.com
-  - DOMAIN,06f09b1008ae993a5a.com
   - DOMAIN,0756j.com
   - DOMAIN,0885.net
   - DOMAIN,0926a687679d337e9d.com
@@ -191,7 +190,6 @@ payload:
   - DOMAIN,247realmedia.com
   - DOMAIN,247teencash.net
   - DOMAIN,247view.net
-  - DOMAIN,24ad89fc2690ed9369.com
   - DOMAIN,24businessnews.com
   - DOMAIN,24counter.com
   - DOMAIN,24log.com
@@ -338,7 +336,6 @@ payload:
   - DOMAIN,4dsbanner.net
   - DOMAIN,4dsply.com
   - DOMAIN,4dtrk.com
-  - DOMAIN,4eacccd99990beed317.com
   - DOMAIN,4exlkjnngs.com
   - DOMAIN,4f2sm1y1ss.com
   - DOMAIN,4f6b2af479d337cf.com
@@ -423,9 +420,7 @@ payload:
   - DOMAIN,640f94e47dc41c.com
   - DOMAIN,641198810fae7.com
   - DOMAIN,64aa81cd247ea32d.com
-  - DOMAIN,651b4ee436b8cdae.com
   - DOMAIN,6548579f50dc08be9.com
-  - DOMAIN,65a29ceed813bbca61.com
   - DOMAIN,65e750617ae8f0421.com
   - DOMAIN,65mjvw6i1z.com
   - DOMAIN,65vk1fba34.com
@@ -468,7 +463,6 @@ payload:
   - DOMAIN,729dcbaa57e80c1e.com
   - DOMAIN,72b8869dfc34690.com
   - DOMAIN,736f35dde67b7da2976.com
-  - DOMAIN,739c49a8c68917.com
   - DOMAIN,73c6c063b238097.com
   - DOMAIN,743e6b34be13fb105e0.com
   - DOMAIN,746fyw2v.com
@@ -590,7 +584,6 @@ payload:
   - DOMAIN,97b1c56132dfcdd90f93-0c5c8388c0a5897e648f883e2c86dc72.r54.cf5.rackcdn.com
   - DOMAIN,97d73lsi.com
   - DOMAIN,97ff623306ff4c26996.com
-  - DOMAIN,980th.com
   - DOMAIN,98bf9h8jbg.com
   - DOMAIN,98hx.cn
   - DOMAIN,999d.com
@@ -650,10 +643,8 @@ payload:
   - DOMAIN,a0food.top
   - DOMAIN,a1.firstgw.com
   - DOMAIN,a1.mingyihui.net
-  - DOMAIN,a15256378569ec595.com
   - DOMAIN,a157ad075fcb34c.com
   - DOMAIN,a15c5009bcbe272.com
-  - DOMAIN,a1b1ea8f418ca02ad4e.com
   - DOMAIN,a22f0d8201ade09fa3.com
   - DOMAIN,a258c3523a5c4a47bda.com
   - DOMAIN,a26d31d5d6986cbe.com
@@ -1133,7 +1124,6 @@ payload:
   - DOMAIN,admission.net
   - DOMAIN,admitad.com
   - DOMAIN,admixer.net
-  - DOMAIN,admngronline.com
   - DOMAIN,admo.tv
   - DOMAIN,admtpmp127.com
   - DOMAIN,admulti.com
@@ -2568,7 +2558,6 @@ payload:
   - DOMAIN,bdsearch.2345.com
   - DOMAIN,bdstatic.eastmoney.com
   - DOMAIN,be-funk.com
-  - DOMAIN,be-notified.com
   - DOMAIN,beabsolom.com
   - DOMAIN,beacon.affil.walmart.com
   - DOMAIN,beacon.kmi-us.com
@@ -3049,7 +3038,6 @@ payload:
   - DOMAIN,buzzzoo.net
   - DOMAIN,bvakl.ifeng.com
   - DOMAIN,bwinpartypartners.com
-  - DOMAIN,bxg68.com
   - DOMAIN,bxgjpocfz1g1jiwb.pro
   - DOMAIN,by98.com
   - DOMAIN,byspot.com
@@ -3909,6 +3897,7 @@ payload:
   - DOMAIN,cpxadroit.com
   - DOMAIN,cpxdeliv.com
   - DOMAIN,cpxinteractive.com
+  - DOMAIN,cq9119.com
   - DOMAIN,cqcounter.com
   - DOMAIN,cqlupb.com
   - DOMAIN,cqmjjx.cn
@@ -4396,7 +4385,6 @@ payload:
   - DOMAIN,dc.tremormedia.com
   - DOMAIN,dc08i221b0n8a.cloudfront.net
   - DOMAIN,dc5k8fg5ioc8s.cloudfront.net
-  - DOMAIN,dc63bfb069ea522f.com
   - DOMAIN,dc8na2hxrj29i.cloudfront.net
   - DOMAIN,dc8xl0ndzn2cb.cloudfront.net
   - DOMAIN,dcmn.com
@@ -5327,7 +5315,6 @@ payload:
   - DOMAIN,f18a35cc33ee29a.com
   - DOMAIN,f1zd.com
   - DOMAIN,f35c5dba3b0b5b017.com
-  - DOMAIN,f45ff72fec5426ae.com
   - DOMAIN,f4906b7c15ba.com
   - DOMAIN,f5080f5cee5a00.com
   - DOMAIN,f5v1x3kgv5.com
@@ -6401,6 +6388,7 @@ payload:
   - DOMAIN,homelycrown.com
   - DOMAIN,honcode.ch
   - DOMAIN,honeybadger.io
+  - DOMAIN,hongze.info
   - DOMAIN,honouncil.com
   - DOMAIN,hoo1luha.com
   - DOMAIN,hoodline.com
@@ -6641,7 +6629,6 @@ payload:
   - DOMAIN,igloohq.com
   - DOMAIN,ignitioninstaller.com
   - DOMAIN,ignup.com
-  - DOMAIN,igo5.cc
   - DOMAIN,igoby.frost-electric-supply.com
   - DOMAIN,iguang.tw
   - DOMAIN,iheartbucks.com
@@ -7672,6 +7659,7 @@ payload:
   - DOMAIN,llahnch259.com
   - DOMAIN,llanotextiles.cn
   - DOMAIN,lld2q.com
+  - DOMAIN,llk.dlingtalk.cn
   - DOMAIN,lloogg.com
   - DOMAIN,llq9q2lacr.com
   - DOMAIN,llqd75c56i.com
@@ -7685,6 +7673,7 @@ payload:
   - DOMAIN,lnkgt.com
   - DOMAIN,lnkrdr.com
   - DOMAIN,lnr1.com
+  - DOMAIN,loa-traffic.com
   - DOMAIN,loadercdn.com
   - DOMAIN,loading-delivery1.com
   - DOMAIN,loading-resource.com
@@ -7866,6 +7855,7 @@ payload:
   - DOMAIN,m.2l06k.cn
   - DOMAIN,m.408uo.cn
   - DOMAIN,m.69o1c.cn
+  - DOMAIN,m.75l3g.cn
   - DOMAIN,m.78o5a.cn
   - DOMAIN,m.89kvh.cn
   - DOMAIN,m.8of9hd.cn
@@ -9674,7 +9664,6 @@ payload:
   - DOMAIN,play.istlandoll.com
   - DOMAIN,play.play.estream.to
   - DOMAIN,play.play.estream.xyz
-  - DOMAIN,play.play1.videos.vidto.me
   - DOMAIN,play.tercabilis.info
   - DOMAIN,play.video2.stream.vidzi.tv
   - DOMAIN,play4k.co
@@ -9900,7 +9889,6 @@ payload:
   - DOMAIN,privacy.claytonhomes.com
   - DOMAIN,privacy.clion.agency
   - DOMAIN,privacy.schibsted.com
-  - DOMAIN,privacy4browsers.com
   - DOMAIN,privacypolicy.trgr.be
   - DOMAIN,privacyportal.fatergroup.com
   - DOMAIN,privacyprotector.com
@@ -10010,6 +9998,7 @@ payload:
   - DOMAIN,prudsys-rde.de
   - DOMAIN,prxio.github.io
   - DOMAIN,ps.dlads.cn
+  - DOMAIN,ps7894.com
   - DOMAIN,psampabs.net
   - DOMAIN,psaukrik.net
   - DOMAIN,psclicks.com
@@ -11814,6 +11803,7 @@ payload:
   - DOMAIN,ss.chelaile.net.cn
   - DOMAIN,ssa.1337x.to
   - DOMAIN,sscj123.com
+  - DOMAIN,sscjchina.com.cn
   - DOMAIN,ssl-services.com
   - DOMAIN,ssl2.gdqifang.com
   - DOMAIN,ssl2anyone3.com
@@ -12251,7 +12241,6 @@ payload:
   - DOMAIN,tawdryson.com
   - DOMAIN,taxel.jp
   - DOMAIN,tbaffiliate.com
-  - DOMAIN,tben.nnchangyi.com
   - DOMAIN,tbex.ru
   - DOMAIN,tbnmmjm.com
   - DOMAIN,tbs.imtt.qq.com
@@ -13340,7 +13329,6 @@ payload:
   - DOMAIN,video.market.xiaomi.com
   - DOMAIN,video.oms.eu
   - DOMAIN,video.streaming.estream.to
-  - DOMAIN,video.videos.vidto.me
   - DOMAIN,videoadex.com
   - DOMAIN,videoclick.ru
   - DOMAIN,videodeals.com
@@ -13356,7 +13344,6 @@ payload:
   - DOMAIN,videosynd.kataweb.it
   - DOMAIN,vidigital.ru
   - DOMAIN,vidtech.cbsinteractive.com
-  - DOMAIN,vidto.me
   - DOMAIN,vidto.se
   - DOMAIN,vidzi.tv
   - DOMAIN,view-ads.de
@@ -14117,7 +14104,6 @@ payload:
   - DOMAIN,www.xiruz.kit.net
   - DOMAIN,www.xsl281.com
   - DOMAIN,www.ywvcomputerprocess.info
-  - DOMAIN,www.z8o.cn
   - DOMAIN,www.zatzy.com
   - DOMAIN,www.zctei.com
   - DOMAIN,www.zjsyawqj.cn
@@ -14205,7 +14191,6 @@ payload:
   - DOMAIN,xkdi.jiaxinkang.cn
   - DOMAIN,xkzrbaexyrds.com
   - DOMAIN,xl-counti.com
-  - DOMAIN,xlcun.com
   - DOMAIN,xlingdi.com
   - DOMAIN,xlisting.jp
   - DOMAIN,xlmis.com
@@ -14252,7 +14237,6 @@ payload:
   - DOMAIN,xtendmedia.com
   - DOMAIN,xtmuasvldoiz.com
   - DOMAIN,xtractor.no
-  - DOMAIN,xtraffstat.com
   - DOMAIN,xtremepush.com
   - DOMAIN,xtremeserve.xyz
   - DOMAIN,xtremline.com

@@ -1,15 +1,15 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-08-07 02:06:56
+# UPDATED: 2021-08-08 02:06:58
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
-# DOMAIN: 20934
+# DOMAIN: 20904
 # DOMAIN-KEYWORD: 88
 # DOMAIN-SUFFIX: 49926
 # IP-CIDR: 241
 # IP-CIDR6: 1
 # URL-REGEX: 301
-# TOTAL: 71491
+# TOTAL: 71461
 0.nextyourcontent.com
 0.up.qingdaonews.com
 0001.2waky.com
@@ -26,7 +26,6 @@
 00webcams.com
 01.ast.nyc2.appnexus.com
 01.imap.nyc2.appnexus.com
-01.jira.nym2.appnexus.com
 01.kdc.ams1.appnexus.com
 01.kdc.fra1.appnexus.com
 01.kdc.lax1.appnexus.com
@@ -321,7 +320,6 @@
 4asianporn.com
 4chan-tube.on.nimp.org
 4d.condenastdigital.com
-4eacccd99990beed317.com
 4fb0a3bf4a3d38.com
 4girlsfingerpaint.com
 4girlsfingerpaint.org
@@ -2117,7 +2115,6 @@ adserv.mywebtimes.com
 adserv.postbulletin.com
 adserv.usps.com
 adserv2.bravenet.com
-adserve.city-ad.com
 adserve.donanimhaber.com
 adserve.doteasy.com
 adserve.ehpub.com
@@ -3027,7 +3024,6 @@ apeelingstudios.com
 apendit.com
 aperionetwork.com
 apex-mne.com
-apex.wecleanoklahoma.com
 apfelzwerg.com
 aphrofem.com
 api-analytics.metaps.com
@@ -3624,7 +3620,6 @@ backend.smi2.net
 backend.stage.smi2.net
 backgroundpictures.net
 backlink-umsonst.de
-backlink4u.net
 backlinkwatch.com
 backofficellc.com
 backpaininstantrelief.com
@@ -3677,7 +3672,6 @@ bannanarepublic.com
 banner-a.oddcast.com
 banner-clix.com
 banner-d.oddcast.com
-banner-img.haber7.com
 banner.50megs.com
 banner.ambercoastcasino.com
 banner.casino.net
@@ -4815,7 +4809,6 @@ cashengines.com
 cashfiesta.com
 cashfile.org
 cashflowmarketing.com
-cashierresume.org
 cashmerelands.com
 cashpartner.com
 cashreportz.com
@@ -5027,7 +5020,6 @@ cdn.freelac.com
 cdn.g.promosrv.com
 cdn.g.wan.douyu.com
 cdn.hauleddes.com
-cdn.hiperadverts.com
 cdn.hunteryvely.com
 cdn.interactivemedia.net
 cdn.klasseo.com
@@ -5165,7 +5157,6 @@ chamberstimber.com
 change-bank.org
 change2nextlevel.com
 changekonsultan.com
-channel1vids.com
 channelintelligence.com
 chansteqindia.com
 chaopeng1.cn
@@ -5785,7 +5776,6 @@ coffeol.com
 cognitiveintegration.com
 cohenorbach.com
 coin-dash.com
-coin-service.com
 coinbasespromo.tumblr.com
 coincheck.com
 coinhits.com
@@ -6544,13 +6534,11 @@ datingsales.com
 datongbs.net
 datoporn.com
 datskins.com
-dattanava.com
 daurifek.net
 davarello.com
 daveblomme.com
 davideperrotta.ilbello.com
 davidpeterkerr.com
-davidveyossef.com
 davinci.snssdk.com
 dawlenie.com
 dawnframing.com
@@ -7832,12 +7820,9 @@ f.gj555.net
 f.qstatic.com
 f.thanksearch.com
 f.zeroredirect2.com
-f05098.privacy4browsers.com
 f0ad.notifychheck.com
 f1.five88.com
-f11098.privacy4browsers.com
 f18.livechatvalue.com
-f18085.privacy4browsers.com
 f2.five88.com
 f5mtrack.com
 f7.news-subscribe.com
@@ -9250,7 +9235,6 @@ googlesgo.com
 googlsucks.com
 gool.frieghtiger.com
 goolegames.com
-goooglesecurity.com
 goooooooooogle.com
 gorillasushi.com
 gorjesid.com
@@ -9275,7 +9259,6 @@ goupdate.3g.cn
 goupload.net
 govietbac.com
 govk.000webhostapp.com
-govtech-c.clickability.com
 govtech-m.clickability.com
 goyavelab.com
 gp.dejanews.com
@@ -9390,7 +9373,6 @@ grtbzrsndrrtsb.com
 grtyv.com
 grubersa.com
 grupmold.com
-grupoarcsi.com
 grupoempresarialforlin.com
 gs.speed-app.com
 gscounters.eu1.gigya.com
@@ -10121,7 +10103,6 @@ icehacks.com
 ichnaea.netflix.com
 icipourtoi.com
 icityfind.com
-icloud-privacy.com
 icloud.actonsoftware.com
 icloud21.com
 icloudverified.com
@@ -10516,7 +10497,6 @@ instagam.org
 instagfollows.com
 instagramhack.com
 install.365-stream.com
-install.myvideotab.com
 install.speedomizer.com
 install.streamit-online.com
 installads.net
@@ -11718,6 +11698,7 @@ livingpuravida.org
 livingspaceblr.com
 ljja3ef63g.com
 lladinserts.us.publicus.com
+llk.dlingtalk.cn
 lm.dianshi188.com
 lm.news-subscribe.com
 lmfdaoefn.com
@@ -11828,7 +11809,6 @@ longbeierfs.cn
 longeasy.net
 longinglettuce.com
 longixsoft.com
-longtermcareinsure.com
 longtraffic.com
 look.ichlnk.com
 look.kfiopkln.com
@@ -11939,6 +11919,7 @@ lzpv4rsmat.com
 lzrikate.com
 m-vali.cp31.ott.cibntv.net
 m.1234567.com.cn
+m.75l3g.cn
 m.78o5a.cn
 m.88viet.com
 m.8live.com
@@ -11993,6 +11974,7 @@ mackeeperapp1.zeobit.com
 mackleyn.com
 macneilproducts.com
 macookdesign.net
+macpurifier.com
 macross8.com
 mad-sound.com
 madeiravape.com
@@ -12350,7 +12332,6 @@ mediakey1.ef.com
 medialateral.com
 mediamath.com
 mediamind.com
-medianaft.com
 mediaplayercodecpack.com
 mediaplazza.com
 mediarotate.com
@@ -12713,6 +12694,7 @@ mobile333.com
 mobileactive.com
 mobileads.dieuviet.com
 mobileads.indiatimes.com
+mobileadvertisinghub.com
 mobilecore.com
 mobiledl.adboe.com
 mobilegamehackers.com
@@ -13285,7 +13267,6 @@ netherum.com
 netincap.com
 netivaartalu.com
 netleaders.com
-netpalnow.com
 netpool.netbookia.net
 netrixllc.actonsoftware.com
 netscae.com
@@ -14791,7 +14772,6 @@ printfriendly.com
 printthis.clickability.com
 printwellservices.com
 pritambhattacharjee.com
-privacy4browsers.com
 privacyassistant.net
 privatamateure.com
 private3.zapto.org
@@ -14959,7 +14939,6 @@ pryanishnikov.com
 ps.ns-cdn.com
 ps3jailbreaktuts.net
 ps3portal.net
-ps3superslimjailbreak.com
 ps4emulator.org
 ps4jailbreakk.com
 psa.appnexus.com
@@ -15029,7 +15008,6 @@ pub49.bravenet.com
 pub50.bravenet.com
 pub7.bravenet.com
 pub9.bravenet.com
-pubgsilver.com
 pubgten.com
 publiads.com
 publicaredicto.com
@@ -15062,7 +15040,6 @@ purplesteel.com
 purryowl.com
 pusatiklan.com
 push-cdn.wshareit.com
-push-tools-system.com
 push.meitu.com
 push.mobohappy.com
 push.smi2.net
@@ -15467,7 +15444,6 @@ remain.chartboosts.com
 remekcikkek.com
 remit.000webhostapp.com
 remont-kvartirspb.com
-remotepilotschool.com
 removearrest.com
 rencontreavenue.com
 renderer.qmerce.com
@@ -15520,7 +15496,6 @@ retarget.smi2.net
 retbusiness.com
 retg.ambient-platform.com
 retracker.com
-retroviajes.com
 return.domainnamesales.com
 rev.avsforum.com
 rev.da.netease.com
@@ -16293,7 +16268,6 @@ setup.advancedcleaner.com
 setupandcrack.com
 sevenartzpublicidad.com
 sevenhack.com
-sevenstars7.com
 sewardweb.com
 sex-and-flirt.com
 sex-interactive.com
@@ -16397,7 +16371,6 @@ sharefileworld.com
 sharehare.com
 shareonlinefile.com
 sharepointads.com
-sharestudio.net
 shareuptodate.com
 sharezips.net
 sharfiles.com
@@ -17988,7 +17961,6 @@ thatsjustgay.com
 thatsphucked.com
 thcextractor.com
 thcvaporizer.com
-the-best-track.com
 the-counter.net
 the-extension.com
 the-lastship.com
@@ -18682,7 +18654,6 @@ trainerfree.com
 trainingrumahsakit.com
 trakyareklam.net
 transcodedmedia.mobivite.net
-transferspeedy.com
 transformers4.leakbay.net
 transfto.com
 translation.conduit.com
@@ -20681,7 +20652,6 @@ yourfreehdtv.com
 yourfreeiphone.com
 yourfreeistuff.com
 yourfreenetbook.com
-yourfreesoftonline.com
 yourfreetabletpc.com
 yourfreevideoipods.com
 yourfreexboxone.com
@@ -20756,6 +20726,7 @@ z.dwchaha.com
 z1.adserver.com
 z1.news-subscribe.com
 z33y.notifychheck.com
+z4yp9a.qygs08.cn
 za-music.mymobiplanet.com
 za.zeroredirect1.com
 za2.zeroredirect8.com
@@ -20862,7 +20833,6 @@ zhuwawa.net
 zicks.000webhostapp.com
 zidtech.com
 ziheyuan.com
-zik-et-dance.com
 zilogora.com
 zimbra.corp.appnexus.com
 zintext.com
