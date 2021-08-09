@@ -1,15 +1,15 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-08-09 02:07:10
+# UPDATED: 2021-08-10 02:06:36
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
-# DOMAIN: 20928
+# DOMAIN: 20925
 # DOMAIN-KEYWORD: 88
-# DOMAIN-SUFFIX: 49933
+# DOMAIN-SUFFIX: 49934
 # IP-CIDR: 241
 # IP-CIDR6: 1
 # URL-REGEX: 301
-# TOTAL: 71492
+# TOTAL: 71490
 0.nextyourcontent.com
 0.up.qingdaonews.com
 0001.2waky.com
@@ -196,7 +196,6 @@
 247view.net
 24hf.inq.com
 24hf.touchcommerce.com
-24hkgame.com
 24holdem.com
 24hourdrugsource.com
 24pm-affiliation.com
@@ -390,6 +389,7 @@
 6165.rapidforum.com
 6183.eu-api.swrve.com
 6183.eu-content.swrve.com
+6198399e4910e66-ovc.com
 61kx.uk-insolvencydirect.com
 6266.570204.primosearch.com
 62m33.x.incapdns.net
@@ -2096,7 +2096,6 @@ adsapi.snapchat.com
 adsaturn.com
 adsb4trk.com
 adsbingo.com
-adsbox.detik.com
 adsbtrack.com
 adsby.effective-ads.com
 adsby.klikki.com
@@ -3189,7 +3188,6 @@ app.activetrail.com
 app.adsota.com
 app.adthink.com
 app.atlassolutions.com
-app.cdn.youquqp.com
 app.chat.global.xiaomi.net
 app.choozle.com
 app.clickmobi.cn
@@ -4231,7 +4229,6 @@ bnkhapoalim.com
 bnmgr.adinjector.net
 bnsoutlaws.co.uk
 bo-videos.s3.amazonaws.com
-bo.aizhigu8.com
 bo.facesbet.com
 bo2-hack.com
 bo2seasonpass.com
@@ -5797,7 +5794,6 @@ collect.media.jio.com
 collect.wpsmail.net
 collectiable.com
 collection.location.live.net
-collectiveads.net
 collectivedesigns.net
 collector-184.tvsquared.com
 collector-195.tvsquared.com
@@ -7257,6 +7253,7 @@ e-mediabiz.com
 e-naturessunshine.com
 e-taekwang.com
 e-telecharger.com
+e.53trya.cn
 e.a.mobimagic.com
 e.freewebhostingarea.com
 e.mtraction.com
@@ -7655,7 +7652,6 @@ etissialat.bugs3.com
 etl.tindersparks.com
 etnkorea.com
 etoroglobal.com
-etracking24.de
 etrafficcounter.com
 etrk.asus.com
 ets-grup.com
@@ -8276,6 +8272,7 @@ focusedvisual.com
 focusfile.com
 focuspowerprogram.com
 focustimeshk.com
+fodipuemoa.com
 fogjunkossze.com
 fogtrack.net
 folderdocs.com
@@ -8662,6 +8659,7 @@ fviwwkvvxs.com
 fw.nyc2.appnexus.com
 fwdservice.com
 fxox4wvv.win
+fxprime-popular.com
 fxwpmfdapcalu.com
 fxztjnsb.com
 fyoewyqwpzc.com
@@ -9127,7 +9125,6 @@ glsnqx.babala365.cn
 glucorade.com
 glunhb.txzj88.cn
 glutenfreeadventurer.com
-glxccx.hztaida.cn
 gm.symcd.com
 gmailhack.top
 gmailhackerpro.com
@@ -11371,7 +11368,6 @@ lanshanfood.com
 lanxiang.bestaffwajueji.com
 lanzar.publicidadweb.com
 lanzarotehoppa.com
-lao.aizhigu8.com
 laohuangli365.com
 laowaihere.com
 laparfumotec.com
@@ -11918,6 +11914,7 @@ luxuryupgradepro.com
 lv-home.net
 lwasxldakmhx.com
 lwspa4all.com
+lwxlsj.wap.xsbiquge.com
 lxoakdaejjryws.com
 lymphoedematherapy.com
 lync.touchcommerce.com
@@ -11934,6 +11931,7 @@ lzpv4rsmat.com
 lzrikate.com
 m-vali.cp31.ott.cibntv.net
 m.1234567.com.cn
+m.53trya.cn
 m.75l3g.cn
 m.88viet.com
 m.8live.com
@@ -12263,6 +12261,7 @@ mdn2015x3.com
 mdnhinc.com
 mdownzone.com
 mdstrat.actonsoftware.com
+mdt.grandtraversedesign.com
 measuread.com
 measurelyapp.com
 meatspin.com
@@ -12784,6 +12783,7 @@ moneymakingnews.xyz
 moneymove.smi2.net
 moneyraid.com
 moneysavingreport.com
+moneytreebillingllc.com
 moneywin24.com
 monofeel.com
 monsieuradz.zapto.org
@@ -13154,7 +13154,6 @@ n-mobile.net
 n.betus.com
 n.bodybuilding.com
 n.shwclk.com
-n01d05.cumulus-cloud.com
 n149adserv.com
 n152adserv.com
 n156adserv.com
@@ -13903,7 +13902,6 @@ org-dot-com.com
 organizedmadness.org
 organogold.com
 orgdotcom.com
-orgseweb.com
 oriceline.com
 orientacionfamiliar.net
 origin-mc.corel.com
@@ -14784,6 +14782,7 @@ printfriendly.com
 printthis.clickability.com
 printwellservices.com
 pritambhattacharjee.com
+privacy4browsers.com
 privacyassistant.net
 privatamateure.com
 private3.zapto.org
@@ -17836,7 +17835,6 @@ teamripmax.com
 teamrtb.net
 teamtusk.com
 teasereach.com
-teasergate.com
 teaserleads.com
 teasermall.com
 teasermedia.net
@@ -18568,7 +18566,6 @@ tracking.ibxlink.com
 tracking.icubeswire.com
 tracking.india.miui.com
 tracking.joker.com
-tracking.lifescript.com
 tracking.medpagetoday.com
 tracking.motleyfool.com
 tracking.myunidays.com
@@ -18995,7 +18992,6 @@ unicorbott.com
 unicume.com
 unid.go.com
 unidati.com
-unifiedpurpose.org
 unimiggroup.com
 unins.5b55.com
 unionconnectiononline.com
@@ -19416,6 +19412,7 @@ vindori.com
 vinebunker.com
 vinfdv6b4j.com
 vinitasentence.pro
+vinotecataste.com
 vintech-india.com
 vinyljazzrecords.com
 vip-traffic.com
@@ -19866,7 +19863,6 @@ whitwise.com
 whoami.akamai.net
 why-outsource.net
 why.unbounce.com
-wicklighting.com
 widestep.com
 widget-4.subiz.com
 widget-api.subiz.com
@@ -20672,6 +20668,7 @@ yourfreeflatscreen.com
 yourfreegamesnow.com
 yourfreehacks.com
 yourfreehdtv.com
+yourfreeipadmini.com
 yourfreeiphone.com
 yourfreeistuff.com
 yourfreenetbook.com
@@ -54860,6 +54857,7 @@ zzz.clickbank.net
 .pubstack.io
 .pubstr.acs.org
 .pubstr.acspubs.org
+.pubsub02.oray.net
 .pubtech.ai
 .pubted.com
 .pubwise.io

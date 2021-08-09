@@ -1,14 +1,14 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-08-09 02:07:11
+# UPDATED: 2021-08-10 02:06:37
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
-# DOMAIN: 14581
+# DOMAIN: 14577
 # DOMAIN-KEYWORD: 28
 # DOMAIN-SUFFIX: 12895
 # IP-CIDR: 1
 # URL-REGEX: 295
-# TOTAL: 27800
+# TOTAL: 27796
 0.up.qingdaonews.com
 00-gov.cn
 0024aadd.com
@@ -110,7 +110,6 @@
 13vm73vbmp.com
 14119276be0852.com
 152media.com
-153105c2f9564.com
 1543b1db8a0825760.com
 157ita684j.com
 158aq.com
@@ -404,13 +403,13 @@
 600z.com
 600zi.com
 602d76e204c032.com
-6068a17eed25.com
 6071.com
 612.com
 615b68cc9c8528e.com
 61677.com
 61677c.com
 61739011039d41a.com
+6198399e4910e66-ovc.com
 61kx.uk-insolvencydirect.com
 620c663bca9a4.com
 625c9289e60793.com
@@ -2052,7 +2051,6 @@ api.e-cg.cn
 api.groupon.com
 api.ip138.com
 api.iplay.163.com
-api.jsfc8.cn
 api.kwaizt.com
 api.miner.beeppool.org
 api.mini.wps.cn
@@ -3470,6 +3468,7 @@ clicknerd.com
 clickonometrics.pl
 clickopop1000.com
 clickosmedia.com
+clickpapa.com
 clickpartoffon.xyz
 clickpathmedia.com
 clickperks.info
@@ -3615,7 +3614,6 @@ collect.tealiumiq.com
 collecting.click
 collection-day.com
 collector.contentexchange.me
-colliersads.com
 collserve.com
 colmwynne.com
 colorfulafterthought.com
@@ -4664,7 +4662,6 @@ dofeb.frenchgerlemanelectric.com
 doghoust.net
 dogwrite.com
 dogwuyrspt.com
-dohillright.com
 dojomojo.com
 dojomojo.ninja
 dojx47ab4dyxi.cloudfront.net
@@ -4869,6 +4866,7 @@ e-viral.com
 e-webtrack.net
 e-zeeinternet.com
 e.2l06k.cn
+e.53trya.cn
 e.8of9hd.cn
 e.967nd.cn
 e.ailix.cn
@@ -4895,9 +4893,7 @@ e77lmzbqou0n-a.akamaihd.net
 e7e776c1a8bf677.com
 e85440ec98f04725.com
 e8dcdcd1ddcb352b.com
-e9976b21f1b2775b.com
 e9mlrvy1.com
-eac0823ca94e3c07.com
 eacla.com
 eads.to
 eadulttraffic.com
@@ -5193,7 +5189,6 @@ ethtrader.de
 etology.com
 etracker.com
 etracker.de
-etracking24.de
 etrader.kalahari.com
 etrader.kalahari.net
 etrafficcounter.com
@@ -5313,7 +5308,6 @@ f18a35cc33ee29a.com
 f1zd.com
 f35c5dba3b0b5b017.com
 f4906b7c15ba.com
-f5080f5cee5a00.com
 f5v1x3kgv5.com
 f8260adbf8558d6.com
 f92j5.com
@@ -6908,7 +6902,6 @@ inviziads.com
 invoc.us
 invoca.net
 invoca.solutions
-inwemo.com
 io1g.net
 iociley.com
 iocnt.net
@@ -7323,6 +7316,7 @@ kjkwrmwdyhi.com
 kjltxn.com
 kjlzt.cn
 kkf.sxdxsfw.com
+kkk.lichaoliang.com
 kkpgv2.xunlei.com
 klakus.com
 klamm-counter.de
@@ -7822,6 +7816,7 @@ lvxingxian.cn
 lwadm.com
 lwfw88.cn
 lwxjg.com
+lwxlsj.wap.xsbiquge.com
 lx2rv.com
 lxbjs.baidu.com
 lxoakdaejjryws.com
@@ -7844,13 +7839,13 @@ m-pathy.com
 m-shes.ru
 m-t.io
 m-vali.cp31.ott.cibntv.net
-m.0o8iuh.cn
 m.1234567.com.cn
 m.168ey.com
 m.1s8pj.cn
 m.20mao.com
 m.2l06k.cn
 m.408uo.cn
+m.53trya.cn
 m.69o1c.cn
 m.75l3g.cn
 m.78o5a.cn
@@ -9580,6 +9575,7 @@ phpstat.com
 phudrour.net
 phywi.org
 pi-stats.com
+pibaba.com.cn
 pic.iask.cn
 picadmedia.com
 picbucks.com
@@ -9792,6 +9788,7 @@ porndeals.com
 porndroids.com
 pornearn.com
 pornglee.com
+porngraph.com
 porngray.com
 pornkings.com
 pornleep.com
@@ -9885,6 +9882,7 @@ privacy-center.org
 privacy.claytonhomes.com
 privacy.clion.agency
 privacy.schibsted.com
+privacy4browsers.com
 privacypolicy.trgr.be
 privacyportal.fatergroup.com
 privacyprotector.com
@@ -10311,7 +10309,6 @@ quartic.pl
 quaruzon.com
 qubitproducts.com
 quensillo.com
-queqh.com
 querylead.com
 questionpro.com
 questradeaffiliates.com
@@ -11298,7 +11295,6 @@ shoptimally.com
 shopzyapp.com
 short-video.kakamobi.cn
 short.youni.im
-shoujigushi.net
 shoungak.net
 shouxaum.net
 shovi.frost-electric-supply.com
@@ -13471,7 +13467,6 @@ vpn.jnj-energy.com
 vpn.szdatayj.com
 vpn.tuodupingguomiao.com
 vpn.yike0515.com
-vpn.youyisheng.net
 vpnaffiliates.hidester.com
 vpnfortorrents.cc
 vptbn.com
@@ -13826,6 +13821,7 @@ worldgravity.com
 worldlogger.com
 worldpush.co
 worldsbestcams.com
+worldsearchpro.com
 worldwidemailer.com
 worthathousandwords.com
 worthyadvertising.com
