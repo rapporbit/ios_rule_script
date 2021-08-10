@@ -1,15 +1,15 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-08-10 02:06:35
+# UPDATED: 2021-08-11 02:08:03
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
-# DOMAIN: 20925
+# DOMAIN: 20913
 # DOMAIN-KEYWORD: 88
 # DOMAIN-SUFFIX: 49934
 # IP-CIDR: 241
 # IP-CIDR6: 1
 # URL-REGEX: 301
-# TOTAL: 71490
+# TOTAL: 71478
 0.nextyourcontent.com
 0.up.qingdaonews.com
 0001.2waky.com
@@ -2797,6 +2797,7 @@ ambiguousquilt.com
 ambitiousagreement.com
 ambulanciaslazaro.com
 amc.actonsoftware.com
+amerarani.com
 american-prize-center.com
 americanfriendsofreuth.org
 americash.com
@@ -4724,7 +4725,6 @@ canaandevtech.com
 canadaalltax.com
 cancerlove.org
 cancerpune.com
-candicedarbois.com
 candidateconnector.com
 candidography.com
 candy-crush.newzgames.com
@@ -4765,7 +4765,6 @@ carambaba.com
 carboneas.com
 cardcodes.net
 cardgamespidersolitaire.com
-cardplanetindia.com
 cardsfree.net
 care-here.000webhostapp.com
 carec.000webhostapp.com
@@ -5074,7 +5073,6 @@ cdnads.cam4.com
 cdnaws.mobidea.com
 cdncache2-a.akamaihd.net
 cdndgs.ruirobot.com
-cdnfarm18.com
 cdnjs.tvpage.com
 cdnmedia.xyz
 cdnrep.reimageplus.com
@@ -5229,6 +5227,7 @@ cheats4us.com
 cheatsandhack.com
 cheatsandroid.com
 cheatsbasis.com
+cheatsbomb.com
 cheatscastle.com
 cheatselite.com
 cheatsempire.com
@@ -6117,7 +6116,6 @@ cpabuild.com
 cpaclickoffer.com
 cpactions.com
 cpajump.centenr.com
-cpatraffictracker.com
 cpatrendreklam.com
 cpcn.000webhostapp.com
 cpi-istanbul.com
@@ -6989,6 +6987,7 @@ dowages.com
 dowdenphotography.com
 down.0551fs.com
 down.3lsoft.com
+down.cngr.cn
 down.downholic.com
 down.feiyang163.com
 down.mykings.pw
@@ -7783,7 +7782,6 @@ expressaffiliatesite.com
 expressgrab.com
 ext.baidu.com
 ext.movixhub.com
-ext.privacyassistant.net
 ext.royalcactus.com
 extafiles.com
 extengames.com
@@ -9508,7 +9506,6 @@ hack.ezeedl.com
 hack1000.com
 hack2all.com
 hack4games.com
-hack4you.org
 hackallgames.com
 hackandcheats.org
 hackappz.com
@@ -9629,7 +9626,6 @@ hadeplatform.com
 haggardandhalloo.com
 haihuang-audio.com
 hailuoxiang.com
-haishundl.com
 haixiutv.com
 hajoopteg.com
 hakdilaravakfi.com
@@ -10560,7 +10556,6 @@ internalmaryportas.com
 internationalmarble.com
 internetartfair.com
 internetfuel.com
-internetlifemagazine.com
 internetnamestore.cn
 internetsecurity.com
 interplaydesign.com
@@ -11829,7 +11824,6 @@ loomarnia.com
 loomplay.com
 loopfiles.com
 lootloo.net23.net
-lordhacks.com
 lordofads.com
 losmercantes.com
 losnahuales.com
@@ -12144,7 +12138,6 @@ marketoring.com
 marketron.com
 markkavanagh.com
 markupbd.com
-marlinaquarindo.com
 marocuisine.net
 marryinamansion.com
 marsflag.com
@@ -14024,7 +14017,6 @@ packagingtimes.com
 packethosting.net
 packsaddlefellowship.com
 pacman.gkgar.com
-paelladanielcaldeira.com
 page-2018.000webhostapp.com
 pagead.topobiavi.com
 pager.site50.net
@@ -14783,7 +14775,6 @@ printthis.clickability.com
 printwellservices.com
 pritambhattacharjee.com
 privacy4browsers.com
-privacyassistant.net
 privatamateure.com
 private3.zapto.org
 privatecash.com
@@ -15430,7 +15421,6 @@ reklamagaci.com
 reklamanet.net
 reklamaster.com
 reklamcdn.com
-reklame.unwired-i.net
 reklamnative.com
 reklampazar.com
 reklamper.com
@@ -15982,7 +15972,6 @@ score.zeroclickfraud.com
 scorecardrewards-survey.com
 scornar.com
 scorpioncigar.com
-scotiabank-secure.com
 scottfaulconbridge.com
 scprtrs.000webhostapp.com
 scratch2cash.com
@@ -17264,7 +17253,6 @@ stats.staging.suite101.com
 stats.suite101.com
 stats.thoughtcatalog.com
 stats.unionleader.com
-stats.unwired-i.net
 stats.videoseyredin.net
 stats.vidyome.com
 stats.virtuemart.net

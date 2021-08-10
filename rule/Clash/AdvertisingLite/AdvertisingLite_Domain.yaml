@@ -1,13 +1,13 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-08-10 02:06:36
-# DOMAIN: 14577
+# UPDATED: 2021-08-11 02:08:05
+# DOMAIN: 14567
 # DOMAIN-KEYWORD: 28
 # DOMAIN-SUFFIX: 12895
 # IP-CIDR: 158
 # IP-CIDR6: 1
-# TOTAL: 27659
+# TOTAL: 27649
 payload:
   - '0.up.qingdaonews.com'
   - '00-gov.cn'
@@ -407,7 +407,6 @@ payload:
   - '612.com'
   - '615b68cc9c8528e.com'
   - '61677.com'
-  - '61677c.com'
   - '61739011039d41a.com'
   - '6198399e4910e66-ovc.com'
   - '61kx.uk-insolvencydirect.com'
@@ -786,7 +785,6 @@ payload:
   - 'actuallysheep.com'
   - 'acwyoynw.com'
   - 'acxiomapac.com'
-  - 'ad-arata.com'
   - 'ad-back.net'
   - 'ad-balancer.net'
   - 'ad-bay.com'
@@ -3244,7 +3242,6 @@ payload:
   - 'cdnativ.com'
   - 'cdnaz.win'
   - 'cdncache2-a.akamaihd.net'
-  - 'cdnfarm18.com'
   - 'cdnjke.com'
   - 'cdnlog.zhenai.com'
   - 'cdnmaster.cn'
@@ -4914,6 +4911,7 @@ payload:
   - 'easyaccess.mobi'
   - 'easyad.com'
   - 'easycounter.com'
+  - 'easydownload4you.com'
   - 'easydownloadnow.com'
   - 'easyfeeed.com'
   - 'easyflirt-partners.biz'
@@ -7285,7 +7283,6 @@ payload:
   - 'khewwakrywmgxr.com'
   - 'khg.xinrongblg.com'
   - 'khgj.cn'
-  - 'khzbeucrltin.com'
   - 'kickass.best'
   - 'kickass.vc'
   - 'kids-fashion.dk'
@@ -8193,7 +8190,6 @@ payload:
   - 'mercy.ga'
   - 'meried.co'
   - 'merlin.abc.go.com'
-  - 'meryjane.pro'
   - 'messengerpeople.com'
   - 'meta4-group.com'
   - 'metalyzer.com'
@@ -8926,7 +8922,6 @@ payload:
   - 'noy-95.com'
   - 'npario-inc.net'
   - 'npcdn1.now.sh'
-  - 'nplexmedia.com'
   - 'nprove.com'
   - 'npvos.com'
   - 'nr7.us'
@@ -8990,7 +8985,6 @@ payload:
   - 'o-oo.ooo'
   - 'o-s.io'
   - 'o.a0shop.top'
-  - 'o.nkwwpw.com'
   - 'o12zs3u2n.com'
   - 'o2live.com'
   - 'o333o.com'
@@ -12142,7 +12136,6 @@ payload:
   - 'szinhaz.hu'
   - 'szvr.com'
   - 'szwsesc.cn'
-  - 't-abi.hypers.com.cn'
   - 't-analytics.com'
   - 't.58xs.com'
   - 't.dailymail.co.uk'
@@ -12784,6 +12777,7 @@ payload:
   - 'triver.jp'
   - 'trk.pswec.com'
   - 'trk4.com'
+  - 'trkclk.net'
   - 'trker.com'
   - 'trkjmp.com'
   - 'trklnks.com'
@@ -12814,7 +12808,6 @@ payload:
   - 'trustaffs.com'
   - 'trustarc.com'
   - 'trw12.com'
-  - 'trwbkkxk.com'
   - 'try.abtasty.com'
   - 'try9.com'
   - 'trymynewspirit.com'
@@ -12966,7 +12959,6 @@ payload:
   - 'twtad.com'
   - 'txkjad.com'
   - 'txt.eu'
-  - 'txtxz.org.cn'
   - 'tydd.hunterwish.cn'
   - 'tynt.com'
   - 'tynyh.com'
@@ -13427,7 +13419,6 @@ payload:
   - 'vmhzvqzx.com'
   - 'vmindhls.tc.qq.com'
   - 'vmm-satellite1.com'
-  - 'vmmpxl.com'
   - 'vmraahnmspzy.com'
   - 'vnet.cn'
   - 'vnrherdsxr.com'
@@ -13874,7 +13865,6 @@ payload:
   - 'wwclicknews.club'
   - 'wwgate.ru'
   - 'wwrpfevyca.com'
-  - 'www-61677.com'
   - 'www-path.com'
   - 'www-protection.com'
   - 'www-sina-cn-com.com'

@@ -1,14 +1,14 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-08-07 02:06:58
+# UPDATED: 2021-08-11 02:08:05
 # DOMAIN: 46
-# DOMAIN-SUFFIX: 33468
+# DOMAIN-SUFFIX: 33469
 # USER-AGENT: 11
 # DOMAIN-KEYWORD: 29
 # IP-CIDR: 88
 # IP-CIDR6: 3
-# TOTAL: 33645
+# TOTAL: 33646
 amp.akamaized.net
 apple.com.akadns.net
 assets-priconne-redive-us.akamaized.net
@@ -25069,6 +25069,7 @@ www-cdn.icloud.com.akadns.net
 .tinyrealm.com
 .tinytu.be
 .tinyurl.com
+.tipas.net
 .tipo.gov.tw
 .tiresplus.com
 .tistory.com

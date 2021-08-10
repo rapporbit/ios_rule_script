@@ -1,13 +1,13 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-08-10 02:06:35
-# HOST: 14577
+# UPDATED: 2021-08-11 02:08:04
+# HOST: 14567
 # HOST-KEYWORD: 28
 # HOST-SUFFIX: 12895
 # IP-CIDR: 158
 # IP6-CIDR: 1
-# TOTAL: 27659
+# TOTAL: 27649
 HOST,0.up.qingdaonews.com,AdvertisingLite
 HOST,00-gov.cn,AdvertisingLite
 HOST,0024aadd.com,AdvertisingLite
@@ -406,7 +406,6 @@ HOST,6071.com,AdvertisingLite
 HOST,612.com,AdvertisingLite
 HOST,615b68cc9c8528e.com,AdvertisingLite
 HOST,61677.com,AdvertisingLite
-HOST,61677c.com,AdvertisingLite
 HOST,61739011039d41a.com,AdvertisingLite
 HOST,6198399e4910e66-ovc.com,AdvertisingLite
 HOST,61kx.uk-insolvencydirect.com,AdvertisingLite
@@ -785,7 +784,6 @@ HOST,actpx.com,AdvertisingLite
 HOST,actuallysheep.com,AdvertisingLite
 HOST,acwyoynw.com,AdvertisingLite
 HOST,acxiomapac.com,AdvertisingLite
-HOST,ad-arata.com,AdvertisingLite
 HOST,ad-back.net,AdvertisingLite
 HOST,ad-balancer.net,AdvertisingLite
 HOST,ad-bay.com,AdvertisingLite
@@ -3243,7 +3241,6 @@ HOST,cdnapi.net,AdvertisingLite
 HOST,cdnativ.com,AdvertisingLite
 HOST,cdnaz.win,AdvertisingLite
 HOST,cdncache2-a.akamaihd.net,AdvertisingLite
-HOST,cdnfarm18.com,AdvertisingLite
 HOST,cdnjke.com,AdvertisingLite
 HOST,cdnlog.zhenai.com,AdvertisingLite
 HOST,cdnmaster.cn,AdvertisingLite
@@ -4913,6 +4910,7 @@ HOST,easy.lv,AdvertisingLite
 HOST,easyaccess.mobi,AdvertisingLite
 HOST,easyad.com,AdvertisingLite
 HOST,easycounter.com,AdvertisingLite
+HOST,easydownload4you.com,AdvertisingLite
 HOST,easydownloadnow.com,AdvertisingLite
 HOST,easyfeeed.com,AdvertisingLite
 HOST,easyflirt-partners.biz,AdvertisingLite
@@ -7284,7 +7282,6 @@ HOST,keyxel.com,AdvertisingLite
 HOST,khewwakrywmgxr.com,AdvertisingLite
 HOST,khg.xinrongblg.com,AdvertisingLite
 HOST,khgj.cn,AdvertisingLite
-HOST,khzbeucrltin.com,AdvertisingLite
 HOST,kickass.best,AdvertisingLite
 HOST,kickass.vc,AdvertisingLite
 HOST,kids-fashion.dk,AdvertisingLite
@@ -8192,7 +8189,6 @@ HOST,mercury.jd.com,AdvertisingLite
 HOST,mercy.ga,AdvertisingLite
 HOST,meried.co,AdvertisingLite
 HOST,merlin.abc.go.com,AdvertisingLite
-HOST,meryjane.pro,AdvertisingLite
 HOST,messengerpeople.com,AdvertisingLite
 HOST,meta4-group.com,AdvertisingLite
 HOST,metalyzer.com,AdvertisingLite
@@ -8925,7 +8921,6 @@ HOST,nowspots.com,AdvertisingLite
 HOST,noy-95.com,AdvertisingLite
 HOST,npario-inc.net,AdvertisingLite
 HOST,npcdn1.now.sh,AdvertisingLite
-HOST,nplexmedia.com,AdvertisingLite
 HOST,nprove.com,AdvertisingLite
 HOST,npvos.com,AdvertisingLite
 HOST,nr7.us,AdvertisingLite
@@ -8989,7 +8984,6 @@ HOST,nzhuswwhd.com,AdvertisingLite
 HOST,o-oo.ooo,AdvertisingLite
 HOST,o-s.io,AdvertisingLite
 HOST,o.a0shop.top,AdvertisingLite
-HOST,o.nkwwpw.com,AdvertisingLite
 HOST,o12zs3u2n.com,AdvertisingLite
 HOST,o2live.com,AdvertisingLite
 HOST,o333o.com,AdvertisingLite
@@ -12141,7 +12135,6 @@ HOST,szhomes.net,AdvertisingLite
 HOST,szinhaz.hu,AdvertisingLite
 HOST,szvr.com,AdvertisingLite
 HOST,szwsesc.cn,AdvertisingLite
-HOST,t-abi.hypers.com.cn,AdvertisingLite
 HOST,t-analytics.com,AdvertisingLite
 HOST,t.58xs.com,AdvertisingLite
 HOST,t.dailymail.co.uk,AdvertisingLite
@@ -12783,6 +12776,7 @@ HOST,triptease.net,AdvertisingLite
 HOST,triver.jp,AdvertisingLite
 HOST,trk.pswec.com,AdvertisingLite
 HOST,trk4.com,AdvertisingLite
+HOST,trkclk.net,AdvertisingLite
 HOST,trker.com,AdvertisingLite
 HOST,trkjmp.com,AdvertisingLite
 HOST,trklnks.com,AdvertisingLite
@@ -12813,7 +12807,6 @@ HOST,trust.zone,AdvertisingLite
 HOST,trustaffs.com,AdvertisingLite
 HOST,trustarc.com,AdvertisingLite
 HOST,trw12.com,AdvertisingLite
-HOST,trwbkkxk.com,AdvertisingLite
 HOST,try.abtasty.com,AdvertisingLite
 HOST,try9.com,AdvertisingLite
 HOST,trymynewspirit.com,AdvertisingLite
@@ -12965,7 +12958,6 @@ HOST,twrank.com,AdvertisingLite
 HOST,twtad.com,AdvertisingLite
 HOST,txkjad.com,AdvertisingLite
 HOST,txt.eu,AdvertisingLite
-HOST,txtxz.org.cn,AdvertisingLite
 HOST,tydd.hunterwish.cn,AdvertisingLite
 HOST,tynt.com,AdvertisingLite
 HOST,tynyh.com,AdvertisingLite
@@ -13426,7 +13418,6 @@ HOST,vmay.com,AdvertisingLite
 HOST,vmhzvqzx.com,AdvertisingLite
 HOST,vmindhls.tc.qq.com,AdvertisingLite
 HOST,vmm-satellite1.com,AdvertisingLite
-HOST,vmmpxl.com,AdvertisingLite
 HOST,vmraahnmspzy.com,AdvertisingLite
 HOST,vnet.cn,AdvertisingLite
 HOST,vnrherdsxr.com,AdvertisingLite
@@ -13873,7 +13864,6 @@ HOST,wwbn.com,AdvertisingLite
 HOST,wwclicknews.club,AdvertisingLite
 HOST,wwgate.ru,AdvertisingLite
 HOST,wwrpfevyca.com,AdvertisingLite
-HOST,www-61677.com,AdvertisingLite
 HOST,www-path.com,AdvertisingLite
 HOST,www-protection.com,AdvertisingLite
 HOST,www-sina-cn-com.com,AdvertisingLite

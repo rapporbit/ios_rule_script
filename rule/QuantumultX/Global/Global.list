@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-08-07 02:06:57
+# UPDATED: 2021-08-11 02:08:04
 # HOST: 50
-# HOST-SUFFIX: 33454
+# HOST-SUFFIX: 33455
 # USER-AGENT: 48
 # HOST-KEYWORD: 41
 # IP-CIDR: 128
 # IP6-CIDR: 3
-# TOTAL: 33724
+# TOTAL: 33725
 HOST,amp.akamaized.net,Global
 HOST,apple.com.akadns.net,Global
 HOST,assets-priconne-redive-us.akamaized.net,Global
@@ -25072,6 +25072,7 @@ HOST-SUFFIX,tinypic.com,Global
 HOST-SUFFIX,tinyrealm.com,Global
 HOST-SUFFIX,tinytu.be,Global
 HOST-SUFFIX,tinyurl.com,Global
+HOST-SUFFIX,tipas.net,Global
 HOST-SUFFIX,tipo.gov.tw,Global
 HOST-SUFFIX,tiresplus.com,Global
 HOST-SUFFIX,tistory.com,Global

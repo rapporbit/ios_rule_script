@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-08-10 02:06:36
-# DOMAIN: 20925
+# UPDATED: 2021-08-11 02:08:05
+# DOMAIN: 20913
 # DOMAIN-KEYWORD: 88
 # DOMAIN-SUFFIX: 49934
 # IP-CIDR: 241
 # IP-CIDR6: 1
-# TOTAL: 71189
+# TOTAL: 71177
 payload:
   - DOMAIN,0.nextyourcontent.com
   - DOMAIN,0.up.qingdaonews.com
@@ -2796,6 +2796,7 @@ payload:
   - DOMAIN,ambitiousagreement.com
   - DOMAIN,ambulanciaslazaro.com
   - DOMAIN,amc.actonsoftware.com
+  - DOMAIN,amerarani.com
   - DOMAIN,american-prize-center.com
   - DOMAIN,americanfriendsofreuth.org
   - DOMAIN,americash.com
@@ -4723,7 +4724,6 @@ payload:
   - DOMAIN,canadaalltax.com
   - DOMAIN,cancerlove.org
   - DOMAIN,cancerpune.com
-  - DOMAIN,candicedarbois.com
   - DOMAIN,candidateconnector.com
   - DOMAIN,candidography.com
   - DOMAIN,candy-crush.newzgames.com
@@ -4764,7 +4764,6 @@ payload:
   - DOMAIN,carboneas.com
   - DOMAIN,cardcodes.net
   - DOMAIN,cardgamespidersolitaire.com
-  - DOMAIN,cardplanetindia.com
   - DOMAIN,cardsfree.net
   - DOMAIN,care-here.000webhostapp.com
   - DOMAIN,carec.000webhostapp.com
@@ -5073,7 +5072,6 @@ payload:
   - DOMAIN,cdnaws.mobidea.com
   - DOMAIN,cdncache2-a.akamaihd.net
   - DOMAIN,cdndgs.ruirobot.com
-  - DOMAIN,cdnfarm18.com
   - DOMAIN,cdnjs.tvpage.com
   - DOMAIN,cdnmedia.xyz
   - DOMAIN,cdnrep.reimageplus.com
@@ -5228,6 +5226,7 @@ payload:
   - DOMAIN,cheatsandhack.com
   - DOMAIN,cheatsandroid.com
   - DOMAIN,cheatsbasis.com
+  - DOMAIN,cheatsbomb.com
   - DOMAIN,cheatscastle.com
   - DOMAIN,cheatselite.com
   - DOMAIN,cheatsempire.com
@@ -6116,7 +6115,6 @@ payload:
   - DOMAIN,cpaclickoffer.com
   - DOMAIN,cpactions.com
   - DOMAIN,cpajump.centenr.com
-  - DOMAIN,cpatraffictracker.com
   - DOMAIN,cpatrendreklam.com
   - DOMAIN,cpcn.000webhostapp.com
   - DOMAIN,cpi-istanbul.com
@@ -6988,6 +6986,7 @@ payload:
   - DOMAIN,dowdenphotography.com
   - DOMAIN,down.0551fs.com
   - DOMAIN,down.3lsoft.com
+  - DOMAIN,down.cngr.cn
   - DOMAIN,down.downholic.com
   - DOMAIN,down.feiyang163.com
   - DOMAIN,down.mykings.pw
@@ -7782,7 +7781,6 @@ payload:
   - DOMAIN,expressgrab.com
   - DOMAIN,ext.baidu.com
   - DOMAIN,ext.movixhub.com
-  - DOMAIN,ext.privacyassistant.net
   - DOMAIN,ext.royalcactus.com
   - DOMAIN,extafiles.com
   - DOMAIN,extengames.com
@@ -9507,7 +9505,6 @@ payload:
   - DOMAIN,hack1000.com
   - DOMAIN,hack2all.com
   - DOMAIN,hack4games.com
-  - DOMAIN,hack4you.org
   - DOMAIN,hackallgames.com
   - DOMAIN,hackandcheats.org
   - DOMAIN,hackappz.com
@@ -9628,7 +9625,6 @@ payload:
   - DOMAIN,haggardandhalloo.com
   - DOMAIN,haihuang-audio.com
   - DOMAIN,hailuoxiang.com
-  - DOMAIN,haishundl.com
   - DOMAIN,haixiutv.com
   - DOMAIN,hajoopteg.com
   - DOMAIN,hakdilaravakfi.com
@@ -10559,7 +10555,6 @@ payload:
   - DOMAIN,internationalmarble.com
   - DOMAIN,internetartfair.com
   - DOMAIN,internetfuel.com
-  - DOMAIN,internetlifemagazine.com
   - DOMAIN,internetnamestore.cn
   - DOMAIN,internetsecurity.com
   - DOMAIN,interplaydesign.com
@@ -11828,7 +11823,6 @@ payload:
   - DOMAIN,loomplay.com
   - DOMAIN,loopfiles.com
   - DOMAIN,lootloo.net23.net
-  - DOMAIN,lordhacks.com
   - DOMAIN,lordofads.com
   - DOMAIN,losmercantes.com
   - DOMAIN,losnahuales.com
@@ -12143,7 +12137,6 @@ payload:
   - DOMAIN,marketron.com
   - DOMAIN,markkavanagh.com
   - DOMAIN,markupbd.com
-  - DOMAIN,marlinaquarindo.com
   - DOMAIN,marocuisine.net
   - DOMAIN,marryinamansion.com
   - DOMAIN,marsflag.com
@@ -14023,7 +14016,6 @@ payload:
   - DOMAIN,packethosting.net
   - DOMAIN,packsaddlefellowship.com
   - DOMAIN,pacman.gkgar.com
-  - DOMAIN,paelladanielcaldeira.com
   - DOMAIN,page-2018.000webhostapp.com
   - DOMAIN,pagead.topobiavi.com
   - DOMAIN,pager.site50.net
@@ -14782,7 +14774,6 @@ payload:
   - DOMAIN,printwellservices.com
   - DOMAIN,pritambhattacharjee.com
   - DOMAIN,privacy4browsers.com
-  - DOMAIN,privacyassistant.net
   - DOMAIN,privatamateure.com
   - DOMAIN,private3.zapto.org
   - DOMAIN,privatecash.com
@@ -15429,7 +15420,6 @@ payload:
   - DOMAIN,reklamanet.net
   - DOMAIN,reklamaster.com
   - DOMAIN,reklamcdn.com
-  - DOMAIN,reklame.unwired-i.net
   - DOMAIN,reklamnative.com
   - DOMAIN,reklampazar.com
   - DOMAIN,reklamper.com
@@ -15981,7 +15971,6 @@ payload:
   - DOMAIN,scorecardrewards-survey.com
   - DOMAIN,scornar.com
   - DOMAIN,scorpioncigar.com
-  - DOMAIN,scotiabank-secure.com
   - DOMAIN,scottfaulconbridge.com
   - DOMAIN,scprtrs.000webhostapp.com
   - DOMAIN,scratch2cash.com
@@ -17263,7 +17252,6 @@ payload:
   - DOMAIN,stats.suite101.com
   - DOMAIN,stats.thoughtcatalog.com
   - DOMAIN,stats.unionleader.com
-  - DOMAIN,stats.unwired-i.net
   - DOMAIN,stats.videoseyredin.net
   - DOMAIN,stats.vidyome.com
   - DOMAIN,stats.virtuemart.net

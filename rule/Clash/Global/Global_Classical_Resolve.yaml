@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-08-07 02:06:59
+# UPDATED: 2021-08-11 02:08:06
 # DOMAIN: 50
-# DOMAIN-SUFFIX: 33454
+# DOMAIN-SUFFIX: 33455
 # DOMAIN-KEYWORD: 41
 # IP-CIDR: 128
 # IP-CIDR6: 3
 # PROCESS-NAME: 1
-# TOTAL: 33677
+# TOTAL: 33678
 payload:
   - DOMAIN,amp.akamaized.net
   - DOMAIN,apple.com.akadns.net
@@ -25073,6 +25073,7 @@ payload:
   - DOMAIN-SUFFIX,tinyrealm.com
   - DOMAIN-SUFFIX,tinytu.be
   - DOMAIN-SUFFIX,tinyurl.com
+  - DOMAIN-SUFFIX,tipas.net
   - DOMAIN-SUFFIX,tipo.gov.tw
   - DOMAIN-SUFFIX,tiresplus.com
   - DOMAIN-SUFFIX,tistory.com

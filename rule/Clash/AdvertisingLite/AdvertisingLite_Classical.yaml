@@ -1,13 +1,13 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-08-10 02:06:36
-# DOMAIN: 14577
+# UPDATED: 2021-08-11 02:08:05
+# DOMAIN: 14567
 # DOMAIN-KEYWORD: 28
 # DOMAIN-SUFFIX: 12895
 # IP-CIDR: 158
 # IP-CIDR6: 1
-# TOTAL: 27659
+# TOTAL: 27649
 payload:
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,00-gov.cn
@@ -407,7 +407,6 @@ payload:
   - DOMAIN,612.com
   - DOMAIN,615b68cc9c8528e.com
   - DOMAIN,61677.com
-  - DOMAIN,61677c.com
   - DOMAIN,61739011039d41a.com
   - DOMAIN,6198399e4910e66-ovc.com
   - DOMAIN,61kx.uk-insolvencydirect.com
@@ -786,7 +785,6 @@ payload:
   - DOMAIN,actuallysheep.com
   - DOMAIN,acwyoynw.com
   - DOMAIN,acxiomapac.com
-  - DOMAIN,ad-arata.com
   - DOMAIN,ad-back.net
   - DOMAIN,ad-balancer.net
   - DOMAIN,ad-bay.com
@@ -3244,7 +3242,6 @@ payload:
   - DOMAIN,cdnativ.com
   - DOMAIN,cdnaz.win
   - DOMAIN,cdncache2-a.akamaihd.net
-  - DOMAIN,cdnfarm18.com
   - DOMAIN,cdnjke.com
   - DOMAIN,cdnlog.zhenai.com
   - DOMAIN,cdnmaster.cn
@@ -4914,6 +4911,7 @@ payload:
   - DOMAIN,easyaccess.mobi
   - DOMAIN,easyad.com
   - DOMAIN,easycounter.com
+  - DOMAIN,easydownload4you.com
   - DOMAIN,easydownloadnow.com
   - DOMAIN,easyfeeed.com
   - DOMAIN,easyflirt-partners.biz
@@ -7285,7 +7283,6 @@ payload:
   - DOMAIN,khewwakrywmgxr.com
   - DOMAIN,khg.xinrongblg.com
   - DOMAIN,khgj.cn
-  - DOMAIN,khzbeucrltin.com
   - DOMAIN,kickass.best
   - DOMAIN,kickass.vc
   - DOMAIN,kids-fashion.dk
@@ -8193,7 +8190,6 @@ payload:
   - DOMAIN,mercy.ga
   - DOMAIN,meried.co
   - DOMAIN,merlin.abc.go.com
-  - DOMAIN,meryjane.pro
   - DOMAIN,messengerpeople.com
   - DOMAIN,meta4-group.com
   - DOMAIN,metalyzer.com
@@ -8926,7 +8922,6 @@ payload:
   - DOMAIN,noy-95.com
   - DOMAIN,npario-inc.net
   - DOMAIN,npcdn1.now.sh
-  - DOMAIN,nplexmedia.com
   - DOMAIN,nprove.com
   - DOMAIN,npvos.com
   - DOMAIN,nr7.us
@@ -8990,7 +8985,6 @@ payload:
   - DOMAIN,o-oo.ooo
   - DOMAIN,o-s.io
   - DOMAIN,o.a0shop.top
-  - DOMAIN,o.nkwwpw.com
   - DOMAIN,o12zs3u2n.com
   - DOMAIN,o2live.com
   - DOMAIN,o333o.com
@@ -12142,7 +12136,6 @@ payload:
   - DOMAIN,szinhaz.hu
   - DOMAIN,szvr.com
   - DOMAIN,szwsesc.cn
-  - DOMAIN,t-abi.hypers.com.cn
   - DOMAIN,t-analytics.com
   - DOMAIN,t.58xs.com
   - DOMAIN,t.dailymail.co.uk
@@ -12784,6 +12777,7 @@ payload:
   - DOMAIN,triver.jp
   - DOMAIN,trk.pswec.com
   - DOMAIN,trk4.com
+  - DOMAIN,trkclk.net
   - DOMAIN,trker.com
   - DOMAIN,trkjmp.com
   - DOMAIN,trklnks.com
@@ -12814,7 +12808,6 @@ payload:
   - DOMAIN,trustaffs.com
   - DOMAIN,trustarc.com
   - DOMAIN,trw12.com
-  - DOMAIN,trwbkkxk.com
   - DOMAIN,try.abtasty.com
   - DOMAIN,try9.com
   - DOMAIN,trymynewspirit.com
@@ -12966,7 +12959,6 @@ payload:
   - DOMAIN,twtad.com
   - DOMAIN,txkjad.com
   - DOMAIN,txt.eu
-  - DOMAIN,txtxz.org.cn
   - DOMAIN,tydd.hunterwish.cn
   - DOMAIN,tynt.com
   - DOMAIN,tynyh.com
@@ -13427,7 +13419,6 @@ payload:
   - DOMAIN,vmhzvqzx.com
   - DOMAIN,vmindhls.tc.qq.com
   - DOMAIN,vmm-satellite1.com
-  - DOMAIN,vmmpxl.com
   - DOMAIN,vmraahnmspzy.com
   - DOMAIN,vnet.cn
   - DOMAIN,vnrherdsxr.com
@@ -13874,7 +13865,6 @@ payload:
   - DOMAIN,wwclicknews.club
   - DOMAIN,wwgate.ru
   - DOMAIN,wwrpfevyca.com
-  - DOMAIN,www-61677.com
   - DOMAIN,www-path.com
   - DOMAIN,www-protection.com
   - DOMAIN,www-sina-cn-com.com

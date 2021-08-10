@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-08-10 02:06:35
-# HOST: 20925
+# UPDATED: 2021-08-11 02:08:04
+# HOST: 20913
 # HOST-KEYWORD: 88
 # HOST-SUFFIX: 49934
 # IP-CIDR: 241
 # IP6-CIDR: 1
-# TOTAL: 71189
+# TOTAL: 71177
 HOST,0.nextyourcontent.com,Advertising
 HOST,0.up.qingdaonews.com,Advertising
 HOST,0001.2waky.com,Advertising
@@ -2795,6 +2795,7 @@ HOST,ambiguousquilt.com,Advertising
 HOST,ambitiousagreement.com,Advertising
 HOST,ambulanciaslazaro.com,Advertising
 HOST,amc.actonsoftware.com,Advertising
+HOST,amerarani.com,Advertising
 HOST,american-prize-center.com,Advertising
 HOST,americanfriendsofreuth.org,Advertising
 HOST,americash.com,Advertising
@@ -4722,7 +4723,6 @@ HOST,canaandevtech.com,Advertising
 HOST,canadaalltax.com,Advertising
 HOST,cancerlove.org,Advertising
 HOST,cancerpune.com,Advertising
-HOST,candicedarbois.com,Advertising
 HOST,candidateconnector.com,Advertising
 HOST,candidography.com,Advertising
 HOST,candy-crush.newzgames.com,Advertising
@@ -4763,7 +4763,6 @@ HOST,carambaba.com,Advertising
 HOST,carboneas.com,Advertising
 HOST,cardcodes.net,Advertising
 HOST,cardgamespidersolitaire.com,Advertising
-HOST,cardplanetindia.com,Advertising
 HOST,cardsfree.net,Advertising
 HOST,care-here.000webhostapp.com,Advertising
 HOST,carec.000webhostapp.com,Advertising
@@ -5072,7 +5071,6 @@ HOST,cdnads.cam4.com,Advertising
 HOST,cdnaws.mobidea.com,Advertising
 HOST,cdncache2-a.akamaihd.net,Advertising
 HOST,cdndgs.ruirobot.com,Advertising
-HOST,cdnfarm18.com,Advertising
 HOST,cdnjs.tvpage.com,Advertising
 HOST,cdnmedia.xyz,Advertising
 HOST,cdnrep.reimageplus.com,Advertising
@@ -5227,6 +5225,7 @@ HOST,cheats4us.com,Advertising
 HOST,cheatsandhack.com,Advertising
 HOST,cheatsandroid.com,Advertising
 HOST,cheatsbasis.com,Advertising
+HOST,cheatsbomb.com,Advertising
 HOST,cheatscastle.com,Advertising
 HOST,cheatselite.com,Advertising
 HOST,cheatsempire.com,Advertising
@@ -6115,7 +6114,6 @@ HOST,cpabuild.com,Advertising
 HOST,cpaclickoffer.com,Advertising
 HOST,cpactions.com,Advertising
 HOST,cpajump.centenr.com,Advertising
-HOST,cpatraffictracker.com,Advertising
 HOST,cpatrendreklam.com,Advertising
 HOST,cpcn.000webhostapp.com,Advertising
 HOST,cpi-istanbul.com,Advertising
@@ -6987,6 +6985,7 @@ HOST,dowages.com,Advertising
 HOST,dowdenphotography.com,Advertising
 HOST,down.0551fs.com,Advertising
 HOST,down.3lsoft.com,Advertising
+HOST,down.cngr.cn,Advertising
 HOST,down.downholic.com,Advertising
 HOST,down.feiyang163.com,Advertising
 HOST,down.mykings.pw,Advertising
@@ -7781,7 +7780,6 @@ HOST,expressaffiliatesite.com,Advertising
 HOST,expressgrab.com,Advertising
 HOST,ext.baidu.com,Advertising
 HOST,ext.movixhub.com,Advertising
-HOST,ext.privacyassistant.net,Advertising
 HOST,ext.royalcactus.com,Advertising
 HOST,extafiles.com,Advertising
 HOST,extengames.com,Advertising
@@ -9506,7 +9504,6 @@ HOST,hack.ezeedl.com,Advertising
 HOST,hack1000.com,Advertising
 HOST,hack2all.com,Advertising
 HOST,hack4games.com,Advertising
-HOST,hack4you.org,Advertising
 HOST,hackallgames.com,Advertising
 HOST,hackandcheats.org,Advertising
 HOST,hackappz.com,Advertising
@@ -9627,7 +9624,6 @@ HOST,hadeplatform.com,Advertising
 HOST,haggardandhalloo.com,Advertising
 HOST,haihuang-audio.com,Advertising
 HOST,hailuoxiang.com,Advertising
-HOST,haishundl.com,Advertising
 HOST,haixiutv.com,Advertising
 HOST,hajoopteg.com,Advertising
 HOST,hakdilaravakfi.com,Advertising
@@ -10558,7 +10554,6 @@ HOST,internalmaryportas.com,Advertising
 HOST,internationalmarble.com,Advertising
 HOST,internetartfair.com,Advertising
 HOST,internetfuel.com,Advertising
-HOST,internetlifemagazine.com,Advertising
 HOST,internetnamestore.cn,Advertising
 HOST,internetsecurity.com,Advertising
 HOST,interplaydesign.com,Advertising
@@ -11827,7 +11822,6 @@ HOST,loomarnia.com,Advertising
 HOST,loomplay.com,Advertising
 HOST,loopfiles.com,Advertising
 HOST,lootloo.net23.net,Advertising
-HOST,lordhacks.com,Advertising
 HOST,lordofads.com,Advertising
 HOST,losmercantes.com,Advertising
 HOST,losnahuales.com,Advertising
@@ -12142,7 +12136,6 @@ HOST,marketoring.com,Advertising
 HOST,marketron.com,Advertising
 HOST,markkavanagh.com,Advertising
 HOST,markupbd.com,Advertising
-HOST,marlinaquarindo.com,Advertising
 HOST,marocuisine.net,Advertising
 HOST,marryinamansion.com,Advertising
 HOST,marsflag.com,Advertising
@@ -14022,7 +14015,6 @@ HOST,packagingtimes.com,Advertising
 HOST,packethosting.net,Advertising
 HOST,packsaddlefellowship.com,Advertising
 HOST,pacman.gkgar.com,Advertising
-HOST,paelladanielcaldeira.com,Advertising
 HOST,page-2018.000webhostapp.com,Advertising
 HOST,pagead.topobiavi.com,Advertising
 HOST,pager.site50.net,Advertising
@@ -14781,7 +14773,6 @@ HOST,printthis.clickability.com,Advertising
 HOST,printwellservices.com,Advertising
 HOST,pritambhattacharjee.com,Advertising
 HOST,privacy4browsers.com,Advertising
-HOST,privacyassistant.net,Advertising
 HOST,privatamateure.com,Advertising
 HOST,private3.zapto.org,Advertising
 HOST,privatecash.com,Advertising
@@ -15428,7 +15419,6 @@ HOST,reklamagaci.com,Advertising
 HOST,reklamanet.net,Advertising
 HOST,reklamaster.com,Advertising
 HOST,reklamcdn.com,Advertising
-HOST,reklame.unwired-i.net,Advertising
 HOST,reklamnative.com,Advertising
 HOST,reklampazar.com,Advertising
 HOST,reklamper.com,Advertising
@@ -15980,7 +15970,6 @@ HOST,score.zeroclickfraud.com,Advertising
 HOST,scorecardrewards-survey.com,Advertising
 HOST,scornar.com,Advertising
 HOST,scorpioncigar.com,Advertising
-HOST,scotiabank-secure.com,Advertising
 HOST,scottfaulconbridge.com,Advertising
 HOST,scprtrs.000webhostapp.com,Advertising
 HOST,scratch2cash.com,Advertising
@@ -17262,7 +17251,6 @@ HOST,stats.staging.suite101.com,Advertising
 HOST,stats.suite101.com,Advertising
 HOST,stats.thoughtcatalog.com,Advertising
 HOST,stats.unionleader.com,Advertising
-HOST,stats.unwired-i.net,Advertising
 HOST,stats.videoseyredin.net,Advertising
 HOST,stats.vidyome.com,Advertising
 HOST,stats.virtuemart.net,Advertising
