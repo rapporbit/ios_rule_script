@@ -1,15 +1,15 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-08-11 02:08:04
+# UPDATED: 2021-08-12 02:07:43
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
-# DOMAIN: 14567
+# DOMAIN: 14559
 # DOMAIN-KEYWORD: 28
 # DOMAIN-SUFFIX: 12895
 # IP-CIDR: 158
 # IP-CIDR6: 1
 # URL-REGEX: 295
-# TOTAL: 27944
+# TOTAL: 27936
 0.up.qingdaonews.com
 00-gov.cn
 0024aadd.com
@@ -135,7 +135,6 @@
 1b6a637cbe7bb65ac.com
 1bcde.com
 1ccbt.com
-1ced38bdc42b883.com
 1dmp.io
 1drj.com
 1e122c580cf.com
@@ -218,7 +217,6 @@
 2c6bcbbb82ce911.com
 2dpt.com
 2f.com
-2f5a1f1fab21a56.com
 2gok8g15p2.com
 2hanwriten.com
 2ip.ua
@@ -251,7 +249,6 @@
 3324.cn
 3381e74f70adfb59.com
 33across.com
-33ae985c0ea917.com
 34c2f22e9503ace.com
 350media.com
 3585656d9351553f.com
@@ -645,8 +642,6 @@ a1.mingyihui.net
 a157ad075fcb34c.com
 a15c5009bcbe272.com
 a22f0d8201ade09fa3.com
-a258c3523a5c4a47bda.com
-a26d31d5d6986cbe.com
 a2af4f04914ed298.com
 a2c653c4d145fa5f96a.com
 a2dfp.net
@@ -669,7 +664,6 @@ a6f845e6c37b2833148.com
 a8.net
 a8ww.net
 a9.xlgqy.com
-a9d7c19f0282.com
 a9nf3hg5c2.com
 aa.sdo.com
 aa.voice2page.com
@@ -2969,7 +2963,6 @@ btpnav.com
 btrll.com
 btserve.com
 btstatic.com
-bttbgroup.com
 btttag.com
 bubblesmedia.ru
 bubblestat.com
@@ -3067,6 +3060,7 @@ c.vrvm.com
 c.vserv.mobi
 c.wantxt.cc
 c.xiaobaipan.com
+c.xilongfuwu.com
 c02o3mpych.com
 c10ed2b8b417880.com
 c1313.f28014.cn
@@ -4885,7 +4879,6 @@ e331ff4e674c083.com
 e347bb14dc71778.com
 e350570881272e.com
 e376ef28103177cc.com
-e521d17fa185a2.com
 e6916adeb7e46a883.com
 e77lmzbqou0n-a.akamaihd.net
 e7e776c1a8bf677.com
@@ -10822,7 +10815,6 @@ s05.hostcontent.live
 s07.hostcontent.live
 s1.dapenti.com
 s1.kuaibaopay.com
-s1.leshi123.cc
 s1.stat.lianmeng.360.cn
 s1.szlu-an.com
 s1.wp.com
@@ -10831,7 +10823,6 @@ s11.cn
 s11.hostcontent.live
 s12.hostcontent.live
 s13.hostcontent.live
-s2.leshi123.cc
 s20dh7e9dh.com
 s2block.com
 s2blosh.com
@@ -11157,7 +11148,6 @@ seomoz.org
 seonetwizard.com
 seoparts.net
 separatesilver.com
-septembership.com
 sepyra.com
 serconmp.com
 serialbay.com
@@ -11530,6 +11520,7 @@ smart-digital-solutions.com
 smart-dmp.com
 smart-ip.net
 smart-traffik.com
+smart-way2.com.cn
 smart.allocine.fr
 smart2.allocine.fr
 smartad.ee
@@ -12086,6 +12077,7 @@ svlu.net
 svr-prc-01.com
 svtrd.com
 svyksa.info
+sw1block.com
 sw2block.com
 swan-swan-goose.com
 swarmjam.com
@@ -12451,6 +12443,7 @@ tkmly.cn
 tkn.fux.com
 tkqlhce.com
 tl813.com
+tlafu.space
 tlootas.org
 tlvmedia.com
 tm-core.net
@@ -12539,6 +12532,7 @@ topmalaysia.com
 topofblogs.com
 topqualitylink.com
 topsem.com
+topshelftraffic.com
 topsite.lv
 topstat.cn
 topstat.com
@@ -12772,7 +12766,6 @@ triggit.com
 trigr.co
 trilogyed.com
 trimpur.com
-tripedrated.xyz
 triptease.io
 triptease.net
 triver.jp
@@ -14505,7 +14498,6 @@ ziphoumt.net
 zipstat.dk
 zirve100.com
 zisboombah.net
-ziyouxiaoyuan.cn
 ziyu.net
 zj66.net
 zjj.xhdccz.com

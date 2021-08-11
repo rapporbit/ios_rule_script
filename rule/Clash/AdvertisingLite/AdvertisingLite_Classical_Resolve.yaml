@@ -1,13 +1,13 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-08-11 02:08:05
-# DOMAIN: 14567
+# UPDATED: 2021-08-12 02:07:44
+# DOMAIN: 14559
 # DOMAIN-KEYWORD: 28
 # DOMAIN-SUFFIX: 12895
 # IP-CIDR: 158
 # IP-CIDR6: 1
-# TOTAL: 27649
+# TOTAL: 27641
 payload:
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,00-gov.cn
@@ -134,7 +134,6 @@ payload:
   - DOMAIN,1b6a637cbe7bb65ac.com
   - DOMAIN,1bcde.com
   - DOMAIN,1ccbt.com
-  - DOMAIN,1ced38bdc42b883.com
   - DOMAIN,1dmp.io
   - DOMAIN,1drj.com
   - DOMAIN,1e122c580cf.com
@@ -217,7 +216,6 @@ payload:
   - DOMAIN,2c6bcbbb82ce911.com
   - DOMAIN,2dpt.com
   - DOMAIN,2f.com
-  - DOMAIN,2f5a1f1fab21a56.com
   - DOMAIN,2gok8g15p2.com
   - DOMAIN,2hanwriten.com
   - DOMAIN,2ip.ua
@@ -250,7 +248,6 @@ payload:
   - DOMAIN,3324.cn
   - DOMAIN,3381e74f70adfb59.com
   - DOMAIN,33across.com
-  - DOMAIN,33ae985c0ea917.com
   - DOMAIN,34c2f22e9503ace.com
   - DOMAIN,350media.com
   - DOMAIN,3585656d9351553f.com
@@ -644,8 +641,6 @@ payload:
   - DOMAIN,a157ad075fcb34c.com
   - DOMAIN,a15c5009bcbe272.com
   - DOMAIN,a22f0d8201ade09fa3.com
-  - DOMAIN,a258c3523a5c4a47bda.com
-  - DOMAIN,a26d31d5d6986cbe.com
   - DOMAIN,a2af4f04914ed298.com
   - DOMAIN,a2c653c4d145fa5f96a.com
   - DOMAIN,a2dfp.net
@@ -668,7 +663,6 @@ payload:
   - DOMAIN,a8.net
   - DOMAIN,a8ww.net
   - DOMAIN,a9.xlgqy.com
-  - DOMAIN,a9d7c19f0282.com
   - DOMAIN,a9nf3hg5c2.com
   - DOMAIN,aa.sdo.com
   - DOMAIN,aa.voice2page.com
@@ -2968,7 +2962,6 @@ payload:
   - DOMAIN,btrll.com
   - DOMAIN,btserve.com
   - DOMAIN,btstatic.com
-  - DOMAIN,bttbgroup.com
   - DOMAIN,btttag.com
   - DOMAIN,bubblesmedia.ru
   - DOMAIN,bubblestat.com
@@ -3066,6 +3059,7 @@ payload:
   - DOMAIN,c.vserv.mobi
   - DOMAIN,c.wantxt.cc
   - DOMAIN,c.xiaobaipan.com
+  - DOMAIN,c.xilongfuwu.com
   - DOMAIN,c02o3mpych.com
   - DOMAIN,c10ed2b8b417880.com
   - DOMAIN,c1313.f28014.cn
@@ -4884,7 +4878,6 @@ payload:
   - DOMAIN,e347bb14dc71778.com
   - DOMAIN,e350570881272e.com
   - DOMAIN,e376ef28103177cc.com
-  - DOMAIN,e521d17fa185a2.com
   - DOMAIN,e6916adeb7e46a883.com
   - DOMAIN,e77lmzbqou0n-a.akamaihd.net
   - DOMAIN,e7e776c1a8bf677.com
@@ -10821,7 +10814,6 @@ payload:
   - DOMAIN,s07.hostcontent.live
   - DOMAIN,s1.dapenti.com
   - DOMAIN,s1.kuaibaopay.com
-  - DOMAIN,s1.leshi123.cc
   - DOMAIN,s1.stat.lianmeng.360.cn
   - DOMAIN,s1.szlu-an.com
   - DOMAIN,s1.wp.com
@@ -10830,7 +10822,6 @@ payload:
   - DOMAIN,s11.hostcontent.live
   - DOMAIN,s12.hostcontent.live
   - DOMAIN,s13.hostcontent.live
-  - DOMAIN,s2.leshi123.cc
   - DOMAIN,s20dh7e9dh.com
   - DOMAIN,s2block.com
   - DOMAIN,s2blosh.com
@@ -11156,7 +11147,6 @@ payload:
   - DOMAIN,seonetwizard.com
   - DOMAIN,seoparts.net
   - DOMAIN,separatesilver.com
-  - DOMAIN,septembership.com
   - DOMAIN,sepyra.com
   - DOMAIN,serconmp.com
   - DOMAIN,serialbay.com
@@ -11529,6 +11519,7 @@ payload:
   - DOMAIN,smart-dmp.com
   - DOMAIN,smart-ip.net
   - DOMAIN,smart-traffik.com
+  - DOMAIN,smart-way2.com.cn
   - DOMAIN,smart.allocine.fr
   - DOMAIN,smart2.allocine.fr
   - DOMAIN,smartad.ee
@@ -12085,6 +12076,7 @@ payload:
   - DOMAIN,svr-prc-01.com
   - DOMAIN,svtrd.com
   - DOMAIN,svyksa.info
+  - DOMAIN,sw1block.com
   - DOMAIN,sw2block.com
   - DOMAIN,swan-swan-goose.com
   - DOMAIN,swarmjam.com
@@ -12450,6 +12442,7 @@ payload:
   - DOMAIN,tkn.fux.com
   - DOMAIN,tkqlhce.com
   - DOMAIN,tl813.com
+  - DOMAIN,tlafu.space
   - DOMAIN,tlootas.org
   - DOMAIN,tlvmedia.com
   - DOMAIN,tm-core.net
@@ -12538,6 +12531,7 @@ payload:
   - DOMAIN,topofblogs.com
   - DOMAIN,topqualitylink.com
   - DOMAIN,topsem.com
+  - DOMAIN,topshelftraffic.com
   - DOMAIN,topsite.lv
   - DOMAIN,topstat.cn
   - DOMAIN,topstat.com
@@ -12771,7 +12765,6 @@ payload:
   - DOMAIN,trigr.co
   - DOMAIN,trilogyed.com
   - DOMAIN,trimpur.com
-  - DOMAIN,tripedrated.xyz
   - DOMAIN,triptease.io
   - DOMAIN,triptease.net
   - DOMAIN,triver.jp
@@ -14504,7 +14497,6 @@ payload:
   - DOMAIN,zipstat.dk
   - DOMAIN,zirve100.com
   - DOMAIN,zisboombah.net
-  - DOMAIN,ziyouxiaoyuan.cn
   - DOMAIN,ziyu.net
   - DOMAIN,zj66.net
   - DOMAIN,zjj.xhdccz.com
