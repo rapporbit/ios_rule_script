@@ -1,15 +1,15 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-08-12 02:07:43
+# UPDATED: 2021-08-13 02:07:17
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
-# DOMAIN: 20919
+# DOMAIN: 20909
 # DOMAIN-KEYWORD: 88
 # DOMAIN-SUFFIX: 50012
 # IP-CIDR: 241
 # IP-CIDR6: 1
 # URL-REGEX: 301
-# TOTAL: 71562
+# TOTAL: 71552
 0.nextyourcontent.com
 0.up.qingdaonews.com
 0001.2waky.com
@@ -2506,7 +2506,6 @@ affimg.pop6.com
 affntwklnk.com
 affpartners.com
 affrh2015.com
-affrh2019.com
 affsnetwork.com
 afftrack001.com
 affutdmedia.com
@@ -3555,7 +3554,6 @@ ay.eastmoney.com
 ayaanassociates.com
 ayada.zapto.org
 ayboll.sgsrv.com
-ayidaye.m.zwdu.com
 aysnmnzu4u.com
 ayudastecnicas.com
 ayurvedabeyond.com
@@ -4581,6 +4579,7 @@ bypassonlinesurveys.com
 bypassremovesurveys.com
 bytedance.com
 byvue.com
+bzhualin.com
 bzvimexwdle.com
 c-4fambt.com
 c-motors.com
@@ -5264,7 +5263,6 @@ checkmystats.com.au
 cheerfulrange.com
 cheersfile.net
 chefhair.com
-chefnbrewfestival.com
 chengyuplaza.com
 cherryhi.app.ur.gcion.com
 cheshirehockey.com
@@ -5768,7 +5766,6 @@ codghost.sharezips.net
 codghostprestigehack.com
 codornicesforge.com
 codysbbq.com
-coemergency.com.cn
 coffeol.com
 cognitiveintegration.com
 cohenorbach.com
@@ -6610,7 +6607,6 @@ decografix.com
 decohunter.com
 decoycreation.com
 decrolyschool.be
-decynsire.com
 dedahuagong.com
 def-platform.com
 def-platform.net
@@ -8706,6 +8702,7 @@ galileounaluna.com
 gall.dcinside.com
 gallerycrush.com
 gamblerush.com
+game-fix.com
 game.fire2333.com
 game.youzu.com
 gameadditions.net
@@ -9260,6 +9257,7 @@ got2goshop.com
 gotgamecheats.net
 goto.trafficmultiplier.com
 gotoplaymillion.com
+gotoredr.com
 gotraffic.net
 gotsprouts.com
 gottagofishinginkeywest.com
@@ -9413,7 +9411,6 @@ gta5onlinedownload.com
 gta5onlinehack.net
 gta5pc.extafiles.com
 gtamoneyhacks.com
-gtaonlinemoneyhacks.com
 gtarides.com
 gtech-strategies.com
 gtl-asia.com
@@ -10221,7 +10218,6 @@ iklaninter.net
 iklanoke.com
 iklantanpadaftar.com
 iklantelevisi.com
-iklantext.com
 iklanumum.com
 ikratorna.com
 ilbanner.com
@@ -10540,7 +10536,6 @@ integritybuilding.net
 integrityelectricas.com
 intelevance.com
 intelibroker.com
-intelirenda.com
 intelli-tracker.com
 intelliads.com
 intellicampaign.com
@@ -11722,7 +11717,6 @@ lnads.osdn.com
 lncurtis.actonsoftware.com
 lnhkqohy.com
 lnkgt.com
-lnstagramsupports.com
 lo0.br2.lax1.appnexus.com
 load.s3.amazonaws.com
 loader.ogstats.com
@@ -11856,7 +11850,6 @@ lowes-pianos-and-organs.com
 lowgraveleron.com
 lp.actionx.com
 lp.blpmovies.com
-lp.easyziptab.com
 lp.musicboxnewtab.com
 lp.news-subscribe.com
 lp.sharelive.net
@@ -12025,7 +12018,6 @@ mah0ney.com
 mahalaxmimachines.com
 mahindrainsurance.com
 mail-generali.com
-mail.advantagebusinessmedia.com
 mail.bangla.net
 mail.businessinsight-az.com
 mail.hz.zh.cn
@@ -12237,6 +12229,7 @@ mbzl-pro.xyz
 mc.bong99.com
 mc.cardcodes.net
 mc.corel.com
+mcalighting.com
 mcdn.batmobi.net
 mcdstorage.com
 mcleaner.cn
@@ -13364,7 +13357,6 @@ newstarads.com
 newt1.adultworld.com
 newtab-media.com
 newtabtv.com
-newtopsites.com
 newvipbox.com
 newviralmobistore.com
 newware11.024xuyisheng.com
@@ -15396,7 +15388,6 @@ regalocapital.com
 regclean.software-phile.com
 regcure.software-phile.com
 regie.espace-plus.net
-regionalconcreteco.com
 register.cinematrix.net
 register.xmpush.xiaomi.com
 registration-india.com
@@ -15738,7 +15729,6 @@ rubyfortune.com
 ruclicks.com
 ruemedia.adspirit.net
 rufadses.net
-ruhungary.com
 ruifeng99.com
 ruigena.com
 ruiyangcn.com
@@ -16362,6 +16352,7 @@ shallowsmile.com
 shalseey.com
 shanafishbein.com
 shanescomics.com
+shangmiss.wap.xsbiquge.com
 shannondensmore.com
 shannonvalenteweddings.com
 shapado.com
@@ -19136,7 +19127,6 @@ usb001.fgppchg.fgpp.com
 usb002.fgppchg.fgpp.com
 usb003.fgppchg.fgpp.com
 usd.quebec-bin.com
-usd.sierra-boa.com
 use.quebec-bin.com
 use.quebec-lea.com
 use.typekit.net
@@ -19580,7 +19570,6 @@ wachipho.net
 wadakir.com
 wadballal.org
 wadihkanaan.com
-wafmedia3.com
 waframedia16.com
 wagasports.com
 wagerinternational.com
@@ -20421,6 +20410,7 @@ xhamstertube.com
 xhqsysp.com
 xhvhisywkvha.com
 xiamenoa.com
+xiamiss.wap.xsbiquge.com
 xianyicao.net
 xiaocen.com
 xiaojinqipai.com

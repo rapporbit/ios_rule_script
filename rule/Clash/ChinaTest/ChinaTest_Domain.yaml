@@ -1,13 +1,13 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-08-12 02:07:45
-# DOMAIN-SUFFIX: 68973
+# UPDATED: 2021-08-13 02:07:19
+# DOMAIN-SUFFIX: 68963
 # DOMAIN: 83
 # IP-CIDR: 5
 # DOMAIN-KEYWORD: 10
 # IP-CIDR6: 4
-# TOTAL: 69075
+# TOTAL: 69065
 payload:
   - '265.com'
   - '2mdn.net'
@@ -2807,7 +2807,6 @@ payload:
   - '.2q1q.com'
   - '.2qbb.com'
   - '.2r3r.com'
-  - '.2r9qgy.com'
   - '.2rich.net'
   - '.2seachbusiness.com'
   - '.2shihui.net'
@@ -3534,7 +3533,6 @@ payload:
   - '.39ej7e.com'
   - '.39fengliao.com'
   - '.39h83s.com'
-  - '.39haohuo.com'
   - '.39health.com'
   - '.39hp.com'
   - '.39jks.com'
@@ -4991,7 +4989,6 @@ payload:
   - '.52rd.com'
   - '.52rd.net'
   - '.52rental.com'
-  - '.52saf.com'
   - '.52samsung.com'
   - '.52sddz.com'
   - '.52shangou.com'
@@ -23577,7 +23574,6 @@ payload:
   - '.fensebook.com'
   - '.fenshua123.com'
   - '.fensishenghuo.com'
-  - '.fensui168.com'
   - '.fenxi.cc'
   - '.fenxi.com'
   - '.fenxi.org'
@@ -24290,7 +24286,6 @@ payload:
   - '.fslgz.com'
   - '.fsllq.com'
   - '.fslsg.com'
-  - '.fslwpq.com'
   - '.fsmama.com'
   - '.fsmeeting.com'
   - '.fsmy88888.com'
@@ -37622,7 +37617,6 @@ payload:
   - '.lemonyule.com'
   - '.lemote.com'
   - '.lempstack.com'
-  - '.lemuzhi.com'
   - '.len-aquatics.org'
   - '.lenget.com'
   - '.lenggirl.com'
@@ -49441,7 +49435,6 @@ payload:
   - '.sdyypt.net'
   - '.sdzbcg.com'
   - '.sdzdmjg.com'
-  - '.sdzdsljbj.com'
   - '.sdzhidian.com'
   - '.sdzjsy.com'
   - '.sdzk.co'
@@ -51193,7 +51186,6 @@ payload:
   - '.sinovatio.com'
   - '.sinovationventures.com'
   - '.sinovdc.com'
-  - '.sinovio.org'
   - '.sinovo-tech.com'
   - '.sinovoice.com'
   - '.sinowealth.com'
@@ -51832,7 +51824,6 @@ payload:
   - '.somode.com'
   - '.somsds.com'
   - '.sonald.me'
-  - '.sonceo.com'
   - '.songanjun.com'
   - '.songchuan12345.com'
   - '.songcn.com'
@@ -58035,7 +58026,6 @@ payload:
   - '.wb0311.com'
   - '.wb133.com'
   - '.wb321.com'
-  - '.wb3399.vip'
   - '.wb699.com'
   - '.wbangdan.com'
   - '.wbdacdn.com'

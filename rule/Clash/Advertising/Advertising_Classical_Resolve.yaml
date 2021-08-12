@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-08-12 02:07:44
-# DOMAIN: 20919
+# UPDATED: 2021-08-13 02:07:19
+# DOMAIN: 20909
 # DOMAIN-KEYWORD: 88
 # DOMAIN-SUFFIX: 50012
 # IP-CIDR: 241
 # IP-CIDR6: 1
-# TOTAL: 71261
+# TOTAL: 71251
 payload:
   - DOMAIN,0.nextyourcontent.com
   - DOMAIN,0.up.qingdaonews.com
@@ -2505,7 +2505,6 @@ payload:
   - DOMAIN,affntwklnk.com
   - DOMAIN,affpartners.com
   - DOMAIN,affrh2015.com
-  - DOMAIN,affrh2019.com
   - DOMAIN,affsnetwork.com
   - DOMAIN,afftrack001.com
   - DOMAIN,affutdmedia.com
@@ -3554,7 +3553,6 @@ payload:
   - DOMAIN,ayaanassociates.com
   - DOMAIN,ayada.zapto.org
   - DOMAIN,ayboll.sgsrv.com
-  - DOMAIN,ayidaye.m.zwdu.com
   - DOMAIN,aysnmnzu4u.com
   - DOMAIN,ayudastecnicas.com
   - DOMAIN,ayurvedabeyond.com
@@ -4580,6 +4578,7 @@ payload:
   - DOMAIN,bypassremovesurveys.com
   - DOMAIN,bytedance.com
   - DOMAIN,byvue.com
+  - DOMAIN,bzhualin.com
   - DOMAIN,bzvimexwdle.com
   - DOMAIN,c-4fambt.com
   - DOMAIN,c-motors.com
@@ -5263,7 +5262,6 @@ payload:
   - DOMAIN,cheerfulrange.com
   - DOMAIN,cheersfile.net
   - DOMAIN,chefhair.com
-  - DOMAIN,chefnbrewfestival.com
   - DOMAIN,chengyuplaza.com
   - DOMAIN,cherryhi.app.ur.gcion.com
   - DOMAIN,cheshirehockey.com
@@ -5767,7 +5765,6 @@ payload:
   - DOMAIN,codghostprestigehack.com
   - DOMAIN,codornicesforge.com
   - DOMAIN,codysbbq.com
-  - DOMAIN,coemergency.com.cn
   - DOMAIN,coffeol.com
   - DOMAIN,cognitiveintegration.com
   - DOMAIN,cohenorbach.com
@@ -6609,7 +6606,6 @@ payload:
   - DOMAIN,decohunter.com
   - DOMAIN,decoycreation.com
   - DOMAIN,decrolyschool.be
-  - DOMAIN,decynsire.com
   - DOMAIN,dedahuagong.com
   - DOMAIN,def-platform.com
   - DOMAIN,def-platform.net
@@ -8705,6 +8701,7 @@ payload:
   - DOMAIN,gall.dcinside.com
   - DOMAIN,gallerycrush.com
   - DOMAIN,gamblerush.com
+  - DOMAIN,game-fix.com
   - DOMAIN,game.fire2333.com
   - DOMAIN,game.youzu.com
   - DOMAIN,gameadditions.net
@@ -9259,6 +9256,7 @@ payload:
   - DOMAIN,gotgamecheats.net
   - DOMAIN,goto.trafficmultiplier.com
   - DOMAIN,gotoplaymillion.com
+  - DOMAIN,gotoredr.com
   - DOMAIN,gotraffic.net
   - DOMAIN,gotsprouts.com
   - DOMAIN,gottagofishinginkeywest.com
@@ -9412,7 +9410,6 @@ payload:
   - DOMAIN,gta5onlinehack.net
   - DOMAIN,gta5pc.extafiles.com
   - DOMAIN,gtamoneyhacks.com
-  - DOMAIN,gtaonlinemoneyhacks.com
   - DOMAIN,gtarides.com
   - DOMAIN,gtech-strategies.com
   - DOMAIN,gtl-asia.com
@@ -10220,7 +10217,6 @@ payload:
   - DOMAIN,iklanoke.com
   - DOMAIN,iklantanpadaftar.com
   - DOMAIN,iklantelevisi.com
-  - DOMAIN,iklantext.com
   - DOMAIN,iklanumum.com
   - DOMAIN,ikratorna.com
   - DOMAIN,ilbanner.com
@@ -10539,7 +10535,6 @@ payload:
   - DOMAIN,integrityelectricas.com
   - DOMAIN,intelevance.com
   - DOMAIN,intelibroker.com
-  - DOMAIN,intelirenda.com
   - DOMAIN,intelli-tracker.com
   - DOMAIN,intelliads.com
   - DOMAIN,intellicampaign.com
@@ -11721,7 +11716,6 @@ payload:
   - DOMAIN,lncurtis.actonsoftware.com
   - DOMAIN,lnhkqohy.com
   - DOMAIN,lnkgt.com
-  - DOMAIN,lnstagramsupports.com
   - DOMAIN,lo0.br2.lax1.appnexus.com
   - DOMAIN,load.s3.amazonaws.com
   - DOMAIN,loader.ogstats.com
@@ -11855,7 +11849,6 @@ payload:
   - DOMAIN,lowgraveleron.com
   - DOMAIN,lp.actionx.com
   - DOMAIN,lp.blpmovies.com
-  - DOMAIN,lp.easyziptab.com
   - DOMAIN,lp.musicboxnewtab.com
   - DOMAIN,lp.news-subscribe.com
   - DOMAIN,lp.sharelive.net
@@ -12024,7 +12017,6 @@ payload:
   - DOMAIN,mahalaxmimachines.com
   - DOMAIN,mahindrainsurance.com
   - DOMAIN,mail-generali.com
-  - DOMAIN,mail.advantagebusinessmedia.com
   - DOMAIN,mail.bangla.net
   - DOMAIN,mail.businessinsight-az.com
   - DOMAIN,mail.hz.zh.cn
@@ -12236,6 +12228,7 @@ payload:
   - DOMAIN,mc.bong99.com
   - DOMAIN,mc.cardcodes.net
   - DOMAIN,mc.corel.com
+  - DOMAIN,mcalighting.com
   - DOMAIN,mcdn.batmobi.net
   - DOMAIN,mcdstorage.com
   - DOMAIN,mcleaner.cn
@@ -13363,7 +13356,6 @@ payload:
   - DOMAIN,newt1.adultworld.com
   - DOMAIN,newtab-media.com
   - DOMAIN,newtabtv.com
-  - DOMAIN,newtopsites.com
   - DOMAIN,newvipbox.com
   - DOMAIN,newviralmobistore.com
   - DOMAIN,newware11.024xuyisheng.com
@@ -15395,7 +15387,6 @@ payload:
   - DOMAIN,regclean.software-phile.com
   - DOMAIN,regcure.software-phile.com
   - DOMAIN,regie.espace-plus.net
-  - DOMAIN,regionalconcreteco.com
   - DOMAIN,register.cinematrix.net
   - DOMAIN,register.xmpush.xiaomi.com
   - DOMAIN,registration-india.com
@@ -15737,7 +15728,6 @@ payload:
   - DOMAIN,ruclicks.com
   - DOMAIN,ruemedia.adspirit.net
   - DOMAIN,rufadses.net
-  - DOMAIN,ruhungary.com
   - DOMAIN,ruifeng99.com
   - DOMAIN,ruigena.com
   - DOMAIN,ruiyangcn.com
@@ -16361,6 +16351,7 @@ payload:
   - DOMAIN,shalseey.com
   - DOMAIN,shanafishbein.com
   - DOMAIN,shanescomics.com
+  - DOMAIN,shangmiss.wap.xsbiquge.com
   - DOMAIN,shannondensmore.com
   - DOMAIN,shannonvalenteweddings.com
   - DOMAIN,shapado.com
@@ -19135,7 +19126,6 @@ payload:
   - DOMAIN,usb002.fgppchg.fgpp.com
   - DOMAIN,usb003.fgppchg.fgpp.com
   - DOMAIN,usd.quebec-bin.com
-  - DOMAIN,usd.sierra-boa.com
   - DOMAIN,use.quebec-bin.com
   - DOMAIN,use.quebec-lea.com
   - DOMAIN,use.typekit.net
@@ -19579,7 +19569,6 @@ payload:
   - DOMAIN,wadakir.com
   - DOMAIN,wadballal.org
   - DOMAIN,wadihkanaan.com
-  - DOMAIN,wafmedia3.com
   - DOMAIN,waframedia16.com
   - DOMAIN,wagasports.com
   - DOMAIN,wagerinternational.com
@@ -20420,6 +20409,7 @@ payload:
   - DOMAIN,xhqsysp.com
   - DOMAIN,xhvhisywkvha.com
   - DOMAIN,xiamenoa.com
+  - DOMAIN,xiamiss.wap.xsbiquge.com
   - DOMAIN,xianyicao.net
   - DOMAIN,xiaocen.com
   - DOMAIN,xiaojinqipai.com
