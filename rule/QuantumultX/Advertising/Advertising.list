@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-08-13 16:08:27
-# HOST: 20882
+# UPDATED: 2021-08-14 02:07:24
+# HOST: 20883
 # HOST-KEYWORD: 88
 # HOST-SUFFIX: 50012
 # IP-CIDR: 241
 # IP6-CIDR: 1
-# TOTAL: 71224
+# TOTAL: 71225
 HOST,0.nextyourcontent.com,Advertising
 HOST,0.up.qingdaonews.com,Advertising
 HOST,0001.2waky.com,Advertising
@@ -5762,6 +5762,7 @@ HOST,codghost.sharezips.net,Advertising
 HOST,codghostprestigehack.com,Advertising
 HOST,codornicesforge.com,Advertising
 HOST,codysbbq.com,Advertising
+HOST,coemergency.com.cn,Advertising
 HOST,coffeol.com,Advertising
 HOST,cognitiveintegration.com,Advertising
 HOST,cohenorbach.com,Advertising

@@ -1,13 +1,13 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-08-13 16:08:28
-# HOST: 15163
+# UPDATED: 2021-08-14 02:07:24
+# HOST: 15164
 # HOST-KEYWORD: 88
 # HOST-SUFFIX: 77169
 # IP-CIDR: 241
 # IP6-CIDR: 1
-# TOTAL: 92662
+# TOTAL: 92663
 HOST,0001.2waky.com,AdvertisingTest
 HOST,000lk3v.wcomhost.com,AdvertisingTest
 HOST,000lkub.rcomhost.com,AdvertisingTest
@@ -3561,6 +3561,7 @@ HOST,codghost.sharezips.net,AdvertisingTest
 HOST,codghostprestigehack.com,AdvertisingTest
 HOST,codornicesforge.com,AdvertisingTest
 HOST,codysbbq.com,AdvertisingTest
+HOST,coemergency.com.cn,AdvertisingTest
 HOST,coffeol.com,AdvertisingTest
 HOST,cognitiveintegration.com,AdvertisingTest
 HOST,cohenorbach.com,AdvertisingTest

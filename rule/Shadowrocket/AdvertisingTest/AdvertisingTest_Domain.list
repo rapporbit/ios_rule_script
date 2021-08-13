@@ -1,14 +1,14 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-08-13 17:31:45
+# UPDATED: 2021-08-14 02:07:26
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
-# DOMAIN: 15163
+# DOMAIN: 15164
 # DOMAIN-KEYWORD: 88
 # DOMAIN-SUFFIX: 77169
 # IP-CIDR: 1
 # URL-REGEX: 302
-# TOTAL: 92723
+# TOTAL: 92724
 0001.2waky.com
 000lk3v.wcomhost.com
 000lkub.rcomhost.com
@@ -3562,6 +3562,7 @@ codghost.sharezips.net
 codghostprestigehack.com
 codornicesforge.com
 codysbbq.com
+coemergency.com.cn
 coffeol.com
 cognitiveintegration.com
 cohenorbach.com
