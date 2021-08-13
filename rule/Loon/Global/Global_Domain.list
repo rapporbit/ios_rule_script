@@ -1,16 +1,16 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-08-11 02:08:05
+# UPDATED: 2021-08-13 16:08:28
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN: 50
-# DOMAIN-SUFFIX: 33455
+# DOMAIN-SUFFIX: 33458
 # USER-AGENT: 48
 # DOMAIN-KEYWORD: 41
 # IP-CIDR: 128
 # IP-CIDR6: 3
 # URL-REGEX: 1
-# TOTAL: 33726
+# TOTAL: 33729
 amp.akamaized.net
 apple.com.akadns.net
 assets-priconne-redive-us.akamaized.net
@@ -8391,6 +8391,7 @@ www.icloud.com
 .dancemeets.com
 .dancingbear.com
 .dandalinvoa.com
+.dandanzan.cc
 .danemarket.com
 .danielbispo.com.br
 .danielgranda.com
@@ -18474,6 +18475,7 @@ www.icloud.com
 .mucinex.tv
 .mucinexprofessional.com
 .mudfish.net
+.mudvod.tv
 .muftah.org
 .muji.com
 .muji.net
@@ -19621,6 +19623,7 @@ www.icloud.com
 .nugettest.org
 .nukistream.com
 .numbr.com
+.nunuyy.cc
 .nuovelle.ee
 .nuovomegavideo.com
 .nurgo-software.com
@@ -26778,6 +26781,7 @@ www.icloud.com
 .vocus.cc
 .vod-abematv.akamaized.net
 .vod.com
+.vod360.net
 .voicettank.org
 .voipfone.net
 .vokevr.com
@@ -28700,7 +28704,6 @@ www.icloud.com
 .www.beeg.co
 .www.beezmall.com
 .www.befuck.com
-.www.beian.gov.cn
 .www.beingbrunel.com
 .www.bellissimabyhh.com
 .www.benarnews.org

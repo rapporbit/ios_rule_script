@@ -1,13 +1,13 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-08-13 02:07:17
-# HOST: 14553
+# UPDATED: 2021-08-13 16:08:27
+# HOST: 14545
 # HOST-KEYWORD: 28
 # HOST-SUFFIX: 12895
 # IP-CIDR: 158
 # IP6-CIDR: 1
-# TOTAL: 27635
+# TOTAL: 27627
 HOST,0.up.qingdaonews.com,AdvertisingLite
 HOST,00-gov.cn,AdvertisingLite
 HOST,0024aadd.com,AdvertisingLite
@@ -7872,7 +7872,6 @@ HOST,m.maiduoer.com,AdvertisingLite
 HOST,m.mfufanj.cn,AdvertisingLite
 HOST,m.mtmfjdo.cn,AdvertisingLite
 HOST,m.nkjfzq43034.cn,AdvertisingLite
-HOST,m.ocenp.com,AdvertisingLite
 HOST,m.openv.tv,AdvertisingLite
 HOST,m.pubgorg.xyz,AdvertisingLite
 HOST,m.qhout.com,AdvertisingLite
@@ -7884,10 +7883,8 @@ HOST,m.snay.top,AdvertisingLite
 HOST,m.szmt02.cn,AdvertisingLite
 HOST,m.szmt18.cn,AdvertisingLite
 HOST,m.tcenn.com,AdvertisingLite
-HOST,m.tdiea.com,AdvertisingLite
 HOST,m.track.ad.xiaomi.com,AdvertisingLite
 HOST,m.u4q2.cn,AdvertisingLite
-HOST,m.vbinr.com,AdvertisingLite
 HOST,m.vjuei.com,AdvertisingLite
 HOST,m.w82ph.cn,AdvertisingLite
 HOST,m.wbaie.com,AdvertisingLite
@@ -9200,7 +9197,6 @@ HOST,optimizesrv.com,AdvertisingLite
 HOST,optimonk.com,AdvertisingLite
 HOST,optimost.com,AdvertisingLite
 HOST,optin-machine.com,AdvertisingLite
-HOST,optinemailpro.com,AdvertisingLite
 HOST,optinmonster.com,AdvertisingLite
 HOST,optkit.com,AdvertisingLite
 HOST,optmnstr.com,AdvertisingLite
@@ -11801,6 +11797,7 @@ HOST,startwebpromo.com,AdvertisingLite
 HOST,starwave.com,AdvertisingLite
 HOST,stat-rock.com,AdvertisingLite
 HOST,stat-track.com,AdvertisingLite
+HOST,stat-well.com,AdvertisingLite
 HOST,stat.4u.pl,AdvertisingLite
 HOST,stat.56.com,AdvertisingLite
 HOST,stat.adlabs.ru,AdvertisingLite
@@ -12894,7 +12891,6 @@ HOST,tubetitties.com,AdvertisingLite
 HOST,tuenti.com,AdvertisingLite
 HOST,tuinfra.com,AdvertisingLite
 HOST,tukuterus.com,AdvertisingLite
-HOST,tulip18.com,AdvertisingLite
 HOST,tummiarunzpf.com,AdvertisingLite
 HOST,tumri.net,AdvertisingLite
 HOST,tunnl.com,AdvertisingLite
@@ -13746,7 +13742,6 @@ HOST,winadx.com,AdvertisingLite
 HOST,winbuyer.com,AdvertisingLite
 HOST,windowmentaria.com,AdvertisingLite
 HOST,windspotter.net,AdvertisingLite
-HOST,wingads.com,AdvertisingLite
 HOST,winitout.com,AdvertisingLite
 HOST,winlock.usa.cc,AdvertisingLite
 HOST,winr.online,AdvertisingLite
@@ -13782,7 +13777,6 @@ HOST,womanear.com,AdvertisingLite
 HOST,womenslabour.org,AdvertisingLite
 HOST,womtp.com,AdvertisingLite
 HOST,wonchangvacuum.com.my,AdvertisingLite
-HOST,wonclick.com,AdvertisingLite
 HOST,wonder-ma.com,AdvertisingLite
 HOST,wonderlandads.com,AdvertisingLite
 HOST,wonderpush.com,AdvertisingLite
@@ -14071,7 +14065,6 @@ HOST,www.xiruz.kit.net,AdvertisingLite
 HOST,www.xsl281.com,AdvertisingLite
 HOST,www.ywvcomputerprocess.info,AdvertisingLite
 HOST,www.zatzy.com,AdvertisingLite
-HOST,www.zctei.com,AdvertisingLite
 HOST,www.zjsyawqj.cn,AdvertisingLite
 HOST,www.zyxyfy.com,AdvertisingLite
 HOST,wwwadcntr.com,AdvertisingLite
@@ -14524,7 +14517,6 @@ HOST,zous.szm.sk,AdvertisingLite
 HOST,zp0737.com,AdvertisingLite
 HOST,zp265.com,AdvertisingLite
 HOST,zpjkvuyqxu.com,AdvertisingLite
-HOST,zpwqnicvzi.com,AdvertisingLite
 HOST,zq-hk.cn,AdvertisingLite
 HOST,zq2.leixjun.com,AdvertisingLite
 HOST,zqtk.net,AdvertisingLite

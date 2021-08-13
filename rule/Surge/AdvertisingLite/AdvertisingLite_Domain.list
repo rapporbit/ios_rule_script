@@ -1,15 +1,15 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-08-13 02:07:17
+# UPDATED: 2021-08-13 16:08:27
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
-# DOMAIN: 14553
+# DOMAIN: 14545
 # DOMAIN-KEYWORD: 28
 # DOMAIN-SUFFIX: 12895
 # IP-CIDR: 158
 # IP-CIDR6: 1
 # URL-REGEX: 295
-# TOTAL: 27930
+# TOTAL: 27922
 0.up.qingdaonews.com
 00-gov.cn
 0024aadd.com
@@ -7874,7 +7874,6 @@ m.maiduoer.com
 m.mfufanj.cn
 m.mtmfjdo.cn
 m.nkjfzq43034.cn
-m.ocenp.com
 m.openv.tv
 m.pubgorg.xyz
 m.qhout.com
@@ -7886,10 +7885,8 @@ m.snay.top
 m.szmt02.cn
 m.szmt18.cn
 m.tcenn.com
-m.tdiea.com
 m.track.ad.xiaomi.com
 m.u4q2.cn
-m.vbinr.com
 m.vjuei.com
 m.w82ph.cn
 m.wbaie.com
@@ -9202,7 +9199,6 @@ optimizesrv.com
 optimonk.com
 optimost.com
 optin-machine.com
-optinemailpro.com
 optinmonster.com
 optkit.com
 optmnstr.com
@@ -11803,6 +11799,7 @@ startwebpromo.com
 starwave.com
 stat-rock.com
 stat-track.com
+stat-well.com
 stat.4u.pl
 stat.56.com
 stat.adlabs.ru
@@ -12896,7 +12893,6 @@ tubetitties.com
 tuenti.com
 tuinfra.com
 tukuterus.com
-tulip18.com
 tummiarunzpf.com
 tumri.net
 tunnl.com
@@ -13748,7 +13744,6 @@ winadx.com
 winbuyer.com
 windowmentaria.com
 windspotter.net
-wingads.com
 winitout.com
 winlock.usa.cc
 winr.online
@@ -13784,7 +13779,6 @@ womanear.com
 womenslabour.org
 womtp.com
 wonchangvacuum.com.my
-wonclick.com
 wonder-ma.com
 wonderlandads.com
 wonderpush.com
@@ -14073,7 +14067,6 @@ www.xiruz.kit.net
 www.xsl281.com
 www.ywvcomputerprocess.info
 www.zatzy.com
-www.zctei.com
 www.zjsyawqj.cn
 www.zyxyfy.com
 wwwadcntr.com
@@ -14526,7 +14519,6 @@ zous.szm.sk
 zp0737.com
 zp265.com
 zpjkvuyqxu.com
-zpwqnicvzi.com
 zq-hk.cn
 zq2.leixjun.com
 zqtk.net

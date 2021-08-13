@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-08-11 02:08:06
+# UPDATED: 2021-08-13 16:08:30
 # DOMAIN: 50
-# DOMAIN-SUFFIX: 33455
+# DOMAIN-SUFFIX: 33458
 # DOMAIN-KEYWORD: 41
 # IP-CIDR: 128
 # IP-CIDR6: 3
 # PROCESS-NAME: 1
-# TOTAL: 33678
+# TOTAL: 33681
 payload:
   - 'amp.akamaized.net'
   - 'apple.com.akadns.net'
@@ -8390,6 +8390,7 @@ payload:
   - '.dancemeets.com'
   - '.dancingbear.com'
   - '.dandalinvoa.com'
+  - '.dandanzan.cc'
   - '.danemarket.com'
   - '.danielbispo.com.br'
   - '.danielgranda.com'
@@ -18473,6 +18474,7 @@ payload:
   - '.mucinex.tv'
   - '.mucinexprofessional.com'
   - '.mudfish.net'
+  - '.mudvod.tv'
   - '.muftah.org'
   - '.muji.com'
   - '.muji.net'
@@ -19620,6 +19622,7 @@ payload:
   - '.nugettest.org'
   - '.nukistream.com'
   - '.numbr.com'
+  - '.nunuyy.cc'
   - '.nuovelle.ee'
   - '.nuovomegavideo.com'
   - '.nurgo-software.com'
@@ -26777,6 +26780,7 @@ payload:
   - '.vocus.cc'
   - '.vod-abematv.akamaized.net'
   - '.vod.com'
+  - '.vod360.net'
   - '.voicettank.org'
   - '.voipfone.net'
   - '.vokevr.com'
@@ -28699,7 +28703,6 @@ payload:
   - '.www.beeg.co'
   - '.www.beezmall.com'
   - '.www.befuck.com'
-  - '.www.beian.gov.cn'
   - '.www.beingbrunel.com'
   - '.www.bellissimabyhh.com'
   - '.www.benarnews.org'

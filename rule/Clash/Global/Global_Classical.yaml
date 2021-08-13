@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-08-11 02:08:06
+# UPDATED: 2021-08-13 16:08:30
 # DOMAIN: 50
-# DOMAIN-SUFFIX: 33455
+# DOMAIN-SUFFIX: 33458
 # DOMAIN-KEYWORD: 41
 # IP-CIDR: 128
 # IP-CIDR6: 3
 # PROCESS-NAME: 1
-# TOTAL: 33678
+# TOTAL: 33681
 payload:
   - DOMAIN,amp.akamaized.net
   - DOMAIN,apple.com.akadns.net
@@ -8390,6 +8390,7 @@ payload:
   - DOMAIN-SUFFIX,dancemeets.com
   - DOMAIN-SUFFIX,dancingbear.com
   - DOMAIN-SUFFIX,dandalinvoa.com
+  - DOMAIN-SUFFIX,dandanzan.cc
   - DOMAIN-SUFFIX,danemarket.com
   - DOMAIN-SUFFIX,danielbispo.com.br
   - DOMAIN-SUFFIX,danielgranda.com
@@ -18473,6 +18474,7 @@ payload:
   - DOMAIN-SUFFIX,mucinex.tv
   - DOMAIN-SUFFIX,mucinexprofessional.com
   - DOMAIN-SUFFIX,mudfish.net
+  - DOMAIN-SUFFIX,mudvod.tv
   - DOMAIN-SUFFIX,muftah.org
   - DOMAIN-SUFFIX,muji.com
   - DOMAIN-SUFFIX,muji.net
@@ -19620,6 +19622,7 @@ payload:
   - DOMAIN-SUFFIX,nugettest.org
   - DOMAIN-SUFFIX,nukistream.com
   - DOMAIN-SUFFIX,numbr.com
+  - DOMAIN-SUFFIX,nunuyy.cc
   - DOMAIN-SUFFIX,nuovelle.ee
   - DOMAIN-SUFFIX,nuovomegavideo.com
   - DOMAIN-SUFFIX,nurgo-software.com
@@ -26777,6 +26780,7 @@ payload:
   - DOMAIN-SUFFIX,vocus.cc
   - DOMAIN-SUFFIX,vod-abematv.akamaized.net
   - DOMAIN-SUFFIX,vod.com
+  - DOMAIN-SUFFIX,vod360.net
   - DOMAIN-SUFFIX,voicettank.org
   - DOMAIN-SUFFIX,voipfone.net
   - DOMAIN-SUFFIX,vokevr.com
@@ -28699,7 +28703,6 @@ payload:
   - DOMAIN-SUFFIX,www.beeg.co
   - DOMAIN-SUFFIX,www.beezmall.com
   - DOMAIN-SUFFIX,www.befuck.com
-  - DOMAIN-SUFFIX,www.beian.gov.cn
   - DOMAIN-SUFFIX,www.beingbrunel.com
   - DOMAIN-SUFFIX,www.bellissimabyhh.com
   - DOMAIN-SUFFIX,www.benarnews.org

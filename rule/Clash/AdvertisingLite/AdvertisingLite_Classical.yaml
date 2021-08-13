@@ -1,13 +1,13 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-08-13 02:07:18
-# DOMAIN: 14553
+# UPDATED: 2021-08-13 16:08:29
+# DOMAIN: 14545
 # DOMAIN-KEYWORD: 28
 # DOMAIN-SUFFIX: 12895
 # IP-CIDR: 158
 # IP-CIDR6: 1
-# TOTAL: 27635
+# TOTAL: 27627
 payload:
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,00-gov.cn
@@ -7873,7 +7873,6 @@ payload:
   - DOMAIN,m.mfufanj.cn
   - DOMAIN,m.mtmfjdo.cn
   - DOMAIN,m.nkjfzq43034.cn
-  - DOMAIN,m.ocenp.com
   - DOMAIN,m.openv.tv
   - DOMAIN,m.pubgorg.xyz
   - DOMAIN,m.qhout.com
@@ -7885,10 +7884,8 @@ payload:
   - DOMAIN,m.szmt02.cn
   - DOMAIN,m.szmt18.cn
   - DOMAIN,m.tcenn.com
-  - DOMAIN,m.tdiea.com
   - DOMAIN,m.track.ad.xiaomi.com
   - DOMAIN,m.u4q2.cn
-  - DOMAIN,m.vbinr.com
   - DOMAIN,m.vjuei.com
   - DOMAIN,m.w82ph.cn
   - DOMAIN,m.wbaie.com
@@ -9201,7 +9198,6 @@ payload:
   - DOMAIN,optimonk.com
   - DOMAIN,optimost.com
   - DOMAIN,optin-machine.com
-  - DOMAIN,optinemailpro.com
   - DOMAIN,optinmonster.com
   - DOMAIN,optkit.com
   - DOMAIN,optmnstr.com
@@ -11802,6 +11798,7 @@ payload:
   - DOMAIN,starwave.com
   - DOMAIN,stat-rock.com
   - DOMAIN,stat-track.com
+  - DOMAIN,stat-well.com
   - DOMAIN,stat.4u.pl
   - DOMAIN,stat.56.com
   - DOMAIN,stat.adlabs.ru
@@ -12895,7 +12892,6 @@ payload:
   - DOMAIN,tuenti.com
   - DOMAIN,tuinfra.com
   - DOMAIN,tukuterus.com
-  - DOMAIN,tulip18.com
   - DOMAIN,tummiarunzpf.com
   - DOMAIN,tumri.net
   - DOMAIN,tunnl.com
@@ -13747,7 +13743,6 @@ payload:
   - DOMAIN,winbuyer.com
   - DOMAIN,windowmentaria.com
   - DOMAIN,windspotter.net
-  - DOMAIN,wingads.com
   - DOMAIN,winitout.com
   - DOMAIN,winlock.usa.cc
   - DOMAIN,winr.online
@@ -13783,7 +13778,6 @@ payload:
   - DOMAIN,womenslabour.org
   - DOMAIN,womtp.com
   - DOMAIN,wonchangvacuum.com.my
-  - DOMAIN,wonclick.com
   - DOMAIN,wonder-ma.com
   - DOMAIN,wonderlandads.com
   - DOMAIN,wonderpush.com
@@ -14072,7 +14066,6 @@ payload:
   - DOMAIN,www.xsl281.com
   - DOMAIN,www.ywvcomputerprocess.info
   - DOMAIN,www.zatzy.com
-  - DOMAIN,www.zctei.com
   - DOMAIN,www.zjsyawqj.cn
   - DOMAIN,www.zyxyfy.com
   - DOMAIN,wwwadcntr.com
@@ -14525,7 +14518,6 @@ payload:
   - DOMAIN,zp0737.com
   - DOMAIN,zp265.com
   - DOMAIN,zpjkvuyqxu.com
-  - DOMAIN,zpwqnicvzi.com
   - DOMAIN,zq-hk.cn
   - DOMAIN,zq2.leixjun.com
   - DOMAIN,zqtk.net

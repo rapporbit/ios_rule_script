@@ -1,14 +1,14 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-08-11 02:08:05
+# UPDATED: 2021-08-13 16:08:28
 # DOMAIN: 46
-# DOMAIN-SUFFIX: 33469
+# DOMAIN-SUFFIX: 33472
 # USER-AGENT: 11
 # DOMAIN-KEYWORD: 29
 # IP-CIDR: 88
 # IP-CIDR6: 3
-# TOTAL: 33646
+# TOTAL: 33649
 amp.akamaized.net
 apple.com.akadns.net
 assets-priconne-redive-us.akamaized.net
@@ -8391,6 +8391,7 @@ www-cdn.icloud.com.akadns.net
 .dancemeets.com
 .dancingbear.com
 .dandalinvoa.com
+.dandanzan.cc
 .danemarket.com
 .danielbispo.com.br
 .danielgranda.com
@@ -18470,6 +18471,7 @@ www-cdn.icloud.com.akadns.net
 .mucinex.tv
 .mucinexprofessional.com
 .mudfish.net
+.mudvod.tv
 .muftah.org
 .muji.com
 .muji.net
@@ -19617,6 +19619,7 @@ www-cdn.icloud.com.akadns.net
 .nugettest.org
 .nukistream.com
 .numbr.com
+.nunuyy.cc
 .nuovelle.ee
 .nuovomegavideo.com
 .nurgo-software.com
@@ -26775,6 +26778,7 @@ www-cdn.icloud.com.akadns.net
 .vocus.cc
 .vod-abematv.akamaized.net
 .vod.com
+.vod360.net
 .voicettank.org
 .voipfone.net
 .vokevr.com
@@ -28699,7 +28703,6 @@ www-cdn.icloud.com.akadns.net
 .www.beeg.co
 .www.beezmall.com
 .www.befuck.com
-.www.beian.gov.cn
 .www.beingbrunel.com
 .www.bellissimabyhh.com
 .www.benarnews.org
