@@ -89,6 +89,7 @@ AdvertisingLite_Classical.yaml 可以单独使用，其他规则必须同时使�
 - https://raw.githubusercontent.com/eHpo1/Rules/master/Surge4/Ruleset/Liby.list
 - https://raw.githubusercontent.com/eHpo1/Rules/master/Surge4/Ruleset/Tide.list
 - https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Reject.list
+- https://raw.githubusercontent.com/yjqiang/surge_scripts/main/modules/hupu/hupu.sgmodule
 
 
 感谢以上复写规则作者的辛勤付出（排名不分先后）。

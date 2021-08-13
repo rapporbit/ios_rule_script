@@ -18,7 +18,7 @@
 
 ## 规则统计
 
-总计规则：92963 条。
+总计规则：92964 条。
 
 各类型规则统计：
 
@@ -29,7 +29,7 @@
 | DOMAIN-SUFFIX | 77169 |
 | IP-CIDR | 241 |
 | IP-CIDR6 | 1 |
-| URL-REGEX | 301 |
+| URL-REGEX | 302 |
 ## 配置说明
 
 实时版：程序定时更新，更新频率高，能尽快同步数据源变化，适合希望尝鲜的人。
@@ -137,6 +137,7 @@ AdvertisingTest_Domain.list 请使用DOMAIN-SET。
 - https://raw.githubusercontent.com/sve1r/Rules-For-Quantumult-X/develop/Rules/Advertising/Hijacking.list
 - https://raw.githubusercontent.com/sve1r/Rules-For-Quantumult-X/develop/Rules/Advertising/NormalApp/AppAdBlock.list
 - https://raw.githubusercontent.com/sve1r/Rules-For-Quantumult-X/develop/Rules/Advertising/antiAD-V4.list
+- https://raw.githubusercontent.com/yjqiang/surge_scripts/main/modules/hupu/hupu.sgmodule
 
 
 感谢以上复写规则作者的辛勤付出（排名不分先后）。

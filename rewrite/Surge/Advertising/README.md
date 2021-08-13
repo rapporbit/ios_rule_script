@@ -16,7 +16,7 @@
 
 | 类型 | 数量(条) |
 | ---- | ---- |
-| mitm | 592 |
+| mitm | 593 |
 | force_http_engine_hosts | 18 |
 | DOMAIN | 2 |
 | DOMAIN-SUFFIX | 1 |
