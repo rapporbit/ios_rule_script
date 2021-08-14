@@ -1,14 +1,14 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-08-14 02:07:26
+# UPDATED: 2021-08-15 02:06:36
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
-# DOMAIN: 14546
+# DOMAIN: 14544
 # DOMAIN-KEYWORD: 28
 # DOMAIN-SUFFIX: 12895
 # IP-CIDR: 1
 # URL-REGEX: 296
-# TOTAL: 27766
+# TOTAL: 27764
 0.up.qingdaonews.com
 00-gov.cn
 0024aadd.com
@@ -1846,6 +1846,7 @@ all-about-tech.com
 allabc.com
 allaptair.club
 allartand.club
+allbouttruth.info
 alldk.com
 alleliteads.com
 allforlove.de
@@ -3031,6 +3032,7 @@ bystfied.pro
 bytemgdd.com
 byvngx98ssphwzkrrtsjhnbyz5zss81dxygxvlqd05.com
 byvue.com
+byxlivaqzo.com
 byzoo.org
 bza.co
 bzcjy.cn
@@ -8281,6 +8283,7 @@ mixmarket.biz
 mixpo.com
 mixturehopeful.com
 miyudaquan.top
+mjf.lijun8.com
 mjpjjbbvct.com
 mkhoj.com
 mkt3261.com
@@ -9251,7 +9254,6 @@ otrwaram.com
 ottomdisede.club
 otvetus.com
 ouboosta.com
-oucywciij.com
 oudccdjvh.com
 ouhegapy.net
 oujouniw.com
@@ -9583,6 +9585,7 @@ pipeaota.com
 pipfire.com
 pippio.com
 pippity.com
+pipsol.net
 pirdoust.com
 pistraving.co
 pivotrunner.com
@@ -10478,6 +10481,7 @@ registration.presonus.com
 reichelcormier.bid
 reimburs.co
 reinvigorate.net
+reiqwxxd.com
 reiseeget.com
 reishus.de
 reitb.com
@@ -11909,7 +11913,6 @@ statsforever.com
 statsinsight.com
 statsit.com
 statsmachine.com
-statsmobi.com
 statsrely.com
 statssheet.com
 statsw.com
@@ -12350,8 +12353,6 @@ theverlalinglac.info
 theweatherspace.com
 thewebgemnetwork.com
 thewheelof.com
-thewhizmarketing.com
-thewhizproducts.com
 thewinesteward.com
 thewise.com
 thikraik.net
@@ -13646,7 +13647,6 @@ weedazou.net
 wegetpaid.net
 wegotmedia.com
 weheartit.com
-weizjzg.com
 wejibk.com.cn
 wel-wel-fie.com
 weliketofuckstrangers.com
@@ -13850,7 +13850,6 @@ www-path.com
 www-protection.com
 www-sina-cn-com.com
 www.0uk.net
-www.111ol.com
 www.11599jgj.com
 www.1990tu.com
 www.3peaks.co.jp
@@ -14412,7 +14411,6 @@ zampda.net
 zangocash.com
 zanox-affiliate.de
 zanox.com
-zanyx.club
 zaoyx.jrchiji.cn
 zap.buzz
 zaparena.com

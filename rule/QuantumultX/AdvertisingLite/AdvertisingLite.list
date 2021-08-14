@@ -1,13 +1,13 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-08-14 02:07:24
-# HOST: 14546
+# UPDATED: 2021-08-15 02:06:34
+# HOST: 14544
 # HOST-KEYWORD: 28
 # HOST-SUFFIX: 12895
 # IP-CIDR: 158
 # IP6-CIDR: 1
-# TOTAL: 27628
+# TOTAL: 27626
 HOST,0.up.qingdaonews.com,AdvertisingLite
 HOST,00-gov.cn,AdvertisingLite
 HOST,0024aadd.com,AdvertisingLite
@@ -1845,6 +1845,7 @@ HOST,all-about-tech.com,AdvertisingLite
 HOST,allabc.com,AdvertisingLite
 HOST,allaptair.club,AdvertisingLite
 HOST,allartand.club,AdvertisingLite
+HOST,allbouttruth.info,AdvertisingLite
 HOST,alldk.com,AdvertisingLite
 HOST,alleliteads.com,AdvertisingLite
 HOST,allforlove.de,AdvertisingLite
@@ -3030,6 +3031,7 @@ HOST,bystfied.pro,AdvertisingLite
 HOST,bytemgdd.com,AdvertisingLite
 HOST,byvngx98ssphwzkrrtsjhnbyz5zss81dxygxvlqd05.com,AdvertisingLite
 HOST,byvue.com,AdvertisingLite
+HOST,byxlivaqzo.com,AdvertisingLite
 HOST,byzoo.org,AdvertisingLite
 HOST,bza.co,AdvertisingLite
 HOST,bzcjy.cn,AdvertisingLite
@@ -8280,6 +8282,7 @@ HOST,mixmarket.biz,AdvertisingLite
 HOST,mixpo.com,AdvertisingLite
 HOST,mixturehopeful.com,AdvertisingLite
 HOST,miyudaquan.top,AdvertisingLite
+HOST,mjf.lijun8.com,AdvertisingLite
 HOST,mjpjjbbvct.com,AdvertisingLite
 HOST,mkhoj.com,AdvertisingLite
 HOST,mkt3261.com,AdvertisingLite
@@ -9250,7 +9253,6 @@ HOST,otrwaram.com,AdvertisingLite
 HOST,ottomdisede.club,AdvertisingLite
 HOST,otvetus.com,AdvertisingLite
 HOST,ouboosta.com,AdvertisingLite
-HOST,oucywciij.com,AdvertisingLite
 HOST,oudccdjvh.com,AdvertisingLite
 HOST,ouhegapy.net,AdvertisingLite
 HOST,oujouniw.com,AdvertisingLite
@@ -9582,6 +9584,7 @@ HOST,pipeaota.com,AdvertisingLite
 HOST,pipfire.com,AdvertisingLite
 HOST,pippio.com,AdvertisingLite
 HOST,pippity.com,AdvertisingLite
+HOST,pipsol.net,AdvertisingLite
 HOST,pirdoust.com,AdvertisingLite
 HOST,pistraving.co,AdvertisingLite
 HOST,pivotrunner.com,AdvertisingLite
@@ -10477,6 +10480,7 @@ HOST,registration.presonus.com,AdvertisingLite
 HOST,reichelcormier.bid,AdvertisingLite
 HOST,reimburs.co,AdvertisingLite
 HOST,reinvigorate.net,AdvertisingLite
+HOST,reiqwxxd.com,AdvertisingLite
 HOST,reiseeget.com,AdvertisingLite
 HOST,reishus.de,AdvertisingLite
 HOST,reitb.com,AdvertisingLite
@@ -11908,7 +11912,6 @@ HOST,statsforever.com,AdvertisingLite
 HOST,statsinsight.com,AdvertisingLite
 HOST,statsit.com,AdvertisingLite
 HOST,statsmachine.com,AdvertisingLite
-HOST,statsmobi.com,AdvertisingLite
 HOST,statsrely.com,AdvertisingLite
 HOST,statssheet.com,AdvertisingLite
 HOST,statsw.com,AdvertisingLite
@@ -12349,8 +12352,6 @@ HOST,theverlalinglac.info,AdvertisingLite
 HOST,theweatherspace.com,AdvertisingLite
 HOST,thewebgemnetwork.com,AdvertisingLite
 HOST,thewheelof.com,AdvertisingLite
-HOST,thewhizmarketing.com,AdvertisingLite
-HOST,thewhizproducts.com,AdvertisingLite
 HOST,thewinesteward.com,AdvertisingLite
 HOST,thewise.com,AdvertisingLite
 HOST,thikraik.net,AdvertisingLite
@@ -13645,7 +13646,6 @@ HOST,weedazou.net,AdvertisingLite
 HOST,wegetpaid.net,AdvertisingLite
 HOST,wegotmedia.com,AdvertisingLite
 HOST,weheartit.com,AdvertisingLite
-HOST,weizjzg.com,AdvertisingLite
 HOST,wejibk.com.cn,AdvertisingLite
 HOST,wel-wel-fie.com,AdvertisingLite
 HOST,weliketofuckstrangers.com,AdvertisingLite
@@ -13849,7 +13849,6 @@ HOST,www-path.com,AdvertisingLite
 HOST,www-protection.com,AdvertisingLite
 HOST,www-sina-cn-com.com,AdvertisingLite
 HOST,www.0uk.net,AdvertisingLite
-HOST,www.111ol.com,AdvertisingLite
 HOST,www.11599jgj.com,AdvertisingLite
 HOST,www.1990tu.com,AdvertisingLite
 HOST,www.3peaks.co.jp,AdvertisingLite
@@ -14411,7 +14410,6 @@ HOST,zampda.net,AdvertisingLite
 HOST,zangocash.com,AdvertisingLite
 HOST,zanox-affiliate.de,AdvertisingLite
 HOST,zanox.com,AdvertisingLite
-HOST,zanyx.club,AdvertisingLite
 HOST,zaoyx.jrchiji.cn,AdvertisingLite
 HOST,zap.buzz,AdvertisingLite
 HOST,zaparena.com,AdvertisingLite

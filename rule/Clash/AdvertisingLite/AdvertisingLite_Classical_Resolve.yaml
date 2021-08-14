@@ -1,13 +1,13 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-08-14 02:07:25
-# DOMAIN: 14546
+# UPDATED: 2021-08-15 02:06:35
+# DOMAIN: 14544
 # DOMAIN-KEYWORD: 28
 # DOMAIN-SUFFIX: 12895
 # IP-CIDR: 158
 # IP-CIDR6: 1
-# TOTAL: 27628
+# TOTAL: 27626
 payload:
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,00-gov.cn
@@ -1846,6 +1846,7 @@ payload:
   - DOMAIN,allabc.com
   - DOMAIN,allaptair.club
   - DOMAIN,allartand.club
+  - DOMAIN,allbouttruth.info
   - DOMAIN,alldk.com
   - DOMAIN,alleliteads.com
   - DOMAIN,allforlove.de
@@ -3031,6 +3032,7 @@ payload:
   - DOMAIN,bytemgdd.com
   - DOMAIN,byvngx98ssphwzkrrtsjhnbyz5zss81dxygxvlqd05.com
   - DOMAIN,byvue.com
+  - DOMAIN,byxlivaqzo.com
   - DOMAIN,byzoo.org
   - DOMAIN,bza.co
   - DOMAIN,bzcjy.cn
@@ -8281,6 +8283,7 @@ payload:
   - DOMAIN,mixpo.com
   - DOMAIN,mixturehopeful.com
   - DOMAIN,miyudaquan.top
+  - DOMAIN,mjf.lijun8.com
   - DOMAIN,mjpjjbbvct.com
   - DOMAIN,mkhoj.com
   - DOMAIN,mkt3261.com
@@ -9251,7 +9254,6 @@ payload:
   - DOMAIN,ottomdisede.club
   - DOMAIN,otvetus.com
   - DOMAIN,ouboosta.com
-  - DOMAIN,oucywciij.com
   - DOMAIN,oudccdjvh.com
   - DOMAIN,ouhegapy.net
   - DOMAIN,oujouniw.com
@@ -9583,6 +9585,7 @@ payload:
   - DOMAIN,pipfire.com
   - DOMAIN,pippio.com
   - DOMAIN,pippity.com
+  - DOMAIN,pipsol.net
   - DOMAIN,pirdoust.com
   - DOMAIN,pistraving.co
   - DOMAIN,pivotrunner.com
@@ -10478,6 +10481,7 @@ payload:
   - DOMAIN,reichelcormier.bid
   - DOMAIN,reimburs.co
   - DOMAIN,reinvigorate.net
+  - DOMAIN,reiqwxxd.com
   - DOMAIN,reiseeget.com
   - DOMAIN,reishus.de
   - DOMAIN,reitb.com
@@ -11909,7 +11913,6 @@ payload:
   - DOMAIN,statsinsight.com
   - DOMAIN,statsit.com
   - DOMAIN,statsmachine.com
-  - DOMAIN,statsmobi.com
   - DOMAIN,statsrely.com
   - DOMAIN,statssheet.com
   - DOMAIN,statsw.com
@@ -12350,8 +12353,6 @@ payload:
   - DOMAIN,theweatherspace.com
   - DOMAIN,thewebgemnetwork.com
   - DOMAIN,thewheelof.com
-  - DOMAIN,thewhizmarketing.com
-  - DOMAIN,thewhizproducts.com
   - DOMAIN,thewinesteward.com
   - DOMAIN,thewise.com
   - DOMAIN,thikraik.net
@@ -13646,7 +13647,6 @@ payload:
   - DOMAIN,wegetpaid.net
   - DOMAIN,wegotmedia.com
   - DOMAIN,weheartit.com
-  - DOMAIN,weizjzg.com
   - DOMAIN,wejibk.com.cn
   - DOMAIN,wel-wel-fie.com
   - DOMAIN,weliketofuckstrangers.com
@@ -13850,7 +13850,6 @@ payload:
   - DOMAIN,www-protection.com
   - DOMAIN,www-sina-cn-com.com
   - DOMAIN,www.0uk.net
-  - DOMAIN,www.111ol.com
   - DOMAIN,www.11599jgj.com
   - DOMAIN,www.1990tu.com
   - DOMAIN,www.3peaks.co.jp
@@ -14412,7 +14411,6 @@ payload:
   - DOMAIN,zangocash.com
   - DOMAIN,zanox-affiliate.de
   - DOMAIN,zanox.com
-  - DOMAIN,zanyx.club
   - DOMAIN,zaoyx.jrchiji.cn
   - DOMAIN,zap.buzz
   - DOMAIN,zaparena.com
