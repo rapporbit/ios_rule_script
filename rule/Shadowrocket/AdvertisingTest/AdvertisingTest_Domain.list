@@ -1,14 +1,14 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-08-16 02:06:46
+# UPDATED: 2021-08-16 10:22:31
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN: 15170
 # DOMAIN-KEYWORD: 88
-# DOMAIN-SUFFIX: 78066
+# DOMAIN-SUFFIX: 78069
 # IP-CIDR: 1
 # URL-REGEX: 302
-# TOTAL: 93627
+# TOTAL: 93630
 0001.2waky.com
 000lk3v.wcomhost.com
 000lkub.rcomhost.com
@@ -24504,6 +24504,7 @@ zzz.clickbank.net
 .alicmayuns.com
 .alicpd.top
 .alidongxi.com
+.alienateaboard.com
 .aliencesuffe.top
 .aliexpress-internet.ru
 .aliexpresskupit.ru
@@ -25895,7 +25896,6 @@ zzz.clickbank.net
 .api.mobileanjian.com
 .api.mobitech-content.xyz
 .api.mobojoy.baidu.com
-.api.mobshark.net
 .api.mp.uc.cn
 .api.muneris.io
 .api.myendpoint.io
@@ -38543,7 +38543,6 @@ zzz.clickbank.net
 .dsnextgen.com
 .dsnr-affiliates.com
 .dsnrkqbeqbyu.com
-.dsp-adcreative.mobshark.net
 .dsp-click.youdao.com
 .dsp-impr.youdao.com
 .dsp-impr2.youdao.com
@@ -38567,7 +38566,6 @@ zzz.clickbank.net
 .dsply.com
 .dspmnt.autohome.com.cn
 .dspmulti.com
-.dsptrack.mobshark.net
 .dssdr.top
 .dsstrk.com
 .dstik9906m659.cloudfront.net
@@ -41325,6 +41323,7 @@ zzz.clickbank.net
 .exclusivepussy.com
 .excpm.com
 .excuseearthquake.com
+.excuseparen.com
 .exd4.destinia.com.au
 .exdmarketing.smu.edu.sg
 .exdynsrv.com
@@ -42541,6 +42540,7 @@ zzz.clickbank.net
 .fjrkn.com
 .fjs043.cn
 .fjs056.cn
+.fjshxjs.cn
 .fjshxzyyxgs.cn
 .fjsjsj.com
 .fjtzjy.com
@@ -48424,6 +48424,7 @@ zzz.clickbank.net
 .identifyluckyexactly.com
 .ideoclick.com
 .idevaffiliate.com
+.idevoa.cn
 .idg1.idgarages.com
 .idgdmgroup.com.cn
 .idhvbfj.pro
@@ -49881,6 +49882,7 @@ zzz.clickbank.net
 .intentanalysis.com
 .intentarget.com
 .intenthq.com
+.intentionscommunity.com
 .intentiq.com
 .intentlyrecreate.com
 .intentmedia.net
@@ -59805,6 +59807,7 @@ zzz.clickbank.net
 .mobee.xyz
 .mobee2.jp
 .mobfactory.info
+.mobflow21.com
 .mobfox.com
 .mobgi.com
 .mobgold.com
@@ -59908,6 +59911,7 @@ zzz.clickbank.net
 .mobred.net
 .mobrevflwms.com
 .mobscan.info
+.mobshark.net
 .mobstrks.com
 .mobsuitem.com
 .mobtop.az
@@ -82883,7 +82887,6 @@ zzz.clickbank.net
 .track.miro.com
 .track.mob193.com
 .track.mobile-bt.com
-.track.mobshark.net
 .track.molitv.cn
 .track.mopo.de
 .track.msadcenter.afgz.com

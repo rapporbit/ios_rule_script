@@ -1,14 +1,14 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-08-16 02:06:46
+# UPDATED: 2021-08-16 10:22:31
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN: 15170
 # DOMAIN-KEYWORD: 88
-# DOMAIN-SUFFIX: 78066
+# DOMAIN-SUFFIX: 78069
 # IP-CIDR: 1
 # URL-REGEX: 302
-# TOTAL: 93627
+# TOTAL: 93630
 DOMAIN-KEYWORD,112wan
 DOMAIN-KEYWORD,789htbet
 DOMAIN-KEYWORD,adashx
@@ -524,7 +524,7 @@ URL-REGEX,^https?:\/\/imeclient\.openspeech\.cn\/adservice\/
 URL-REGEX,^https?:\/\/img-ys011\.didistatic\.com\/static\/ad_oss\/image-\d{4}-\d{4}\/
 URL-REGEX,^https?:\/\/img01\.10101111cdn\.com\/adpos\/
 URL-REGEX,^https?:\/\/img\.jiemian\.com\/ads\/
-URL-REGEX,^https?:\/\/img\.meituan\.net\/(adunion|display|midas)\/.+?\.(gif|jpg|jpg\.webp)$
+URL-REGEX,^https?:\/\/img\.meituan\.net\/(adunion|display|dpmobile|midas)\/\w+\.(gif|jpg|jpg\.webp)$
 URL-REGEX,^https?:\/\/img\w\.g\.pptv\.com
 URL-REGEX,^https?:\/\/impservice.+?youdao.com
 URL-REGEX,^https?:\/\/ios\.lantouzi\.com\/api\/startpage
@@ -568,11 +568,11 @@ URL-REGEX,^https?:\/\/oimage([a-z])([0-9])\.ydstatic\.com\/.+?adpublish
 URL-REGEX,^https?:\/\/open\.qyer\.com\/qyer\/config\/get
 URL-REGEX,^https?:\/\/open\.qyer\.com\/qyer\/startpage\/
 URL-REGEX,^https?:\/\/overseas\.weico\.cc\/portal\.php\?a=get_coopen_ads
+URL-REGEX,^https?:\/\/p[^124](c)?\.music\.126\.net\/\w+==\/10995\d{13}\.jpg$
 URL-REGEX,^https?:\/\/p\.du\.163\.com\/ad\/
 URL-REGEX,^https?:\/\/p\.kuaidi100\.com\/mobile\/(mainapi|mobileapi)\.do
 URL-REGEX,^https?:\/\/p\d\.meituan\.net\/movie\/\w+\.jpg\?may_covertWebp
 URL-REGEX,^https?:\/\/p\d\.meituan\.net\/wmbanner\/[A-Za-z0-9]+\.jpg
-URL-REGEX,^https?:\/\/p\d\.music\.126\.net\/\w+==\/\d+\.jpg$
 URL-REGEX,^https?:\/\/pan\.baidu\.com\/act\/api\/activityentry
 URL-REGEX,^https?:\/\/pan\.baidu\.com\/rest\/2\.0\/pcs\/adx
 URL-REGEX,^https?:\/\/paopao\w?.qiyipic.com

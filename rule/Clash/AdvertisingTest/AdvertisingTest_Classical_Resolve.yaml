@@ -1,13 +1,13 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-08-16 02:06:45
+# UPDATED: 2021-08-16 10:22:30
 # DOMAIN: 15170
 # DOMAIN-KEYWORD: 88
-# DOMAIN-SUFFIX: 78066
+# DOMAIN-SUFFIX: 78069
 # IP-CIDR: 244
 # IP-CIDR6: 1
-# TOTAL: 93569
+# TOTAL: 93572
 payload:
   - DOMAIN,0001.2waky.com
   - DOMAIN,000lk3v.wcomhost.com
@@ -24504,6 +24504,7 @@ payload:
   - DOMAIN-SUFFIX,alicmayuns.com
   - DOMAIN-SUFFIX,alicpd.top
   - DOMAIN-SUFFIX,alidongxi.com
+  - DOMAIN-SUFFIX,alienateaboard.com
   - DOMAIN-SUFFIX,aliencesuffe.top
   - DOMAIN-SUFFIX,aliexpress-internet.ru
   - DOMAIN-SUFFIX,aliexpresskupit.ru
@@ -25895,7 +25896,6 @@ payload:
   - DOMAIN-SUFFIX,api.mobileanjian.com
   - DOMAIN-SUFFIX,api.mobitech-content.xyz
   - DOMAIN-SUFFIX,api.mobojoy.baidu.com
-  - DOMAIN-SUFFIX,api.mobshark.net
   - DOMAIN-SUFFIX,api.mp.uc.cn
   - DOMAIN-SUFFIX,api.muneris.io
   - DOMAIN-SUFFIX,api.myendpoint.io
@@ -38543,7 +38543,6 @@ payload:
   - DOMAIN-SUFFIX,dsnextgen.com
   - DOMAIN-SUFFIX,dsnr-affiliates.com
   - DOMAIN-SUFFIX,dsnrkqbeqbyu.com
-  - DOMAIN-SUFFIX,dsp-adcreative.mobshark.net
   - DOMAIN-SUFFIX,dsp-click.youdao.com
   - DOMAIN-SUFFIX,dsp-impr.youdao.com
   - DOMAIN-SUFFIX,dsp-impr2.youdao.com
@@ -38567,7 +38566,6 @@ payload:
   - DOMAIN-SUFFIX,dsply.com
   - DOMAIN-SUFFIX,dspmnt.autohome.com.cn
   - DOMAIN-SUFFIX,dspmulti.com
-  - DOMAIN-SUFFIX,dsptrack.mobshark.net
   - DOMAIN-SUFFIX,dssdr.top
   - DOMAIN-SUFFIX,dsstrk.com
   - DOMAIN-SUFFIX,dstik9906m659.cloudfront.net
@@ -41325,6 +41323,7 @@ payload:
   - DOMAIN-SUFFIX,exclusivepussy.com
   - DOMAIN-SUFFIX,excpm.com
   - DOMAIN-SUFFIX,excuseearthquake.com
+  - DOMAIN-SUFFIX,excuseparen.com
   - DOMAIN-SUFFIX,exd4.destinia.com.au
   - DOMAIN-SUFFIX,exdmarketing.smu.edu.sg
   - DOMAIN-SUFFIX,exdynsrv.com
@@ -42541,6 +42540,7 @@ payload:
   - DOMAIN-SUFFIX,fjrkn.com
   - DOMAIN-SUFFIX,fjs043.cn
   - DOMAIN-SUFFIX,fjs056.cn
+  - DOMAIN-SUFFIX,fjshxjs.cn
   - DOMAIN-SUFFIX,fjshxzyyxgs.cn
   - DOMAIN-SUFFIX,fjsjsj.com
   - DOMAIN-SUFFIX,fjtzjy.com
@@ -48424,6 +48424,7 @@ payload:
   - DOMAIN-SUFFIX,identifyluckyexactly.com
   - DOMAIN-SUFFIX,ideoclick.com
   - DOMAIN-SUFFIX,idevaffiliate.com
+  - DOMAIN-SUFFIX,idevoa.cn
   - DOMAIN-SUFFIX,idg1.idgarages.com
   - DOMAIN-SUFFIX,idgdmgroup.com.cn
   - DOMAIN-SUFFIX,idhvbfj.pro
@@ -49881,6 +49882,7 @@ payload:
   - DOMAIN-SUFFIX,intentanalysis.com
   - DOMAIN-SUFFIX,intentarget.com
   - DOMAIN-SUFFIX,intenthq.com
+  - DOMAIN-SUFFIX,intentionscommunity.com
   - DOMAIN-SUFFIX,intentiq.com
   - DOMAIN-SUFFIX,intentlyrecreate.com
   - DOMAIN-SUFFIX,intentmedia.net
@@ -59805,6 +59807,7 @@ payload:
   - DOMAIN-SUFFIX,mobee.xyz
   - DOMAIN-SUFFIX,mobee2.jp
   - DOMAIN-SUFFIX,mobfactory.info
+  - DOMAIN-SUFFIX,mobflow21.com
   - DOMAIN-SUFFIX,mobfox.com
   - DOMAIN-SUFFIX,mobgi.com
   - DOMAIN-SUFFIX,mobgold.com
@@ -59908,6 +59911,7 @@ payload:
   - DOMAIN-SUFFIX,mobred.net
   - DOMAIN-SUFFIX,mobrevflwms.com
   - DOMAIN-SUFFIX,mobscan.info
+  - DOMAIN-SUFFIX,mobshark.net
   - DOMAIN-SUFFIX,mobstrks.com
   - DOMAIN-SUFFIX,mobsuitem.com
   - DOMAIN-SUFFIX,mobtop.az
@@ -82883,7 +82887,6 @@ payload:
   - DOMAIN-SUFFIX,track.miro.com
   - DOMAIN-SUFFIX,track.mob193.com
   - DOMAIN-SUFFIX,track.mobile-bt.com
-  - DOMAIN-SUFFIX,track.mobshark.net
   - DOMAIN-SUFFIX,track.molitv.cn
   - DOMAIN-SUFFIX,track.mopo.de
   - DOMAIN-SUFFIX,track.msadcenter.afgz.com

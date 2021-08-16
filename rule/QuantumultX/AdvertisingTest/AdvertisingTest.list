@@ -1,13 +1,13 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-08-16 02:06:44
+# UPDATED: 2021-08-16 10:22:29
 # HOST: 15170
 # HOST-KEYWORD: 88
-# HOST-SUFFIX: 78066
+# HOST-SUFFIX: 78069
 # IP-CIDR: 244
 # IP6-CIDR: 1
-# TOTAL: 93569
+# TOTAL: 93572
 HOST,0001.2waky.com,AdvertisingTest
 HOST,000lk3v.wcomhost.com,AdvertisingTest
 HOST,000lkub.rcomhost.com,AdvertisingTest
@@ -24503,6 +24503,7 @@ HOST-SUFFIX,alibestru.ru,AdvertisingTest
 HOST-SUFFIX,alicmayuns.com,AdvertisingTest
 HOST-SUFFIX,alicpd.top,AdvertisingTest
 HOST-SUFFIX,alidongxi.com,AdvertisingTest
+HOST-SUFFIX,alienateaboard.com,AdvertisingTest
 HOST-SUFFIX,aliencesuffe.top,AdvertisingTest
 HOST-SUFFIX,aliexpress-internet.ru,AdvertisingTest
 HOST-SUFFIX,aliexpresskupit.ru,AdvertisingTest
@@ -25894,7 +25895,6 @@ HOST-SUFFIX,api.mobeacon.mobisky.pl,AdvertisingTest
 HOST-SUFFIX,api.mobileanjian.com,AdvertisingTest
 HOST-SUFFIX,api.mobitech-content.xyz,AdvertisingTest
 HOST-SUFFIX,api.mobojoy.baidu.com,AdvertisingTest
-HOST-SUFFIX,api.mobshark.net,AdvertisingTest
 HOST-SUFFIX,api.mp.uc.cn,AdvertisingTest
 HOST-SUFFIX,api.muneris.io,AdvertisingTest
 HOST-SUFFIX,api.myendpoint.io,AdvertisingTest
@@ -38542,7 +38542,6 @@ HOST-SUFFIX,dsn-vgtrk.ru,AdvertisingTest
 HOST-SUFFIX,dsnextgen.com,AdvertisingTest
 HOST-SUFFIX,dsnr-affiliates.com,AdvertisingTest
 HOST-SUFFIX,dsnrkqbeqbyu.com,AdvertisingTest
-HOST-SUFFIX,dsp-adcreative.mobshark.net,AdvertisingTest
 HOST-SUFFIX,dsp-click.youdao.com,AdvertisingTest
 HOST-SUFFIX,dsp-impr.youdao.com,AdvertisingTest
 HOST-SUFFIX,dsp-impr2.youdao.com,AdvertisingTest
@@ -38566,7 +38565,6 @@ HOST-SUFFIX,dspleastanci.site,AdvertisingTest
 HOST-SUFFIX,dsply.com,AdvertisingTest
 HOST-SUFFIX,dspmnt.autohome.com.cn,AdvertisingTest
 HOST-SUFFIX,dspmulti.com,AdvertisingTest
-HOST-SUFFIX,dsptrack.mobshark.net,AdvertisingTest
 HOST-SUFFIX,dssdr.top,AdvertisingTest
 HOST-SUFFIX,dsstrk.com,AdvertisingTest
 HOST-SUFFIX,dstik9906m659.cloudfront.net,AdvertisingTest
@@ -41324,6 +41322,7 @@ HOST-SUFFIX,exclusivegiftcards.com,AdvertisingTest
 HOST-SUFFIX,exclusivepussy.com,AdvertisingTest
 HOST-SUFFIX,excpm.com,AdvertisingTest
 HOST-SUFFIX,excuseearthquake.com,AdvertisingTest
+HOST-SUFFIX,excuseparen.com,AdvertisingTest
 HOST-SUFFIX,exd4.destinia.com.au,AdvertisingTest
 HOST-SUFFIX,exdmarketing.smu.edu.sg,AdvertisingTest
 HOST-SUFFIX,exdynsrv.com,AdvertisingTest
@@ -42540,6 +42539,7 @@ HOST-SUFFIX,fjqtyu.bethowen.ru,AdvertisingTest
 HOST-SUFFIX,fjrkn.com,AdvertisingTest
 HOST-SUFFIX,fjs043.cn,AdvertisingTest
 HOST-SUFFIX,fjs056.cn,AdvertisingTest
+HOST-SUFFIX,fjshxjs.cn,AdvertisingTest
 HOST-SUFFIX,fjshxzyyxgs.cn,AdvertisingTest
 HOST-SUFFIX,fjsjsj.com,AdvertisingTest
 HOST-SUFFIX,fjtzjy.com,AdvertisingTest
@@ -48423,6 +48423,7 @@ HOST-SUFFIX,identified.cn,AdvertisingTest
 HOST-SUFFIX,identifyluckyexactly.com,AdvertisingTest
 HOST-SUFFIX,ideoclick.com,AdvertisingTest
 HOST-SUFFIX,idevaffiliate.com,AdvertisingTest
+HOST-SUFFIX,idevoa.cn,AdvertisingTest
 HOST-SUFFIX,idg1.idgarages.com,AdvertisingTest
 HOST-SUFFIX,idgdmgroup.com.cn,AdvertisingTest
 HOST-SUFFIX,idhvbfj.pro,AdvertisingTest
@@ -49880,6 +49881,7 @@ HOST-SUFFIX,intent.cbsi.com,AdvertisingTest
 HOST-SUFFIX,intentanalysis.com,AdvertisingTest
 HOST-SUFFIX,intentarget.com,AdvertisingTest
 HOST-SUFFIX,intenthq.com,AdvertisingTest
+HOST-SUFFIX,intentionscommunity.com,AdvertisingTest
 HOST-SUFFIX,intentiq.com,AdvertisingTest
 HOST-SUFFIX,intentlyrecreate.com,AdvertisingTest
 HOST-SUFFIX,intentmedia.net,AdvertisingTest
@@ -59804,6 +59806,7 @@ HOST-SUFFIX,mobday.com,AdvertisingTest
 HOST-SUFFIX,mobee.xyz,AdvertisingTest
 HOST-SUFFIX,mobee2.jp,AdvertisingTest
 HOST-SUFFIX,mobfactory.info,AdvertisingTest
+HOST-SUFFIX,mobflow21.com,AdvertisingTest
 HOST-SUFFIX,mobfox.com,AdvertisingTest
 HOST-SUFFIX,mobgi.com,AdvertisingTest
 HOST-SUFFIX,mobgold.com,AdvertisingTest
@@ -59907,6 +59910,7 @@ HOST-SUFFIX,mobreach.com,AdvertisingTest
 HOST-SUFFIX,mobred.net,AdvertisingTest
 HOST-SUFFIX,mobrevflwms.com,AdvertisingTest
 HOST-SUFFIX,mobscan.info,AdvertisingTest
+HOST-SUFFIX,mobshark.net,AdvertisingTest
 HOST-SUFFIX,mobstrks.com,AdvertisingTest
 HOST-SUFFIX,mobsuitem.com,AdvertisingTest
 HOST-SUFFIX,mobtop.az,AdvertisingTest
@@ -82882,7 +82886,6 @@ HOST-SUFFIX,track.mindfieldresources.com,AdvertisingTest
 HOST-SUFFIX,track.miro.com,AdvertisingTest
 HOST-SUFFIX,track.mob193.com,AdvertisingTest
 HOST-SUFFIX,track.mobile-bt.com,AdvertisingTest
-HOST-SUFFIX,track.mobshark.net,AdvertisingTest
 HOST-SUFFIX,track.molitv.cn,AdvertisingTest
 HOST-SUFFIX,track.mopo.de,AdvertisingTest
 HOST-SUFFIX,track.msadcenter.afgz.com,AdvertisingTest
