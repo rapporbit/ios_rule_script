@@ -1,13 +1,13 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-08-16 10:22:30
-# DOMAIN: 15170
+# UPDATED: 2021-08-17 02:07:44
+# DOMAIN: 15176
 # DOMAIN-KEYWORD: 88
 # DOMAIN-SUFFIX: 78069
 # IP-CIDR: 244
 # IP-CIDR6: 1
-# TOTAL: 93572
+# TOTAL: 93578
 payload:
   - DOMAIN,0001.2waky.com
   - DOMAIN,000lk3v.wcomhost.com
@@ -354,10 +354,12 @@ payload:
   - DOMAIN,7metasearch.com
   - DOMAIN,7minuteworkout.com
   - DOMAIN,7p.news-subscribe.com
+  - DOMAIN,7power.com.cn
   - DOMAIN,803.stats.misstrends.com
   - DOMAIN,80579.net
   - DOMAIN,81182479.com
   - DOMAIN,833wellsell.com
+  - DOMAIN,85102152.com
   - DOMAIN,86240336d5604d7.com
   - DOMAIN,86402d8a7f2aa0.com
   - DOMAIN,879.stats.misstrends.com
@@ -1915,7 +1917,6 @@ payload:
   - DOMAIN,asdegypt.com
   - DOMAIN,asdkd.tutuapp.com
   - DOMAIN,aseanlegaltech.com
-  - DOMAIN,aseanstore.com
   - DOMAIN,asenytuhlhwrwz.com
   - DOMAIN,aservitel.com
   - DOMAIN,asgarddlc.sharezips.net
@@ -4352,6 +4353,7 @@ payload:
   - DOMAIN,dkdwv3lcby5zi.cloudfront.net
   - DOMAIN,dkj2m377b0yzw.cloudfront.net
   - DOMAIN,dkmdklhu.com
+  - DOMAIN,dl.bzgthg.com
   - DOMAIN,dl.cr173.com
   - DOMAIN,dl.faedmr.com
   - DOMAIN,dl.gameplaylabs.com
@@ -5147,6 +5149,7 @@ payload:
   - DOMAIN,extrasdownload.com
   - DOMAIN,extrasgalore.com
   - DOMAIN,exts77apk.com
+  - DOMAIN,eyemedias.com
   - DOMAIN,eytancohen.com
   - DOMAIN,ezeeplay.com
   - DOMAIN,ezeoma.agrillcs.com
@@ -5652,6 +5655,7 @@ payload:
   - DOMAIN,free-psncodegenerator.com
   - DOMAIN,free-serv.com
   - DOMAIN,free-social-buttons.xyz
+  - DOMAIN,free-stats.com
   - DOMAIN,free-stats.i8.com
   - DOMAIN,free-steam-code.com
   - DOMAIN,free-steam-games.com
@@ -6008,6 +6012,7 @@ payload:
   - DOMAIN,gamesunite.net
   - DOMAIN,gametofaster.com
   - DOMAIN,gametrainersave.com
+  - DOMAIN,gamevance.com
   - DOMAIN,gamexcode.com
   - DOMAIN,gamextensions.net
   - DOMAIN,gamezdownloadfree.com
@@ -7283,6 +7288,7 @@ payload:
   - DOMAIN,inf.dragon-cityhack.com
   - DOMAIN,infektsii.com
   - DOMAIN,infinitcenter.com
+  - DOMAIN,infinite-hacks.com
   - DOMAIN,infiniti-bd.com
   - DOMAIN,infinitydownline.com
   - DOMAIN,info-web.000webhostapp.com
@@ -7523,7 +7529,6 @@ payload:
   - DOMAIN,jaminjubilee.com
   - DOMAIN,jammulinks.com
   - DOMAIN,jamsmsltd.000webhostapp.com
-  - DOMAIN,janagames.com
   - DOMAIN,janeaustenjoy.com
   - DOMAIN,janedoemain.com
   - DOMAIN,jankessinger.com
@@ -8211,6 +8216,7 @@ payload:
   - DOMAIN,libergaming.com
   - DOMAIN,libertybilisim.com
   - DOMAIN,library.cowley.edu
+  - DOMAIN,libreape.com
   - DOMAIN,libtechresource.com
   - DOMAIN,license.bluesoleil.com
   - DOMAIN,license.piriform.com
@@ -8234,7 +8240,6 @@ payload:
   - DOMAIN,lignerich.com
   - DOMAIN,liiaannwhite.com
   - DOMAIN,lijapan.com
-  - DOMAIN,likefreehack.com
   - DOMAIN,likelbs.dinoyy.xyz
   - DOMAIN,likeventy.com
   - DOMAIN,lilian.redirectme.net
@@ -9111,7 +9116,6 @@ payload:
   - DOMAIN,mondoads.s3.amazonaws.com
   - DOMAIN,mondoperaio.net
   - DOMAIN,monetizemore.com
-  - DOMAIN,money.payadded.com
   - DOMAIN,money4ads.com
   - DOMAIN,moneyexpert.com
   - DOMAIN,moneymakingnews.xyz
@@ -10171,6 +10175,7 @@ payload:
   - DOMAIN,payusatax.com
   - DOMAIN,pb-assets.tedcdn.com
   - DOMAIN,pbg2cs01.doteasy.com
+  - DOMAIN,pc-pointers.com
   - DOMAIN,pc.mobad.ijinshan.com
   - DOMAIN,pc.sborscweuu.cn
   - DOMAIN,pc1restore.com
@@ -11178,6 +11183,7 @@ payload:
   - DOMAIN,roadrunnerhomebuyers.com
   - DOMAIN,roadtrip.unbounce.com
   - DOMAIN,roamtify.com
+  - DOMAIN,roaneink.com
   - DOMAIN,roaringcash.com
   - DOMAIN,robdeprop.com
   - DOMAIN,robertfrumento.com
@@ -12065,7 +12071,6 @@ payload:
   - DOMAIN,smc.silvercash.com
   - DOMAIN,smd.premiumpromotions.com
   - DOMAIN,smdrsdcollegepathankot.com
-  - DOMAIN,smeqatalyst.com
   - DOMAIN,smi-engineering.com
   - DOMAIN,smi2net.dev.smi2.net
   - DOMAIN,smi2ru.ivan.dev.smi2.net
@@ -13686,6 +13691,7 @@ payload:
   - DOMAIN,unisyschannel.com
   - DOMAIN,unit8.test2.itembridge.com
   - DOMAIN,unitechmetalindoperkasa.com
+  - DOMAIN,unitedagricare.com
   - DOMAIN,unitedkingdomamerica.com
   - DOMAIN,unitedsol.net
   - DOMAIN,unitedtraders.com
