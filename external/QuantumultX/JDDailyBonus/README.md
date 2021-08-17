@@ -12,7 +12,7 @@
 
 | 类型 | 数量(条) |
 | ---- | ---- |
-| mitm | 2 |
+| mitm | 3 |
 | script-request-body | 1 |
 ## 配置说明
 
