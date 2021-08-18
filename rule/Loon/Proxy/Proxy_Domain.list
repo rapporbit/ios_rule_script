@@ -1,14 +1,14 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-08-13 16:08:28
+# UPDATED: 2021-08-19 02:08:06
 # DOMAIN: 46
-# DOMAIN-SUFFIX: 33472
+# DOMAIN-SUFFIX: 33473
 # USER-AGENT: 11
 # DOMAIN-KEYWORD: 29
 # IP-CIDR: 88
 # IP-CIDR6: 3
-# TOTAL: 33649
+# TOTAL: 33650
 amp.akamaized.net
 apple.com.akadns.net
 assets-priconne-redive-us.akamaized.net
@@ -7035,6 +7035,7 @@ www-cdn.icloud.com.akadns.net
 .chadsherrell.com
 .chaikair.cc
 .chain.net
+.chalungu.cn
 .chamirris.com
 .championshipseriesleague.com
 .chan.sankakucomplex.com
