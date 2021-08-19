@@ -1,15 +1,15 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-08-16 02:06:44
+# UPDATED: 2021-08-19 10:51:48
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
-# DOMAIN: 14539
+# DOMAIN: 14532
 # DOMAIN-KEYWORD: 28
 # DOMAIN-SUFFIX: 13222
 # IP-CIDR: 158
 # IP-CIDR6: 1
 # URL-REGEX: 296
-# TOTAL: 28244
+# TOTAL: 28237
 0.up.qingdaonews.com
 00-gov.cn
 0024aadd.com
@@ -670,7 +670,6 @@ aa.voice2page.com
 aa24h.com
 aa53df329975c325.com
 aa808.com
-aaadealstoday.com
 aabmxezph.com
 aaddcount.com
 aaddss.tohomh.com
@@ -1567,7 +1566,6 @@ advmd.com
 advmedia.io
 advmedialtd.com
 advnetwork.net
-advon.net
 advpoints.com
 advredir.com
 advsense.info
@@ -2326,6 +2324,7 @@ ayads.co
 ayboll.com
 ayc0zsm69431gfebd.info
 ayc0zsm69431gfebd.xyz
+ayidaye.m.zwdu.com
 az693360.vo.msecnd.net
 azadify.com
 azads.com
@@ -2407,7 +2406,6 @@ badsamps.com
 badshades.com
 badshores.com
 badslads.com
-badslopes.com
 badstairs.com
 badtopwitch.work
 bagbeam.com
@@ -2725,7 +2723,6 @@ binlayer.com
 binlayer.de
 bionicclick.com
 biosda.com
-bipwrite.com
 biquge22.com
 birdmedia.com
 biskerando.com
@@ -3071,6 +3068,7 @@ c3metrics.com
 c3tag.com
 c4tracking01.com
 c63d72a4022.com
+c73.microfog.me
 c753738.r38.cf2.rackcdn.com
 c75b9ac5103e5d125b8.com
 c8.net.ua
@@ -3193,7 +3191,6 @@ cba-fed-igh.com
 cbclickbank.com
 cbjg.cqnews.net
 cbleads.com
-cbn.tbn.ru
 cbtrk.net
 cc-dt.com
 cc3.ifeng.com
@@ -5126,6 +5123,7 @@ eredexpendin.com
 ereportz.com
 eresmas.net
 ergoledo.com
+ergs4.com
 erificyggw.com
 erniphiq.com
 ero-advertising.com
@@ -5276,6 +5274,7 @@ extreme-ip-lookup.com
 extremereach.io
 extyoasigus.com
 eyein.com
+eyemedias.com
 eyere.com
 eyeviewads.com
 eyewand.cn
@@ -5327,6 +5326,7 @@ faktor.io
 falconsafe.com.sg
 falkag.net
 fallbacks.carbonads.com
+fallingfalcon.com
 falseframe.com
 familiarrod.com
 fandelcot.com
@@ -5976,6 +5976,7 @@ godhat.com
 godspeaks.net
 goember.com
 goemotify.com
+gogetgorgeous.com
 gogoplexer.com
 gogvo.com
 gohappy.com.tw
@@ -6148,6 +6149,7 @@ gzbywl.com
 gzcl999.cn
 gzcl999.com
 gzjtfzs.cn
+gzmcjt.cn
 gzqczl.cn
 gzsadlmy.cn
 h-bid.com
@@ -6593,7 +6595,6 @@ idgdmgroup.com.cn
 idio.co
 idntfy.ru
 idolbucks.com
-idot.cz
 idownloadgalore.com
 idreammedia.com
 idtargeting.com
@@ -6933,7 +6934,6 @@ ipraccessie.info
 iprefer.com.tw
 ipro.com
 iproanalytics.com
-iprofit.cc
 ipromote.com
 iprotrk.com
 ipsowrite.com
@@ -6959,7 +6959,6 @@ isparkmedia.com
 issuecdn.baidupcs.com
 ist-track.com
 istats.nl
-istlandoll.com
 istrack.com
 italianadirectory.com
 itcfnfi.com
@@ -7283,6 +7282,7 @@ kickass.vc
 kids-fashion.dk
 kieden.com
 kiees.com
+kikuzip.com
 killerwebstats.com
 kilometrix.de
 king-oak.cn
@@ -7680,7 +7680,6 @@ log.fanxing.kugou.com
 log.go.com
 log.kajicam.com
 log.kuaigeng.com
-log.kukuplay.com
 log.liusha.info
 log.qvb.qcloud.com
 log.sina.cn
@@ -7880,7 +7879,6 @@ m.sbief.com
 m.sdaih.com
 m.sfscooter.cn
 m.shilian168.cn
-m.snay.top
 m.szmt02.cn
 m.szmt18.cn
 m.tcenn.com
@@ -8165,6 +8163,7 @@ meme.smhlmao.com
 memecounter.com
 memo.co
 menepe.com
+menghuanzhilv.cn
 mengis-linden.org
 mentad.com
 mentalks.ru
@@ -8207,6 +8206,7 @@ mgplatform.com
 mgzgmyzz.com
 mh9dskj8jg.com
 mhbdezpwdq.com
+mhogb.space
 mhwozc.cn
 mi1.cc
 miadates.com
@@ -8872,7 +8872,6 @@ nonsi.csheaven.com
 nonstoppartner.de
 noobgirls.com
 noowho.com
-nord-raum.com
 nordiccountry.cz
 nordicresearch.com
 norentisol.com
@@ -9635,7 +9634,6 @@ platformpanda.com
 plaxo.com
 play.estream.to
 play.estream.xyz
-play.istlandoll.com
 play.play.estream.to
 play.play.estream.xyz
 play.tercabilis.info
@@ -10183,7 +10181,6 @@ putrr12.com
 putrr14.com
 putrr15.com
 putrr16.com
-putrr19.com
 putrr20.com
 putrr7.com
 putrr8.com
@@ -10542,7 +10539,6 @@ resolvethem.com
 reson8.com
 resonance.pk
 resonantbrush.com
-resource.m0lxcdn.kukuplay.com
 responsetap.com
 restions-planted.com
 resulticks.com
@@ -12326,7 +12322,6 @@ thecounter.com
 theechosystem.com
 theersoa.net
 thefifthera.com
-thefreehitcounter.com
 thefxarchive.com
 theirsvendor.com
 thekat.nl
@@ -12343,6 +12338,7 @@ therubiqube.com
 thesearchagency.net
 theslingshot.com
 thesocialsexnetwork.com
+thespecialsearch.com
 thestat.net
 thetraderinpajamas.com
 theverlalinglac.info
@@ -13066,7 +13062,6 @@ uol.com.br
 up-dates.to
 up-rank.com
 up.mykings.pw
-upads.info
 upage.imtt.qq.com
 upapi.net
 updat120.clanteam.com
@@ -13136,6 +13131,7 @@ users173.lolipop.jp
 userzoom.com
 usocial.pro
 usp1.baidu.com
+usswrite.com
 usuarios-online.com
 usuf.candukang.cn
 usurv.com
@@ -13927,7 +13923,6 @@ www.guanggao369.cn
 www.guanyitanggy.com
 www.hausnet.ru
 www.hitekshop.vn
-www.hjaoopoa.top
 www.hostcontent.live
 www.hostingcloud.party
 www.hostingcloud.racing
@@ -13947,7 +13942,6 @@ www.jshonghuadq.com
 www.kanjiantu.com
 www.kanshuapp.com
 www.kcta.or.kr
-www.kj1p.com
 www.kjbbc.net
 www.kngcjx.com
 www.kunjia.org
@@ -14221,7 +14215,6 @@ xxxmov.site
 xxxmyself.com
 xxxoh.com
 xxxvipporno.com
-xxxwebtraffic.com
 xy.nullrefexcep.com
 xyoss.g.com.cn
 xywdvhd.com
@@ -14381,6 +14374,7 @@ yunzuowen.com
 yupfiles.net
 yuppads.com
 yurivideo.com
+yurvyhtp.com
 yuu360.com
 yvmads.com
 yvoria.com
@@ -14474,7 +14468,6 @@ zim-zim-zam.com
 zinhavnpak.com
 zinrora.pw
 zioe.com.cn
-ziphentai.com
 ziphoumt.net
 zipstat.dk
 zirve100.com
