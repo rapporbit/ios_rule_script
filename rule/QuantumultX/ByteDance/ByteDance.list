@@ -5,6 +5,10 @@
 # HOST-SUFFIX: 251
 # IP-CIDR: 1
 # TOTAL: 252
+HOST-SUFFIX,zijieapi.com,ByteDance
+HOST-SUFFIX,bytemastatic,ByteDance
+HOST-SUFFIX,bytegecko,ByteDance
+HOST-SUFFIX,byte-gslb,ByteDance
 HOST-SUFFIX,2333333333333.com,ByteDance
 HOST-SUFFIX,365yg.com,ByteDance
 HOST-SUFFIX,activitybyte.com,ByteDance
