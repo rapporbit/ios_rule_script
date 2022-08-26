@@ -1,0 +1,9 @@
+# > F1 TV
+HOST,d2n9h2wits23hf.cloudfront.net,GMedia
+HOST,f1prodlive.akamaized.net,GMedia
+HOST,mobile-collector.newrelic.com,GMedia
+HOST-SUFFIX,bitmovin.com,GMedia
+HOST-SUFFIX,f1esports.com,GMedia
+HOST-SUFFIX,f1manager.com,GMedia
+HOST-SUFFIX,f1play.com,GMedia
+HOST-SUFFIX,formula1.com,GMedia
