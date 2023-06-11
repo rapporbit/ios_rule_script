@@ -1,0 +1,81 @@
+
+# NAME: 7 plus
+HOST,7plus.com.au
+HOST,npc-live-sevennetwork.akamaized.net
+HOST,7plus-sevennetwork.akamaized.net
+HOST,seven.demdex.net
+HOST-SUFFIX,cdn.7livecloud.io
+HOST-KEYWORD,cen7ausw1live102
+
+# NAME: 9 now
+HOST-KEYWORD,9now
+HOST,nine.com.au
+HOST,9now.com.au
+HOST,edge.api.brightcove.com
+HOST,p-9now.akamaized.net
+HOST,9now-livestreams.akamaized.net
+HOST-SUFFIX,9cdn.net
+HOST-SUFFIX,9nation.com.au
+HOST-SUFFIX,9news.com.au
+HOST-SUFFIX,9now.com.au
+HOST-SUFFIX,freeviewplus.net.au
+HOST-SUFFIX,mi9.com.au
+HOST-SUFFIX,mi9cdn.com
+HOST-SUFFIX,nine.com.au
+HOST-SUFFIX,nineentertainment.com.au
+HOST-SUFFIX,nineentertainmentco.com.au
+HOST-SUFFIX,ninemediaroom.com.au
+HOST-SUFFIX,ninemsn.com.au
+HOST-SUFFIX,static9.net.au
+HOST-SUFFIX,yourtv.com.au
+
+# NAME: 10 play
+HOST-SUFFIX,10play.com.au
+HOST-SUFFIX,global.ssl.fastly.net
+HOST-SUFFIX,airspace-cdn.cbsviedo.com
+HOST,net10-livestream-keys.play.cbsi.video
+HOST,net10-livestream.play.cbsi.video
+HOST,d25m2gzplgnf0.cloudfront.net
+
+# NAME: ABC
+HOST,abc.net.au
+HOST,abc-iview-mediapackagestreams-2.akamaized.net
+
+# NAME: SBS
+HOST-SUFFIX,sbsod.com
+HOST,sbs.com.au
+HOST,videocdn-sbs.akamaized.net
+HOST,sbsvoddai-vh.akamaihd.net
+HOST,sbsvodns-vh.akamaihd.net
+HOST,sbs-live-dai.akamaized.net
+HOST,sbs-live.akamaized.net
+HOST,sbs-live-dai.akamaized.net
+
+# NAME: Stan
+HOST,streamcoimg-a.akamaihd.net
+HOST-SUFFIX,stan.com.au
+HOST-SUFFIX,stan.video
+HOST-SUFFIX,tan.com.au
+HOST-KEYWORD,stan
+HOST,live01-stan.akamaized.net
+HOST,live02-stan.akamaized.net
+
+# NAME: Optus
+HOST-SUFFIX,optus.com.au
+HOST-SUFFIX,optusdigital.com
+HOST-SUFFIX,optusnet.com.au
+HOST-SUFFIX,optussport.tv
+HOST-KEYWORD,csm-e-optus
+HOST-KEYWORD,csm-e-ceoptaase
+HOST-KEYWORD,drm-widevine-licensing.axprod.net
+HOST-KEYWORD,optus
+HOST,vcms-storage-stack-prod-mediafilestorage-odfxya91bk73.s3.amazonaws
+HOST-SUFFIX,d3rj5p7u4c4icq.cloudfront.net
+HOST-SUFFIX,d21xmla0sqnlu7.cloudfront.net
+HOST-SUFFIX,d27xxe7juh1us6.cloudfront.net
+HOST-SUFFIX,d2nrmg3scmhoaf.cloudfront.net
+
+# NAME: Others
+HOST-SUFFIX,com.au
+HOST-SUFFIX,au
+HOST-SUFFIX,mjh.nz
